@@ -1,0 +1,52 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "8526DC41"
+decided: "1985-10-01"
+citations: ["77 N.C. App. 97"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge BECTON concurs in the result.", "Judge Webb dissents."]
+parties: ["ELIZABETH C. LESSARD, Individually and as Administratrix of the Estate of DENISE RENEE LESSARD v. LOUIS RAYMOND LESSARD"]
+source_url: "https://static.case.law/nc-app/77/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8520625
+cites_cases: ["126 S.E. 2d 597", "186 S.E. 2d 897", "219 S.E. 2d 220", "257 N.C. 486", "269 S.E. 2d 137", "280 N.C. 513", "281 N.C. 516", "288 N.C. 506", "301 N.C. 68", "316 S.E. 2d 96", "68 N.C. App. 760"]
+---
+
+# Lessard v. Lessard
+
+## Majority (MARTIN, Judge.)
+
+MARTIN, Judge.
+The sole issue on appeal is whether the trial court erred in granting summary judgment in favor of defendant. Because the record discloses the existence of genuine issues of material fact, we hold that summary judgment was improvidently granted.
+G.S. 1A, Rule 56(c) provides that summary judgment will be granted “if the pleadings, depositions, answers to interrogatories, and admissions in file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that any party is entitled to judgment as a matter of law.” The rule authorizes the court to determine whether a genuine issue of fact exists, but does not authorize the court to resolve an issue of fact. Vassey v. Burch, 301 N.C. 68, 269 S.E. 2d 137 (1980). The party moving for summary judgment has the burden of showing the lack of any triable issue of fact; his papers are carefully scrutinized and those of the non-movant are indulgently regarded. Koontz v. City of Winston-Salem, 280 N.C. 513, 186 S.E. 2d 897, reh’g denied, 281 N.C. 516 (1972). If the evidentiary materials filed by the parties disclose the existence of a genuine issue of material fact, summary judgment must be denied.
+The provisions of G.S. 31A-2 pertinent to this case are as follows:
+Any parent who has wilfully abandoned the care and maintenance of his or her child shall lose all right to intestate succession in any part of the child’s estate and all right to administer the estate of the child, except—
+(2) Where a parent has been deprived of the custody of his or her child under an order of a court of competent jurisdiction and the parent has substantially complied with all orders of the court requiring contribution to the support of the child.
+The proceeds of a settlement for wrongful death of a child are subject to the provisions of G.S. 31A-2 even though such proceeds are not assets of the estate of the deceased child. Williford v. Williford, 288 N.C. 506, 219 S.E. 2d 220 (1975). In order to establish that he is entitled to summary judgment in his favor, then, the burden is upon the defendant to show that no triable issue of fact exists and that, as a matter of law, he did not abandon Denise Renee Lessard, or failing in this, that, as a matter of law, he substantially complied with all court orders for her support.
+The first question for our determination is whether defendant carried his burden of showing no triable issue of fact as to his alleged abandonment of Denise Renee Lessard and of establishing, as a matter of law, that he did not abandon her. In her verified complaint, plaintiff alleged that defendant last visited his daughter prior to 1977, that he did not send cards or gifts to her on her birthday or at Christmas and did not contact her by telephone or mail. Plaintiff also alleged that defendant had made no payments for the support of his daughter during the last 9 months of her life and told plaintiff that he would make no more payments. By affidavit, plaintiff asserted that she had requested defendant to allow the child “to come to stay with him for a while” due to a threat on her life, and that defendant had never replied. Defendant, in his verified answer, asserted that he visited with both of his children on two occasions in both 1977 and 1978 and that he bought them gifts and purchased clothing for them. He acknowledged that he had not permitted his daughter to come and live with him, but asserted that due to his work schedule and that of his present wife, the child would not have been properly supervised. He maintained that close contact with the children was not possible due to his military career and the location of his various duty assignments. By affidavit, defendant admitted having made no support payments from June 1981 until the child’s death in February 1982 but asserted, as a reason, that he had retired from the Army and was financially unable to comply with the court’s order for support.
+In Pratt v. Bishop, 257 N.C. 486, 126 S.E. 2d 597 (1962), our Supreme Court considered the sufficiency of evidence of abandonment to overrule nonsuit in an adoption proceeding. The Court defined abandonment as:
+[A]ny wilful or intentional conduct on the part of the parent which evinces a settled purpose to forego all parental duties and relinquish all parental claims to the child. [Citations omitted.] Wilful intent is an integral part of abandonment and this is a question of fact to be determined from the evidence.
+Abandonment has also been defined as wilful neglect and refusal to perform the natural and legal obligations of parental care and support. It has been held that if a parent withholds his presence, his love, his care, the opportunity to display filial affection, and wilfully neglects to lend support and maintenance, such parent relinquishes all parental claims and abandons the child. [Citation omitted.]
+Id. at 501, 126 S.E. 2d at 608.
+The pleadings and affidavits submitted for consideration by the court are in conflict and support opposing conclusions. While the materials submitted by defendant tend to show that he maintained as close contact with his daughter as could be expected considering his occupation and circumstances, the materials submitted by the plaintiff tend to support the conclusion that defendant made few, if any, attempts to manifest any love and concern for, or interest in, the child, and refused to perform “a natural obligation of parental care” by declining to permit the child to live in his home. Although defendant’s affidavit negates the wilfulness of his failure to provide financial support during the last 9 months of the child’s life, plaintiffs evidence would support a finding that he wilfully and intentionally refused to make any further payments after June, 1981. We conclude that a genuine issue of fact exists as to whether or not defendant abandoned his daughter.
+Having concluded that the issue of abandonment may not be appropriately resolved by summary judgment, we must next determine whether defendant has established, as a matter of law, his substantial compliance with the Cumberland County judgment requiring his financial support of the child. If so, G.S. 31A-2(2) permits him to share in the wrongful death proceeds notwithstanding an abandonment of the daughter by him.
+In support of his claim of substantial compliance defendant presented evidence to the effect that a consent judgment was entered in the District Court of Cumberland County on 5 July 1968 requiring him to pay $230.00 per month for the support of the plaintiff and the two minor children. He asserts that he made the required payments until 1970, when plaintiff offered to reduce the support to $150.00 per month if he would transfer the title to his mobile home to her. Defendant claims that he accepted the offer, transferred the title, and from October 1971 until May 1981, made $150.00 per month payments for child support. Upon his retirement from the Army he was without the financial means to continue those payments. Defendant’s contention is that by making those child support payments, he has shown, as a matter of law, substantial compliance with the court’s order. We disagree.
+We first observe that the Cumberland County order required payments of $230.00 per month “for the support of the plaintiff and the minor children.” From 1971 until 1981, defendant made payments of only $150.00. Notwithstanding his contentions concerning transfer of the trailer title, which are specifically denied by plaintiff in her affidavit, the court order was never modified to authorize payment of any lesser amount, or to allocate any portions of the payments to child support or alimony. Moreover, for the final 9 months of the daughter’s life, defendant contributed nothing to her support and thereby failed to comply in any respect with the court’s order. Since the evidentiary forecasts support differing inferences and conclusions, we believe the issue of substantial compliance must also be resolved by the fact-finder, rather than by the court on motion for summary judgment.
+Accordingly, we reverse the entry of summary judgment for defendant and remand this case to the District Court of Mecklen-burg County for trial.
+Reversed and remanded.
+Judge BECTON concurs in the result.
+Judge Webb dissents.
+
+## Dissent (Judge Webb)
+
+Judge Webb
+dissenting.
+I dissent. All the evidence shows that the defendant supported his children for many years. He had lost custody of them and could not be expected to maintain the close contact with which he would have otherwise had. I do not believe the fact that he did not contribute to his daughter’s support for the last nine months of her life would support a finding that he had abandoned her. I vote to affirm the judgment of the District Court.
+
+## Concurrence (Judge Becton)
+
+Judge Becton
+concurring in the result.
+Were I asked to resolve the issues of abandonment and “substantial compliance,” I would unhesitantly conclude, on the facts in the record before us, that the father neither abandoned his daughter nor failed to comply substantially with court orders requiring him to contribute to her support. And, if I were compelled by equitable principles to reach a compromising quid pro quo result, I would grant to the father the same percentage of the wrongful death proceeds that he contributed to his daughter’s support, considering the 5 July 1968 judgment. The trial court, however, granted the father’s motion for summary judgment, and I can neither resolve factual disputes nor otherwise dispose of the case, as a matter of law, on the merits. Consequently, I concur in the result.
