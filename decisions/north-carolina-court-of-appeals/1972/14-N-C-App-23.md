@@ -1,0 +1,35 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7219SC24"
+decided: "1972-03-29"
+citations: ["14 N.C. App. 23"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Campbell and Britt concur."]
+parties: ["CHARLES W. DAVIS, Administrator of the Estate of Genetta Allene Davis Ray v. VIRGINIA COWAN CONNELL"]
+source_url: "https://static.case.law/nc-app/14/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8546714
+cites_cases: ["10 N.C. App. 113", "103 S.E. 2d 710", "123 S.E. 2d 785", "146 S.E. 2d 84", "148 S.E. 2d 10", "150 S.E. 2d 759", "151 S.E. 2d 556", "177 S.E. 2d 721", "248 N.C. 403", "256 N.C. 265", "266 N.C. 314", "267 N.C. 250", "268 N.C. 381", "268 N.C. 643"]
+---
+
+# Davis v. Connell
+
+## Majority (GRAHAM, Judge.)
+
+GRAHAM, Judge.
+Plaintiff contends the court erred in permitting defendant to file an amendment to her answer during the course of the trial. The amendment alleges that the collision was caused by defective brakes on the Falcon automobile; that plaintiff’s intestate knew the brakes were defective, and that her negli-genee in operating the automobile in such a condition was a proximate cause of her death.
+G.S. 1A-1, Eule 15(a) provides that leave to amend pleadings shall be freely given when justice so requires. Subsection (b) of Eule 15 provides in part: “If evidence is objected to at the trial on the ground that it is not within the issues raised by the pleadings, the court may allow the pleadings to be amended and shall do so freely when the presentation of the merits of the action will be served thereby and the objecting party fails to satisfy the court that the admission of such evidence would prejudice him in maintaining his action or defense upon the merits.”
+Defendant filed her motion to amend on 21 May 1971, and alleged therein that her counsel had first received information regarding defective brakes on the Falcon automobile on 3 May 1971; that the information was partly confirmed on 8 May 1971 and was finally confirmed on 21 May 1971. The motion was considered at pretrial conference on 26 May 1971 but a ruling on the motion was expressly held in abeyance until trial. Before allowing the amendment at the trial, the court conducted a voir dire examination at which time defendant presented testimony tending to support the allegations in her amended answer. In our opinion the court was acting well within its discretionary powers in allowing the amendment under these circumstances.
+Plaintiff next assigns as error the submission of the issue of contributory negligence to the jury. In determining whether there was sufficient evidence to go to the jury on this issue, the evidence must be considered in the light most favorable to defendant. Jones v. Holt, 268 N.C. 381, 150 S.E. 2d 759; Butler v. Wood, 267 N.C. 250, 148 S.E. 2d 10.
+Defendant’s evidence was sufficient to permit a finding that plaintiff’s intestate was operating her Falcon automobile with brakes which she had reason to know were defective and would pull the car to the left when applied. The evidence of both parties indicated that when plaintiff’s intestate applied brakes the car skidded to the left. Moreover, defendant’s evidence would support a finding that she had pulled her automobile back into the right lane of traffic and cleared the opposite lane before plaintiff’s intestate lost control of her automobile causing it to cross into the path of the truck. We hold this evidence to be sufficient to require the submission of the second issue to the jury and overrule plaintiff’s assignment of error with respect thereto.
+Plaintiff challenges various portions of the court’s jury charge and contends that the court failed to adequately relate the principles of law involved to the evidence in the case. This contention is well taken.
+The theory of plaintiff’s claim, as set forth in the complaint, is that his intestate lost control of her automobile as a result of being suddenly confronted with the danger of a head-on collision with defendant’s vehicle. The evidence, when considered in the light most favorable to plaintiff, supports this theory and compels application of the doctrine of sudden emergency to the issue of plaintiff’s negligence. This doctrine, simply stated, is that “ ‘ [o] ne who is required to act in an emergency is not held by the law to the wisest choice of conduct, but only to such choice as a person of ordinary care and prudence, similarly situated, would have done.’ ” Cockman v. Powers, 248 N.C. 403, 407, 103 S.E. 2d 710, 713.
+In Rodgers v. Thompson, 256 N.C. 265, 123 S.E. 2d 785, it is stated:
+“The rule is well established with us . . . that when a plaintiff is required to act suddenly and in the face of real, or under a reasonably well-founded apprehension of, impending and imminent danger to himself caused by defendants’ negligence ... he is not required to act as though he had time for deliberation and the full exercise of his judgment and reasoning faculties.”
+The court instructed the jury that evidence of defendant’s negligence was to be considered in the light of the sudden emergency doctrine but neglected to apply the doctrine to the issue of plaintiff’s contributory negligence. The doctrine does not arise on the issue of defendant’s negligence because the sudden emergency, if any, faced by defendant was clearly attributable to her negligence in unlawfully attempting to pass the vehicles in front of her. The principle of sudden emergency is not available to one who by his own negligence has brought about or contributed to the emergency. Johnson v. Simmons, 10 N.C. App. 113, 177 S.E. 2d 721, and cases cited.
+On the other hand, the doctrine does arise on the evidence relating to plaintiff’s negligence and is crucial to the theory of his case. Its importance was illustrated when the jury was readmitted to the courtroom to ask a question during deliberation. The foreman asked: “Does the law read that the operator of a car has to have a car under control at all times with no exceptions?” In answering this question the court reiterated general principles relating to the duty of a driver to maintain a proper lookout and to maintain his vehicle under proper control but did not mention the doctrine of sudden emergency and did not relate the principles of law to the evidence in the case. This could have left the jury under the impression that plaintiff’s intestate was deemed negligent under the law even if her car went out of control as a consequence of prudent action on her part to avoid a head-on collision.
+The failure of the court to relate the doctrine of sudden emergency and the evidence pertinent thereto to the proper issue constitutes prejudicial error requiring a new trial. Day v. Davis, 268 N.C. 643, 151 S.E. 2d 556; Hunt v. Truck Supplies and Davis v. Truck Supplies, 266 N.C. 314, 146 S.E. 2d 84.
+New trial.
+Judges Campbell and Britt concur.
