@@ -1,0 +1,27 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "698SC530"
+decided: "1969-12-31"
+citations: ["7 N.C. App. 77"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BROCK and Britt, JJ., concur."]
+parties: ["HILLCREST BUILDING COMPANY OF GOLDSBORO, N. C., INC v. C. W. PEACOCK"]
+source_url: "https://static.case.law/nc-app/7/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8548200
+cites_cases: ["120 S.E. 2d 817", "144 S.E. 2d 206", "153 S.E. 2d 814", "156 S.E. 2d 235", "167 S.E. 2d 12", "18 S.E. 2d 197", "20 S.E. 2d 344", "220 N.C. 620", "221 N.C. 426", "235 N.C. 671", "242 N.C. 271", "255 N.C. 23", "265 N.C. 453", "270 N.C. 85", "271 N.C. 264", "4 N.C. App. 374", "71 S.E. 2d 396", "87 S.E. 2d 493"]
+---
+
+# Hillcrest Building Co. of Goldsboro, N. C., Inc. v. Peacock
+
+## Majority (VaughN, J.)
+
+VaughN, J.
+The judgment from which the defendant appeals was specifically limited to the lots in controversy and was expressly not applicable to the restrictive covenants of other subdivided lots. It appears that the obvious intent of W. C. Spence, and wife, was that the subdivision should be developed and sold under a uniform scheme or plan of development. Such a determination must be made from an evaluation of the intent of the parties. Long v. Branham, 271 N.C. 264, 156 S.E. 2d 235. W. C. Spence, and wife, caused to be recorded an instrument setting forth the restrictive covenants applicable to Hillcrest Farm Subdivision. They provided for uniform restrictions in accord with a general scheme for the benefit of all lots in the subdivision allowing grantees of the owner of the original tract to enforce the restrictions. When it appears that the property was originally developed pursuant to a uniform scheme or plan, the covenants are enforceable inter se by the owners of the lots in the subdivision. Lamica v. Gerdes, 270 N.C. 85, 153 S.E. 2d 814; Muilenburg v. Blevins, 242 N.C. 271, 87 S.E. 2d 493. There is mutuality of covenants and consideration.
+When there is a uniform scheme or plan, the owners of lots in the subdivision are necessarily interested parties in any action against or by another lot owner where a mutual covenant or obligation, such as a restrictive covenant for residential uses, is in dispute. All persons who have a right to enforce the covenants inter se or otherwise should be made parties. Muilenburg v. Blevins, supra. We are of the opinion that Sheets v. Dillon, 221 N.C. 426, 20 S.E. 2d 344, is directly in point. There the action was also for specific performance of a contract of purchase and sale of real estate, the plaintiff being the owner of the lot to be conveyed and the purchaser defendant relying as a defense on the presence of restrictive covenants which caused non-compliance with the contract. The trial court ordered specific performance of the contract, finding the restrictive covenants to be null and void. Error was found and the case remanded as the judgment was not conclusive as to anyone other than the plaintiff and defendant, the plaintiff’s predecessor in title and other grantees not being estopped from thereafter asserting their rights. The Court stated that, “[u]nder such circumstances equity will not require defendant to comply with his contract in direct violation of the stipulation that the property is to be conveyed free of restrictive covenants. If plaintiff desires to have this covenant invalidated and stricken from the deed of the original grantee, he must bring in the interested parties and give them a day in court.”
+Restrictive covenants are not favored and are to be strictly construed against limitation on use. Hullett v. Grayson, 265 N.C. 453, 144 S.E. 2d 206. But a restrictive covenant, if not found inequitable, is enforceable. Hale v. Moore, 4 N.C. App. 374, 167 S.E. 2d 12. The servitude imposed by restrictive covenants is a species of incorporeal right. It restrains the owner of the servient estate from making certain use of his property. Turner v. Glenn, 220 N.C. 620, 18 S.E. 2d 197. Restrictive covenants create negative easements which are an interest in the land of another, they are vested property rights. Raleigh v. Edwards, 235 N.C. 671, 71 S.E. 2d 396. A valid restriction on the use of real property is neither nullified nor superseded by the adoption or enactment of a zoning ordinance, nor is the validity of the covenant thereby affected. 26 C.J.S., Deeds, § 171c (2), p. 1181. The other owners of lots in Hillcrest Farm Subdivision have the right to assert that enforcement of the restrictive covenant for residential uses has not become inequitable and that violations of the restrictions within the development do not amount to such a radical or fundamental change as to destroy the essential objects and purposes of the residential restrictions. The very limited uses of Lots 1 and 2 for non-residential purposes will not be held to have estopped them from asserting their right against subsequent substantial violations within the subdivision. Tull v. Doctors Building, Inc., 255 N.C. 23, 120 S.E. 2d 817.
+Since we are of the opinion that this case must be remanded for new parties and for a further hearing, we shall refrain from a further discussion of the evidence or of the law of the case.
+Error and remanded.
+BROCK and Britt, JJ., concur.
