@@ -1,0 +1,49 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "8923DC626"
+decided: "1990-01-16"
+citations: ["97 N.C. App. 82"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges JOHNSON and Cozort concur."]
+parties: ["TOWN OF SPARTA, Plaintiff v. WILLIE RAY HAMM, and wife, MYRTLE C. HAMM, Defendants"]
+source_url: "https://static.case.law/nc-app/97/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8519591
+cites_cases: ["103 S.E.2d 837", "141 N.C. 224", "145 S.E.2d 873", "234 N.C. 506", "248 N.C. 462", "266 N.C. 257", "273 S.E.2d 285", "301 N.C. 663", "336 S.E.2d 432", "53 S.E. 897", "58 A.L.R. 240", "67 S.E.2d 501", "77 N.C. App. 837"]
+---
+
+# Town of Sparta v. Hamm
+
+## Majority (LEWIS, Judge.)
+
+LEWIS, Judge.
+The North Carolina Rules of Civil Procedure provide that summary judgment will be granted “if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that any party is entitled to a judgment as a matter of law.” G.S. Section 1A-1, N.C.R. Civ. P. 56(c). The burden of proof is on the plaintiff to establish the public easement known as Hawthorne Street.
+Defendants discussed three possible theories of law:
+I: Dedication by Deed
+In June of 1956, a conveyance was made to defendants’ immediate predecessor in title of lots numbers 11, 12, 13, 14, 15 and 16 “as set out in plat of the A. S. Carson Estate [in the Town of Sparta], recorded in the office of the Register of Deeds of Alleghany County in Plat Book 1, Page 22.” That deed specified that it was made “subject to the conveyance of a street across said property to the Town of Sparta, which deed is recorded in the office of the Register of Deeds of Alleghany County, to which reference is made for a description of said street.” No such deed of record has been found. At the Town Council meeting held in October of 1985, according to a local newspaper article in evidence, it was admitted that the section of Hawthorne Street in question had never been deeded to the Town of Sparta.
+A plat was recorded in June of 1956 in the Office of the Register of Deeds of Alleghany County in Plat Book 1 at page 46 which indicated that there was a street labeled “Hawthorne Street” which was laid out across the “J. R. Hawthorne Lots in Sparta, N.C.” During the summer of 1956 at a public auction of the Hawthorne Lots, the owners of the auction company announced to potential bidders that there was a public way known as Hawthorne Street running across the land which had been deeded to the Town of Sparta. The auctioneers based their description of the property on that same plat.
+On 1 October 1959, Mr. Hamm purchased lots numbers 11, 12, 13, 14, 15 and 16 “of Carson Plat in the Town of Sparta as is shown in Plat Book 1 at page 22 in the office of the Register of Deeds of Alleghany County. . . .” Neither the deed nor the plat included any mention of a street or easement.
+Defendants contend:
+[A] conveyance of an easement must satisfy the requirements of the Statute of Frauds, N.C.G.S. 22-2; Mountain View, Inc. v. Bryson, 77 N.C. App. 837 [336 S.E.2d 432, parallel citation added] (1985). A deed conveying an easement to the plaintiff must contain a description of the easement either certain in itself or capable of being reduced to certainty by something extrinsic to which the deed refers. Plemmons v. Cutshall, 234 N.C. 506, 67 S.E.2d 501 (1951).
+Even though defendant’s deed for this property does not mention the easement, the deed to defendant’s predecessor in title specifies that there was “a street across said property.” Defendants had constructive notice of the existence of an easement which was to be used as a street.
+However, it is not necessary to have a recorded deed in order for the Town of Sparta to gain an easement for a public street. According to Nicholas v. Salisbury Hardware and Furniture Company, 248 N.C. 462, 468, 103 S.E.2d 837, 842 (1958), “[i]t is familiar learning that . . . the intention to dedicate may, in a proper case, be inferred from the circumstances without a formal act of dedication. 16 Am. Jur., Dedication, p. 363; Anno. 58 A.L.R. 240-41.” In Milliken v. Denny, 141 N.C. 224, 53 S.E. 897 (1906), the North Carolina Supreme Court discussed this concept.
+It is elementary learning laid down in all of the books and adjudged cases on the subject that an easement may be acquired either by grant, dedication, or prescription. ... It is well settled that dedication may be either by express language, reservation, or by conduct showing an intention to dedicate; such conduct may operate as an express dedication, as when a plat is made showing streets . . . and the land is sold, either by express reference to such plats or by showing that they were used and referred to in the negotiation. . . .
+Id. at 227, 53 S.E.2d at 868. The plat which was used for reference when the lots were sold to defendant’s predecessor in title was recorded in Alleghany County and showed Hawthorne Street running across defendant’s property as a public street. Thus, even though no specific deed can be found which describes the location of this easement by metes and bounds, the court may find on other grounds that such an easement exists.
+II: Easement by prescription
+Defendant built his house on the property in 1962 and contends that prior to and subsequent to that time, there was no through street across his land. Plaintiff alleges that Hawthorne Street was graveled and opened in the summer of 1956, maintained by the Town of Sparta and used by the public and as a mail and school bus route until the fall of 1985. Defendants contend that “there was no road in existence until 1962 when defendant graded out his driveway” (emphasis in original) and, even so, the town abandoned whatever interest they may have had.
+Potts v. Burnette, 301 N.C. 663, 273 S.E.2d 285 (1982), describes the requirements for establishing that there has been an easement by prescription.
+In order to prevail in an action to establish an easement by prescription, a plaintiff must prove the following elements by the greater weight of the evidence: (1) that the use is adverse, hostile or under claim of right; (2) that the use has been open and notorious such that the true owner had notice of the claim; (3) that the use has been continuous and uninterrupted for a period of at least twenty years; and (4) that there is substantial identity of the easement claimed through the twenty-year period.
+Id. at 666, 273 S.E.2d at 287-88. Moreover, North Carolina adheres to the presumption of permissive use which plaintiffs must rebut in order to prevail on the element of adversity, hostility and claim of right. Id. at 666-67, 273 S.E.2d at 288.
+Defendants challenge only two portions of this definition of easement by prescription. (1) In reference to the requirement that the use must be “continuous and uninterrupted for a period of at least twenty years,” defendants state: “[T]here seems to exist, at the very least, a question of exactly when the clock started running for plaintiff.” Plaintiff’s affidavits allege that the adverse use began in 1956 when Hawthorne Street was opened and that the street was used as a mail route, a school route, and for public use in general until the fall of 1985. Defendants contend that their affidavits tend to show “that there was no road in existence until 1962.” If the evidence were construed in the light most favorable to the non-moving party in this summary judgment action, the applicable period of time would be twenty-three years and would still satisfy the “time” requirement for easement by prescription.
+(2) Defendants also question “whether the use was hostile or permissive.” The definition of the term “hostile” as it is used in an action for “claiming a right of way by prescription” was stated in Dulin v. Faires, 266 N.C. 257, 145 S.E.2d 873 (1966).
+To establish that the use is “hostile” rather than permissive, “it is not necessary to show that there was a heated controversy, or a manifestation of ill will, or that the claimant was in any sense an enemy of the owner of the servient estate.” 17A Am. Jur., Easements section 76, p. 691. A “hostile” use is simply a use of such nature and exercised under such circumstances as to manifest and give notice that the use is being made under claim of right.
+Id. at 260-61, 145 S.E.2d at 875. The Town of Sparta maintained, however poorly, and the public used Hawthorne road and so gave notice to defendants that there was a “claim of right” to the street, rising to the required level of “hostility.”
+The defendants appearing at the Town Council meeting and apparently asking for their consideration in paving the “street” gives rise to a strong inference that he thought it a public way since the town could not pave a private driveway.
+The use by the public of Hawthorne Street was continuous, though slight, and may have been affected by the poor maintenance of that street. However, the Town of Sparta has satisfied all of the requirements for a prescriptive easement and we hold there is a public easement over that parcel known as Hawthorne Street.
+Ill: Abandonment
+Defendants contend that their affidavits “raise the question of fact as to whether the plaintiff, if it ever had an easement, abandoned it.” Since this affirmative defense was not raised in their pleadings, defendants have waived their right to assert this defense on appeal. G.S. Section 1A-1, N.C.R. Civ. P. 8(c).
+Since the pleadings and the affidavits indicate that there is no genuine issue as to any material fact, the order granting summary judgment in favor of the plaintiff is affirmed.
+Affirmed.
+Judges JOHNSON and Cozort concur.
