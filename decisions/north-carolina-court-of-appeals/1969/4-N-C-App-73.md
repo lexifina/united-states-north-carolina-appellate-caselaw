@@ -1,0 +1,40 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "6919SC13"
+decided: "1969-02-26"
+citations: ["4 N.C. App. 73"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MallaRD, C.J., and PARKER, J., concur."]
+parties: ["BERNADINE WILES, d/b/a CENTERVIEW TAXI v. RALPH P. MULLINAX, JR., and MULLINAX INSURANCE AGENCY, INC."]
+source_url: "https://static.case.law/nc-app/4/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551218
+cites_cases: ["112 S.E. 2d 574", "113 S.E. 2d 806", "148 S.E. 2d 229", "155 S.E. 2d 246", "164 S.E. 345", "2 S.E. 2d 17", "202 N.C. 779", "215 N.C. 402", "236 N.C. 166", "246 N.C. 322", "251 N.C. 849", "252 N.C. 380", "267 N.C. 392", "270 N.C. 661", "72 S.E. 2d 228", "98 S.E. 2d 29"]
+---
+
+# Wiles v. Mullinax
+
+## Majority (Britt, J.)
+
+Britt, J.
+(1) Defendants assign as error the trial court’s allowing plaintiff to introduce paragraphs 1, 2, 3, 4, 7 and 11 of defendants’ fourth further answer and defense. These paragraphs are summarized as follows: Defendants are informed and believe that after claim was made against plaintiff by Estelle Tucker (widow of the deceased employee) a hearing was set before the North Carolina Industrial Commission at Concord, N. C. Plaintiff herein, as the employer of Murray Lee Tucker, appeared at said meeting, presided over by Deputy Commissioner Shuford, on 3 December 1959. Royal Indemnity Company and Dixie Fire and Casualty Company appeared before the commissioner on said, date as the carriers for the employer. Royal and Dixie each denied that they were the insurance carriers for plaintiff, who appeared before the Industrial Commission without legal counsel or advice. Defendants are informed and believe that the Industrial Commission dismissed Royal Indemnity Company and Dixie Fire and Casualty Company as defendants in the matter pending before the Industrial Commission; that plaintiff thereafter communicated with Royal and Dixie and said companies denied plaintiff’s claim, but plaintiff has never attempted to recover at law from either of said companies.
+It is well settled that admissions of specific facts in the answer may be introduced into evidence, though it is not necessary to do so. The opposing party may then qualify or explain the admission. Chavis v. Insurance Co., 251 N.C. 849, 112 S.E. 2d 574; Winslow v. Jordan, 236 N.C. 166, 72 S.E. 2d 228; Stansbury, N. C. Evidence 2d, § 177; 3 Strong, N. C. Index 2d, Evidence, § 23, p. 634. In Chavis v. Insurance Co., supra, in an opinion by Higgins, J., it is said: “The assignments of error based on the introduction of parts of defendant’s answer are without merit. The parts of the answer offered were of distinct and separate facts pertinent to the issues. They were competent as judicial admissions as well as admissions against interest. (Citations including Winslow v. Jordan, Supra.)”
+We hold that the court did not err in permitting plaintiff to introduce the above-mentioned portions of defendants’ answer, and the assignment of error pertaining thereto is overruled.
+(2) Defendants assign as error the court’s allowing plaintiff to introduce in evidence the opinion and award of the Industrial Commission rendered in the proceeding referred to above.
+Although the individual defendant testified as a witness in the hearing before the Industrial Commission, neither of defendants was a party to the proceeding. The opinion and award of the Industrial Commission was not res judicata as to the defendants herein. Wiles v. Mullinax, 270 N.C. 661, 155 S.E. 2d 246. Except where the principle of res judicata is involved, the judgment or finding of a court, or the decision of an administrative officer or tribunal, cannot be used in another case as evidence of the facts found. Stansbury, N. C. Evidence 2d, § 143; Warren v. Insurance Co., 215 N.C. 402, 2 S.E. 2d 17. We think the trial court erred in permitting plaintiff to introduce the opinion and award of the Industrial Commission in evidence. We must now determine if the error was prejudicial to defendants.
+The reception of incompetent evidence to prove an admitted fact is not cause for disturbing the result of a trial. In Re Will of Crawford, 246 N.C. 322, 98 S.E. 2d 29; Rudd v. Casualty Co., 202 N.C. 779, 164 S.E. 345. The admission of testimony over defendants' objection as to a particular fact cannot be prejudicial where defendants allege the identical matter- in their answer. Ray v. Membership Corp., 252 N.C. 380, 113 S.E. 2d 806. The admission of incompetent evidence is cured where the fact sought to be established is alleged in appellant’s pleading, or the substance of the incompetent testimony is abundantly established by competent evidence. 1 Strong, N. C. Index 2d, Appeal and Error, § 48, pp. 196, 197.
+But, the findings of fact and conclusions of law contained in the opinion and award of the Industrial Commission went far beyond the admissions in defendants’ answer. We quote two examples:
+“* * * (On) 29 November 1958, the defendant employer had no workmen’s compensation insurance with defendant insurance carriers.
+* * #
+The defendant insurance carriers had no workmen’s compensation insurance policy in force for the protection of defendant employer at the time of the injury by accident giving rise hereto. Defendant employer was a non-insurer at such time.”
+We hold that the error was prejudicial to defendants, entitling them to a new trial. The assignment of error is sustained.
+(3) Defendants also assign as error a portion of the trial judge’s charge placing the burden of proof on defendants to establish an insurance binder which they introduced in evidence.
+The second issue submitted to the jury was as follows: “Did the defendants negligently fail to procure such workmen’s compensation insurance coverage, as alleged in the complaint?” After stating this issue, the trial judge properly instructed the jury that the burden of proof on the issue was on the plaintiff. As evidence that they did not fail to procure coverage for plaintiff, defendants introduced what they contended was a binder which bound the Dixie Insurance Company to provide coverage for plaintiff. This evidence was vital to defendants and in referring to it the trial judge stated in his charge: “* * * And, if you find from the evidence and by its greater weight the supporting evidence concerning the binder, the date which it was mailed to the Dixie Insurance Company, the receipt thereby, the contract between the Dixie Insurance Company and the defendants, if you find the supporting evidence to be true, the same is sufficient for you to find that there was a valid binder issued by the Dixie Insurance Company.” A little later in his charge, in referring to the binders, the trial judge stated: “* * * [T]he defendant argues and contends that you should find from the evidence and by its greater weight * *
+It is true that the burden of proving an affirmative defense is on the defendant, and ordinarily such defense must be proved by the greater weight of the evidence. 3 . Strong, N. C. Index 2d, Evidence, § 9, pp. 606, 607. But, the binders alleged and introduced in evidence by defendants did not constitute an affirmative defense; they were evidence in defense of plaintiff’s claim that defendants negligently failed to procure workmen’s compensation insurance coverage for plaintiff.
+The assignment of error is well taken and the error was prejudicial to defendants.
+We refrain from discussing the other assignments of error brought forward and argued in defendants’ brief, as the questions raised probably will not arise upon a retrial of this action.
+We realize that the cause of action alleged in this case has existed for more than ten years, that there have been three trials in the superior court and three appeals to the Appellate Division. Nevertheless, all parties are entitled to a trial free from prejudicial error and for the prejudicial errors discussed above, defendants are entitled to a
+New trial.
+MallaRD, C.J., and PARKER, J., concur.
