@@ -1,0 +1,28 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "771SC591"
+decided: "1978-06-20"
+citations: ["37 N.C. App. 14"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Morris and Arnold concur."]
+parties: ["BOARD OF TRANSPORTATION v. CARLTON KENTWOOD TURNER and wife, NANCY FLOW TURNER; MARY FRANCES McPHERSON MORRISETTE and HUSBAND, LUCIEN F. MORRISETTE; J. M. DUFF, Trustee; and FIRST UNION NATIONAL BANK"]
+source_url: "https://static.case.law/nc-app/37/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8550011
+cites_cases: ["123 A.L.R. 1474", "162 S.E. 2d 661", "2 N.C. App. 1", "22 N.E. 2d 315", "281 N.Y. 139"]
+---
+
+# Board of Transportation v. Turner
+
+## Majority (MARTIN, Judge.)
+
+MARTIN, Judge.
+Defendants Morrisette assert basically two grounds in support of their contention that they are entitled to all the proceeds: first, they contend that they retained, by an express exception in the October 1970 deed to the Turners, a fee simple interest in the right-of-way for ten (10) years; and second, they contend that by express language in the same exception, they reserved the right to all proceeds resulting from a condemnation of the right-of-way. While we do not agree with the first position taken by defendants Morrisette, we find merit in their second contention.
+The determination of the questions raised by the Morrisettes’ appeal rests solely upon the language contained in the exception clause of the 1970 deed, and this Court’s interpretation thereof.
+At the outset, we turn to the language of the exception clause pertinent to the Morrisettes’ contention that they retained a fee simple interest in the twenty (20) foot “right-of-way.” The October 1970 deed which conveyed to the Turners a fee simple in a tract of land, including the twenty (20) foot strip now at issue, also stated “that the Grantors [Morrisettes] reserve the ownership of and right to bargain with and to sell to the North Carolina State Highway Commission a right-of-way parallel to the existing right-of-way of Ehringhaus Street up to and including twenty (20) feet, but no more, for a period of ten (10) years from the date of this deed. . . .” In view of the above emphasized portions of the exception, the Morrisettes’ purpose clearly seems to have been to reserve a fee simple interest and, in point of legal description, the language utilized was sufficiently definite to do so. See Hughes v. Highway Commission, 2 N.C. App. 1, 162 S.E. 2d 661 (1968). However, the interest reserved was limited in duration to ten (10) years. This element alone prevents the interest reserved by the subject exception from rising to the dignity of a fee simple estate. A fee simple is a “freehold estate,” and it is familiar learning that a freehold estate is “an interest in real property, the duration of which is not fixed by a specified or certain period of time, but must, or at least may, last during the lifetime of some person.” 4 Thompson on Real Property, § 1850 (1961). Indeed, the true test of a freehold is its indeterminate tenure. Id. Thus, the effect of the subject exception, with regards to the respective interests of the parties defendant, was at most to reserve to the Morrisettes the use and enjoyment of the twenty (20) foot right-of-way for a term of ten (10) years. Such an interest can never rise above the dignity of a leasehold estate. Accordingly, the fee passed to the Turners by the 1970 deed. However, for the reasons indicated below, this determination does not entitle the Turners to the proceeds arising from the condemnation.
+In the remainder of the exception clause, the Morrisettes reserved the right to claim “any monies or benefits received from the North Carolina State Highway Commission for the sale of this right-of-way. . . .” Defendants Morrisette contend that this portion of the exception created a valid and enforceable reservation of the right to all proceeds resulting from the condemnation of the subject right-of-way. We must agree.
+The most common attack on provisions similar to the above quoted reservation is that they constitute restraints on alienation and as such are void on the ground that they are repugnant to the estate granted. See Annot., 123 A.L.R. 1474. However, in the only authority which this Court can find on point, a distinction was drawn where the reservation pertained, as in the instant case, to the right to claim proceeds which resulted from condemnation, a compulsory taking of the fee, as opposed to a voluntary sale or conveyance. Re Application of Mazzone, 281 N.Y. 139, 22 N.E. 2d 315 (1939). That case held that unlike the reservation of proceeds from a voluntary sale, the reservation by a grantor of the right to claim proceeds resulting from a condemnation was not intended and did not have the effect of restricting the full and free conveyance of the property. An important factor in that court’s decision, and one we believe equally important in the instant case, was that the possibility of future condemnation was obvious to the bargaining parties and almost certainly taken into consideration by them and thus, must have made a material difference in the computation of the purchase price. Here, there was no reservation of any right in the property repugnant to the granting of a fee, only the reservation of a right to the proceeds of a forced sale if such should occur within the ten (10) year period. Based on the foregoing, we perceive of no reason why the Morrisettes should be deprived of the right which they expressly reserved to all the proceeds from the condemnation.
+Reversed and remanded.
+Judges Morris and Arnold concur.
