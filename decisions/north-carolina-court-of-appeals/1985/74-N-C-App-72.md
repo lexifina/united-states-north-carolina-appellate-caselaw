@@ -1,0 +1,36 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "8410IC662"
+decided: "1985-04-02"
+citations: ["74 N.C. App. 72"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Arnold and Parker concur."]
+parties: ["GROVER C. MORETZ, JR., Employee v. RICHARDS & ASSOCIATES, INC., Employer, and UNITED STATES FIDELITY & GUARANTY INSURANCE COMPANY, Insurer, Defendants"]
+source_url: "https://static.case.law/nc-app/74/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8522779
+cites_cases: ["181 S.E. 2d 588", "229 S.E. 2d 325", "234 S.E. 2d 2", "279 N.C. 132", "290 S.E. 2d 599", "292 N.C. 467", "298 S.E. 2d 681", "305 N.C. 478", "307 N.C. 392", "31 N.C. App. 284", "529 S.W. 2d 485", "619 S.W. 2d 502"]
+---
+
+# Moretz v. Richards & Associates, Inc.
+
+## Majority (EAGLES, Judge.)
+
+EAGLES, Judge.
+Where a claimant suffers an injury that results in temporary total disability followed by a specific disability compensable under G.S. 97-31, as here where there is a 90% permanent partial disability of the left leg, compensation for the specific disability is payable in addition to that awarded for temporary total disability. Watkins v. Motor Lines, 279 N.C. 132, 181 S.E. 2d 588 (1971). Defendants argue on appeal that they are entitled to a credit for either permanent partial disability payments already made since 1 December 1977 or an overpayment of temporary total disability. Compensation for temporary disability is available during the healing period of the injury until maximum recovery has been achieved. Permanent disability is available pursuant to G.S. 97-31 at the end of the healing period when maximum recovery has been achieved. Crawley v. Southern Devices, 31 N.C. App. 284, 229 S.E. 2d 325 (1976), cert. denied, 292 N.C. 467, 234 S.E. 2d 2 (1977).
+It was stipulated that plaintiffs condition has not undergone any significant changes since at least 1 December 1977. Dr. Bennett testified that plaintiffs condition has been very stable for the last several years and Dr. Hess testified that plaintiffs condition did not change from his first examination of plaintiff on 1 December 1977 until his second examination during December 1982. Defendants argue that 1 December 1977 is the latest date that plaintiff reached maximum medical improvement and that disability payments made thereafter are attributable to the permanent partial disability. We further note that finding of fact number 3 (“plaintiffs condition has remained fairly stable and he has undergone no significant changes in his physical condition since 1977”), combined with the stipulations and medical testimony, supports a conclusion that plaintiffs maximum recovery was achieved 1 December 1977. The record before us discloses no evidence of continuing temporary total disability after 1 December 1977. Accordingly, all disability payments made by defendants after 1 December 1977 should be characterized as “permanent partial” disability payments for which defendants are eligible for a credit in the discretion of the Industrial Commission pursuant to G.S. 97-42. This is consistent with the Commission’s conclusion that the deputy commissioner could have allowed a credit in his discretion.
+G.S. 97-42 provides:
+Any payments made by the employer to the injured employee during the period of his disability, or to his dependents, which by the terms of this Article were not due and payable when made, may, subject to the approval of the Industrial Commission be deducted from the amount to be paid as compensation. Provided, that in the case of disability such deductions shall be made by shortening the period during which compensation must be paid, and not by reducing the amount of the weekly payment.
+The language of G.S. 97-42 clearly indicates that a credit (or deduction from the amount of the award to be paid) is not required to be granted. Rather, the language places the decision of whether to grant a credit within the sound discretion of the Industrial Commission. The decision to grant or deny the credit will not be disturbed in the absence of an abuse of discretion. Taylor v. J. P. Stevens Company, 307 N.C. 392, 298 S.E. 2d 681 (1983).
+It has long been settled in our jurisdiction that an appellate court’s review of a trial court’s discretionary ruling is strictly limited to a determination of whether the record affirmatively demonstrates a manifest abuse of discretion by the trial court. Worthington v. Bynum, 305 N.C. 478, 290 S.E. 2d 599 (1983). We hold that the record in this case affirmatively demonstrates a manifest abuse of discretion in not allowing a credit for permanent partial disability payments made after 1 December 1977.
+Here, defendant carrier accepted responsibility in an apparently close case and paid plaintiff disability benefits for 362 weeks and 2 days from 7 November 1975 through 25 October 1982. Only when defendant carrier could not obtain answers to questions from the treating physician concerning plaintiffs disability status, did it file this action. Defendants do not contest that plaintiff is entitled to 180 weeks of permanent partial disability payments, rather defendants argue that the permanent partial disability payments have already been paid by reason of plaintiffs maximum recovery on 1 December 1977 and that they are entitled to a credit for that which has already been paid. We agree.
+We find persuasive the reasoning of appellate courts in other jurisdictions concerning credits for amounts overpaid.
+An employer who has paid an employee at the time of that employee’s greatest need more than he was obligated to pay should not be penalized by being denied full credit for the amount paid above the requirements of the act as against the amount which might subsequently be determined to be due the employee. To do so would inevitably cause employers to be less generous. By limiting the payments the employer can safely make to the amount of temporary total disability the result would be that the employee would lose his full salary at the very moment he needs it most.
+Cowan v. Southwestern Bell Telephone Co., 529 S.W. 2d 485, 488 (Mo. App. 1975). See also Western Casualty and Surety Co. v. Adkins, 619 S.W. 2d 502 (Ky. App. 1981) (voluntary payment of benefits during pendency of proceedings is a matter of great importance and should not be discouraged).
+There is strong public policy against double recovery and in favor of prompt payment of benefits to injured employees. For these policy reasons and based on the facts of this case where the defendant carrier has paid plaintiff disability benefits for 362 weeks and 2 days, from 7 November 1975 until 25 October 1982, we hold that here defendants are entitled to a credit on the permanent partial disability award for payments made to plaintiff after 1 December 1977, the date maximum recovery was reached.
+The opinion and award appealed from is vacated and this cause remanded to the Industrial Commission for entry of an award reflecting the credit.
+Our disposition of this case makes it unnecessary to consider the remaining assignments of error.
+Vacated and remanded.
+Judges Arnold and Parker concur.
