@@ -1,0 +1,40 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "6919SC379"
+decided: "1969-09-17"
+citations: ["6 N.C. App. 174"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BROCK and Britt, JJ., concur."]
+parties: ["STATE OF NORTH CAROLINA v. ROBERT LEE MUSKELLY and REUBEN ALLEN, JR."]
+source_url: "https://static.case.law/nc-app/6/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8547263
+cites_cases: ["130 S.E. 2d 857", "135 S.E. 2d 568", "135 S.E. 2d 626", "148 S.E. 2d 252", "151 N.C. 644", "157 S.E. 2d 666", "158 S.E. 2d 334", "164 S.E. 2d 36", "165 S.E. 2d 230", "167 S.E. 2d 266", "167 S.E. 2d 830", "230 N.C. 426", "233 N.C. 31", "259 N.C. 499", "261 N.C. 558", "261 N.C. 582", "267 N.C. 405", "272 N.C. 142", "272 N.C. 526", "275 N.C. 283", "275 N.C. 69", "3 N.C. App. 31", "5 N.C. App. 146", "53 S.E. 2d 313", "62 S.E. 2d 497", "65 S.E. 459"]
+---
+
+# State v. Muskelly
+
+## Majority (VaughN, J.)
+
+VaughN, J.
+Defendants contend that their motions for judgment as of nonsuit as to Case Numbers 12-428 and 12-432, the alleged assault upon Pless, should have been granted. The pertinent parts of these indictments read:
+. . [D]id, unlawfully, wilfully and feloniously assault one Arthur Nell Pless with a certain deadly weapon, to wit: a pistol with . . . upon said Arthur Nell Pless to wit: by shooting him with said pistol. . . .”
+The defendants’ contention is based upon an alleged fatal variance between the allegations of the indictment and proof offered at the trial. The evidence at the trial revealed that although shots were fired by the defendants, Pless was not struck by a bullet but was in fact beaten about the head with a pistol.
+Where there is a fatal variance, it may be taken advantage of by motion for judgment as of nonsuit. State v. Cooper, 275 N.C. 283, 167 S.E. 2d 266; State v. Kimball, 261 N.C. 582, 135 S.E. 2d 568; State v. Hicks, 233 N.C. 31, 62 S.E. 2d 497. It is a rule of universal observance in the administration of criminal law that a defendant must be convicted, if convicted at all, of the particular offense charged in the bill of indictment. The allegations and the proof must correspond. State v. White, 3 N.C. App. 31, 164 S.E. 2d 36; State v. Watson, 272 N.C. 526, 158 S.E. 2d 334.
+What then were the defendants in the present case charged with? The words of the indictment are clear, “feloniously assault . . . with a certain deadly weapon, to wit: a pistol.” In the words of this Court in State v. White, supra, the offenses were “accurately charged.” All that is required in a warrant or bill of indictment is that it be sufficient in form to express the charge against the defendant in a plain, intelligible and explicit manner, and to enable the court to proceed to judgment and thus bar another prosecution for the same offense. State v. Anderson, 259 N.C. 499, 130 S.E. 2d 857; 4 Strong, N.C. Index 2d, Indictment and Warrant, § 9, pp. 347, 348.
+In this case, the gist of the offense charged against these defendants is the assault with a deadly weapon with intent to kill resulting in serious bodily injury but not resulting in death. If when stripped of nonessential words, the indictment or warrant is sufficient to charge the offense, it is sufficient to survive a motion to quash. State v. Camel, 230 N.C. 426, 53 S.E. 2d 313. The use of superfluous words in a bill of indictment should be disregarded. The bill is complete without evidentiary matters descriptive of the manner and means by which the offense was committed. A verdict of guilty, or not guilty, is only as to the offense charged, not of surplus or evidential matters alleged. State v. Wynne, 151 N.C. 644, 65 S.E. 459. In State v. Stallings, 267 N.C. 405, 148 S.E. 2d 252, it was held that if an averment in an indictment or warrant is not necessary in charging the offense, it may be treated as surplusage. Thus, in that case where the defendant was being tried for escape from legal custody, words in the indictment referring to the felony for which the defendant was serving time were regarded as surplusage. Justice Bobbitt stated that the indictment is sufficient if it alleges that the defendant “was serving time for a felony” without naming the particular felony.
+Therefore, the words that these defendants allege created a fatal variance, “to wit: by shooting him with said pistol,” were nonessential words in properly charging them with the offense and are thereby to be regarded as surplusage.
+The trial court therefore properly denied the defendants’ motion for judgment as of nonsuit, and the trial proceeded upon valid indictments.
+Further assignments of error by the defendants are directed at alleged errors in the instructions to the jury. Defendants assign as prejudicial and erroneous the following instruction relating to intent to kill:
+' “And, so, intent to kill is the intent which exists in the mind of a person at the time he commits the assault, or criminal act, intentionally without justification or excuse, to kill his victim, or to inflict great bodily harm.”
+Defendants contend that under this instruction the jury would be allowed to find the defendants guilty of felonious assault although they made no finding that the acts were committed with the intent to kill their victims. With this argument this Court is in agreement. In State v. Ferguson, 261 N.C. 558, 135 S.E. 2d 626, the instruction in controversy was, “. . . so intent to kill is . . . intent to kill his victim or to inflict great bodily harm on him.” The Court allowed a new trial stating that a finding of intent to inflict great bodily harm is insufficient to support the charge of felonious assault since an intent to kill is an essential element. In a more recent case, State v. Parker, 272 N.C. 142, 157 S.E. 2d 666, an instruction identical with the one in this case was held to be prejudicial error “for it would allow the jury to find an intent to kill if the defendant intended either to kill or to inflict great bodily harm.”
+The defendant further assigned as error the part of the charge which states as follows:
+“Now, members of the jury, the State must satisfy you beyond a reasonable doubt that the defendant, or defendants, did commit an assault . . . and that it was done with intent to kill either or both of these victims. . .
+Defendants contend that this instruction was prejudicial to them in that it would allow the jury to find them guilty upon a finding that either of the defendants feloniously assaulted either of the victims. The assignment of error is well taken. A portion of the Court’s decision in State v. Doss, 5 N.C. App. 146, 167 S.E. 2d 830, with Judge Morris writing for the Court, is especially pertinent. The rule is succinctly stated that when two defendants are tried together it is error for the court to instruct the jury in the disjunctive. State v. Parrish, 275 N.C. 69, 165 S.E. 2d 230. As in these cases, it remains to be error although the instruction is not technically a submission of the question of guilt or innocence in the disjunctive but to the jury it is confusing and ambiguous. The words “defendant, or defendants,” are of the same effect as the words “defendants or either of them.” The instruction is confusing and ambiguous in that it does not make it clear to the jury that there is the possibility that one of the defendants might be acquitted and one found guilty.
+The language “and that it was done with intent to kill either or both of these victims” could lead the jury to believe that both defendants could be found guilty on each count if it was satisfied beyond a reasonable doubt that a felonious assault was committed upon but one of the victims.
+Since there must be a new trial, we do not deem it necessary to discuss the remaining assignment of error as it may not arise on another trial.
+For errors in the charge, the defendants are, in each case, entitled to
+New trials.
+BROCK and Britt, JJ., concur.
