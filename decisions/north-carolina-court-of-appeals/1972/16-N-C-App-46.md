@@ -1,0 +1,36 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7211DC415"
+decided: "1972-08-30"
+citations: ["16 N.C. App. 46"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Brock and Morris concur."]
+parties: ["GRACE JERNIGAN v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY AND INDIANA LUMBERMEN’S MUTUAL INSURANCE COMPANY AND SHELBA J. JERNIGAN v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY AND INDIANA LUMBERMEN’S MUTUAL INSURANCE COMPANY"]
+source_url: "https://static.case.law/nc-app/16/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8548521
+cites_cases: ["126 S.E. 2d 161", "180 S.E. 2d 823", "257 N.C. 381", "278 N.C. 523", "41 N. C. L. Rev. 232", "48 N. C. L. Rev. 984"]
+---
+
+# Jernigan v. State Farm Mutual Automobile Insurance
+
+## Majority (HEDRICK, Judge.)
+
+HEDRICK, Judge.
+The defendant Lumbermen’s assigns as error the denial of its motion for summary judgment as to plaintiffs’ claims and as to the cross claim of the defendant State Farm. “(T)he movant is allowed to preserve his exception to the denial of the motion for consideration on appeal from the final judgment.” The question thus presented on appeal is whether the pleadings and stipulations of the parties show there is a genuine issue as to any material fact and whether any party is entitled to judgment as a matter of law. G.S. 1A-1, Rule 56.
+“Evidence which may be considered under Rule 56 includes admissions in the pleadings, depositions on file, answers to Rule 33 interrogatories, admissions on file whether obtained under Rule 36 or in any other way, affidavits, and any other material which would be admissible in evidence or of which judicial notice may properly be taken.” Kessing v. Mortgage Corp., 278 N.C. 523, 533, 180 S.E. 2d 823, 829 (1971).
+The detailed stipulation of facts made by the parties shows clearly there was no genuine issue as to any material fact; therefore, the question presented to the trial judge by Lumbermen’s motion for summary judgment was whether, under the stipulated facts, it was entitled to judgment as a matter of law. We hold that it was.
+This appeal presents for resolution a question of first impression in North Carolina — the construction to be given to the phrase “persons in lawful possession” as used in G.S. 20-279.21 (b) (2), which is by statute made a part of the policy of automobile liability insurance issued by defendant Lumbermen’s. By the terms of that statute, coverage is extended to the named insured, those operating the motor vehicle with the express or implied permission of the named insured and to “persons in lawful possession.” The phrase “persons in lawful possession” appeared in the original 1947 version of this statute, was deleted by the 1953 Legislature and was reinstated by Chapter 1162 of the Session Laws of 1967.
+Appellent contends, “Neither the owner nor Ellen, who had been given permission to use the car, told Margaret she could drive it and Margaret did not ask for permission. . . .” It thus becomes necessary for the court to determine whether permission, express or implied, is an essential element of “lawful possession.” We hold that it is. To hold otherwise would constitute anyone other than a thief a person in “lawful possession.”
+It is stated in 12 Couch On Insurance 345 § 45:340 (2d ed. 1964), “Omnibus coverage clauses protect others than the named insured only when such other persons are using or operating the insured motor vehicle with the ‘permission’ or ‘consent’ of the named insured. Conversely, there is no coverage by virtue of the omnibus clause in the absence of such permission.” In 4 A.L.R. 3d § 3 (A), p. 25, it is stated, “It appears well settled that the named insured’s mere permission to another to use the automobile does not of itself authorize the permittee to delegate his right of user to a third person so as to bring the latter within the coverage of the omnibus clause.” And at page 24, “The consent of the first permittee is likewise essential where a second user claims coverage by virtue of the named insured’s initial permission.”
+Three rules of construction are utilized by the courts of different states in construing omnibus clauses. Regardless of which rule is applied, permission, whether express or implied, is required. It is stated in 41 N. C. L. Rev. 232, 234 (1963) :
+“(1) Under the strict or ‘conversion’ rule, any deviation from the time, place, or purpose specified by the person granting permission is sufficient to take the permittee outside the coverage of the omnibus' clause.
+(2) Under the moderate or ‘minor deviation’ rule, a material deviation from the permission granted constitutes a use without permission, but a slight deviation is not sufficient to exclude the permittee from coverage.
+(3) Under the liberal or ‘initial permission’ rule, if the permittee has permission to use the automobile in the first instance, any subsequent use while it remains in his possession, though not within the contemplation of the parties at the time of the bailment, is a permissive use within the terms of the clause.”
+In 1953 the Legislature deleted the phrase . . any other person in lawful possession” from the statute [G.S. 20-227 (2) (b) ]. Mr. Justice Moore, writing for the court in Hawley v. Insurance Co. stated, “We interpret this statutory change to mean that the Legislature intended no more radical coverage than is expressed in the moderate rule of construction, i.e., coverage shall include use with permission, express or implied.” The court indicated that prior to this deletion, the statute “was sufficiently broad to embrace the liberal rule. It required that policies of insurance insure all operators irrespective of limits of permission, if in the lawful possession of the vehicle.” 257 N.C. 381, 387, 126 S.E. 2d 161, 166-67 (1962).
+The 1967 amendment, adding the words “any other person in lawful possession” is interpreted to signify that the Legislature favors adoption of a liberal rule of construction in applying and interpreting the scope of permission under the omnibus clause. It is stated in 48 N. C. L. Rev. 984, 991 (1970), “As the 1967 amendment clearly provides the opportunity for adoption of the liberal rule in North Carolina as to the scope of permission once granted, it appears permissible for the courts to similarly liberalize the view of what constitutes initial permission. . . .”
+A statute prescribing an omnibus clause is a remedial act and should be liberally construed to assure fulfillment of the beneficial goal for which it was enacted. 12 Couch On Insurance 326 § 45:313 (2d ed. 1964). Regardless of the liberality of the rule of construction applied, permission of the named insured or of the original permittee is essential to extend coverage to a second permittee. Here, there was no evidence signifying either express or implied permission for Margaret Blue to operate the vehicle. Accordingly, she was not a “person in lawful possession” and the trial court erred in failing to grant summary judgment for defendant Lumbermen’s. The judgment of the trial court is therefore
+Reversed.
+Judges Brock and Morris concur.
