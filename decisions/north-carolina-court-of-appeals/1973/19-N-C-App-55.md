@@ -1,0 +1,30 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "737SC494"
+decided: "1973-07-25"
+citations: ["19 N.C. App. 55"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Brock and Baley concur."]
+parties: ["STATE OF NORTH CAROLINA v. EARL BRYANT"]
+source_url: "https://static.case.law/nc-app/19/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549994
+cites_cases: ["15 N.C. App. 237", "158 S.E. 2d 617", "17 N.C. App. 269", "185 S.E. 2d 844", "189 S.E. 2d 637", "193 S.E. 2d 755", "195 S.E. 2d 692", "272 N.C. 509", "274 N.C. 594", "280 N.C. 306", "283 N.C. 259"]
+---
+
+# State v. Bryant
+
+## Majority (VAUGHN, judge.)
+
+VAUGHN, judge.
+Defendant first challenges the denial of his motion for continuance. The record indicates that defendant’s court-appointed counsel argued in support of his motion that some of the witnesses to be called on defendant’s behalf were in Central Prison, but counsel failed to name those witnesses or state what facts were expected to be testified to by them or that the evidence would be procured at or before some named subsequent term. State v. Stepney, 280 N.C. 306, 185 S.E. 2d 844. At trial, defendant, his wife, two witnesses housed in the Umstead Youth Center and a witness who allegedly acted as a babysitter for defendant’s children on 19 February all testified on behalf of defendant and their evidence tended to support defendant’s denial of participation in the offenses charged and to support his defense of alibi. “Whether a defendant bases his appeal upon an abuse of judicial discretion, or a denial of his constitutional rights, to entitle him to a new trial because his motion to continue was not allowed, he must-show both error and prejudice.” State v. Moses, 272 N.C. 509, 512, 158 S.E. 2d 617; State v. Roberts, 15 N.C. App. 237, 189 S.E. 2d 637. Defendant has failed to show either error or prejudice and his first assignment of error is overruled.
+Defendant next argues that he was prejudiced by denial of his motion for a change in venue. His argument is based upon matters not in the record and no argument on behalf of defendant’s motion was presented to the trial court. Defendant’s second assignment of error is overruled.
+In his third assignment of error defendant challenges the court’s failure to strike testimony to the effect that the witness was told by another that defendant had admitted stealing the goods. This assignment of error is overruled. The statement was made while the witness was being cross-examined ■ by defendant .and defendant does not bring forward his question to which the witness was presumably responding. Moreover, defendant did not move to strike the answer and has, consequently, waived his objection.
+Assignment of error number four challenges the overruling of defendant’s objections to testimony that defendant had possession of personal property not listed in the indictment or warrant. Defendant argues that the State offered no evidence to show that defendant had been convicted of stealing the items mentioned and that he was prejudiced in that the jury may have considered possession of these items to have been evidence that defendant was guilty of other crimes.' We disagree. The items complained of were'not introduced as substantive evidence and the State did not contend at this trial that possession of these items was illegal or the result of illegal activity.- Defendant has failed to demonstrate how he was prejudiced by this evidence and this assignment of error is overruled. See State v. Salem, 17 N.C. App. 269, 273, 193 S.E. 2d 755, cert. denied, 283 N.C. 259, 195 S.E. 2d 692.
+In his seventh assignment of error defendant challenges the failure of the trial court to instruct the jury that certain testimony by Annette relating a. conversation with another witness could only be considered as corroborative. Immediately prior; to the evidence objected to, and without. request from defendant, the court instructed the jury-concerning the purposes for which they could consider such, evidence. It . was not necessary for the court to repeat- this instruction each time defendant objected to a question relating to. the conversation.
+Defendant’s next assignment of error is baséd upon the fact that the trial court charged the jury that . . the State is relying on what is sometimes known as the doctrine of recent possession.” Defendant argues that use of the term “recent possession” was apt to confuse the jury by indicating that the presumption raised by the doctrine may be applied against anyone who had the property in his possession regardless of the time of its theft. As is pointed out in State v. Jackson, 274 N.C. 594, 164 S.E. 2d" 369, it is the possession of recently stolen goods which gives rise to the presumption, so that if possession is recent but the theft occurred long before such possession, no inference of guilt arises. In the present case the court instructed the jury in pertinent part that if they found beyond a reasonable doubt that defendant . . had possession of the two television sets and the stereo set, so soon after they were stolen and under such circumstances as to make it unlikely that he obtained possession honestly you may consider this together with all the facts and circumstances in deciding whether or not the defendant is guilty of breaking and entering and larceny.” In addition, the jury was instructed that they must be satisfied beyond a reasonable doubt that the property in defendant’s possession was the same property taken from the Tomlinson home before considering the time lapse between the theft and defendant’s possession. The evidence indicated that Tomlinson was absent from her home from 17 February to 21 February 1972 and that on 19 February 1972 defendant had possession of goods identified as having come from Tomlinson’s home. This assignment of error is overruled.
+We have carefully examined defendant’s remaining assignments of error. We find no prejudicial error in the trial.
+No error.
+Judges Brock and Baley concur.
