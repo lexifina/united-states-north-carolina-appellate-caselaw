@@ -1,0 +1,64 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "8423SC128"
+decided: "1984-12-18"
+citations: ["72 N.C. App. 44"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Webb and Hill concur."]
+parties: ["HALLIE B. LOWE v. NORTH CAROLINA DEPARTMENT OF HUMAN RESOURCES, SARAH T. MORROW, in her official capacity as Secretary of the North Carolina Department of Human Resources; JOHN M. SYRIA, in his official capacity as Director of the North Carolina Department of Human Resources, Division of Social Services"]
+source_url: "https://static.case.law/nc-app/72/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8526173
+cites_cases: ["293 S.E. 2d 171", "306 N.C. 231", "42 U.S.C. §§ 1396"]
+---
+
+# Lowe v. North Carolina Department of Human Resources
+
+## Majority (HEDRICK, Judge.)
+
+HEDRICK, Judge.
+The appropriate standard of review in this action is set out in N.C. Gen. Stat. Sec. 150A-51, which provides:
+The court may affirm the decision of the agency or remand the case for further proceedings; or it may reverse or modify the decision if the substantial rights of the petitioners may have been prejudiced because the agency findings, inferences, conclusions, or decisions are:
+(1) In violation of constitutional provisions; or
+(2) In excess of the statutory authority or jurisdiction of the agency; or
+(3) Made upon unlawful procedure; or
+(4) Affected by other error of law; or
+(5) Unsupported by substantial evidence admissible under G.S. 150A-29(a) or G.S. 150A-30 in view of the entire record as submitted; or
+(6) Arbitrary or capricious.
+See Lackey v. Dept. of Human Resources, 306 N.C. 231, 234, 293 S.E. 2d 171, 174 (1982). Accordingly, we consider plaintiffs contentions that defendants’ decision is based upon errors of law and is unsupported by substantial evidence in view of the entire record.
+A State agency designated by the Legislature as being responsible for determining eligibility for medical assistance must comply with State and federal statutes and regulations in making such determinations. N.C. Gen. Stat. Secs. 108A-54, 108A-56; 42 U.S.C. Sec. 1396a(a). See also Lackey, 306 N.C. 231, 293 S.E. 2d 171. In the instant case plaintiff’s claim for medical assistance was based on her contention that she was disabled, and it was DHR’s determination to the contrary that resulted in the denial of plaintiffs claim for benefits. An individual is “disabled” under applicable federal law
+if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months. . . .
+42 U.S.C. Sec. 1382c(a)(3)(A). In 1980, the Secretary of Health and Human Resources promulgated regulations establishing a sequential evaluation process to be used by administrative agencies in evaluating disability claims. Set out in 20 C.F.R. Sec. 416.920, these regulations provide as follows:
+Sec. 416.920 Evaluation of disability in general.
+(a) Steps in evaluating disability. We consider all material facts to determine whether you are disabled. If you are doing substantial gainful activity, we will determine that you are not disabled. If you are not doing substantial gainful activity, we will first consider your physical or mental impair ment(s). Your impairment must be severe and meet the duration requirement before we can find you to be disabled. We follow a set order to determine whether you are disabled. We review any current work activity, the severity of your impairment(s), your residual functional capacity and your age, education, and work experience. If we can find that you are disabled or not disabled at any point in the review, we do not review further.
+(b) If you are working. If you are working and the work you are doing is substantial gainful activity, we will find that you are not disabled regardless of your medical condition or your age, education, and work experience.
+(c) You must have a severe impairment. If you do not have any impairment(s) which significantly limits your physical or mental ability to do basic work activities, we will find that you do not have a severe impairment and are, therefore, not disabled. We will not consider your age, education, and work experience.
+(d) When your impairment meets or equals a listed impairment in Appendix 1. If you have an impairment which meets the duration requirement and is listed in Appendix 1 of Subpart P of Part 404 of this chapter, or is equal to a listed impairment, we will find you disabled without considering your age, education, and work experience.
+(e) Your impairment must prevent you from doing past relevant work. If we cannot make a decision based on your current work activity or on medical facts alone, and you have a severe impairment, we then review your residual functional capacity and the physical and mental demands of the work you have done in the past. If you can still do this kind of work, we will find that you are not disabled.
+(f) Your impairment must prevent you from doing any other work. (1) If you cannot do any work you have done in the past because you have a severe impairment, we will consider your residual functional capacity and your age, education, and past work experience to see if you can do other work. If you cannot, we will find you disabled. (2) If you have only a marginal education, and long work experience (i.e., 35 years or more) where you only did arduous unskilled physical labor, and you can no longer do this kind of work, we use a different rule (see Sec. 416.962).
+In evaluating the evidence at Step 2, i.e., determining whether an impairment is severe, the agency is to make reference to 20 C.F.R. Sec. 416.921, which provides:
+Sec. 416.921 What we mean by an impairment that is not severe.
+(a) Non-severe impairment. An impairment is not severe if it does not significantly limit your physical or mental abilities to do basic work activities.
+(b) Basic work activities. When we talk about basic work activities, we mean the abilities and aptitude necessary to do most jobs. Examples of these include—
+(1) Physical functions such as walking, standing, sitting, lifting, pushing, pulling, reaching, carrying or handling;
+(2) Capacities for seeing, hearing, and speaking;
+(3) Understanding, carrying out, and remembering simple instructions;
+(4) Use of judgment;
+(5) Responding appropriately to supervision, co-workers and usual work situations; and
+(6) Dealing with changes in a routine work setting.
+We think the above-quoted statute and regulations require the agency charged with determination of eligibility for medical assistance to make the following inquiries in determining whether an individual is disabled under 42 U.S.C. Sec. 1382c(a)(3): (1) Is the individual engaged in substantial gainful activity? (2) If not, does the individual suffer from a severe impairment, i.e., an impairment that significantly limits his ability to engage in the basic work activities outlined in 20 C.F.R. Sec. 416.921? (3) Assuming the individual meets this threshold severity requirement, is the impairment so severe as to render the individual disabled without inquiry into vocational factors such as age, education, and work experience, i.e., does the impairment meet or equal those listed in 20 C.F.R. Part 404, Subpart P, Appendix 1? (4) If the severe impairment does not meet or equal those listed in Appendix 1, does it prevent the individual from doing past relevant work in light of his “residual functional capacity?” and, (5) If the severe impairment does prevent the individual from doing past relevant work, can the individual do other work, given his age, education, residual functional capacity, and past work experience?
+We now turn our attention to the final agency decision that is the subject of this appeal. That decision contains statements, labeled “Findings of Fact,” that are actually summaries of plaintiff’s contentions and recitals of the evidence. Finding of Fact No. 3, for example, states:
+Medical evidence shows that you have been treated for a variety of joint complaints, with diagnosis of low back strain, bursitis, and rotator cuff strain. Physical examination shows some decreased range of movement in the back, tenderness, and pain. There are no x-rays available for review.
+Other statements in this part of the decision indicate that “medical evidence shows” that plaintiff suffers from varicose veins “with mild chronic venous insufficiency,” that plaintiff has been hospitalized for treatment of diverticulosis, and that plaintiff was “successfully treated for a renal calculus in 1976.” Finally, Finding of Fact No. 7 states:
+You have a diagnosis of depression, and it is felt that many of your somatic complaints are due to this. However, your depression is considered to be situational in nature, due to severe family problems. It has not caused severe restriction of daily activities, constriction of interests, detrerioration [sic] of personal habits, or inability to relate to other people.
+The section of the decision labeled “Conclusions” contains the following pertinent statements:
+4. Your impairments do not meet or equal the severity described in Appendix 1 of the Social Security regulations.
+5. Although your representative feels that you are restricted to less than a full range of sedentary work, the objective evidence does not document this. None of your impairments objectively meet the requirements for restriction in a publication by the Atlanta Regional Office, entitled Guidelines for Evaluation of Residual Functional Capacity.
+6. Since objective evidence fails to reveal the presence of any impairment or combination of impairments which would cause significant restriction of functional ability, the above cited definition of disability is not met.
+Our examination of the decision rendered by defendant agency reveals that the agency has failed to perform its vital function of finding facts, rendering impossible judicial review of its ultimate decision. Furthermore, the “conclusions” made by the agency are confusing and fail to comply with applicable law. For the benefit of the agency on remand, we will briefly discuss the flaws which permeate the decision before us:
+While “substantial gainful activity” is defined in the final agency decision, the decision is devoid of any finding of fact as to whether plaintiff is engaged in such activity. All of the evidence in the record shows that plaintiff is in fact not employed, and we thus assume the agency would have so found, had it made a finding. Consequently, defendants must next consider whether plaintiff suffers from an impairment or impairments that significantly limit[s] her ability to engage in basic work activities. While the conclusions quoted above might conceivably be construed to suggest that defendants resolved this question of fact in the negative, the agency made no findings of fact in support of such a conclusion. Indeed, the findings made by the agency leave unresolved the question whether plaintiff suffers from any impairment at all; furthermore, there is no reference in the decision to the impact her impairment, if any, has on the activities outlined in 20 C.F.R. 916.921. Our uncertainty as to the agency’s resolution of the question whether plaintiff suffers from a “severe impairment” is compounded by the remaining conclusions quoted above. Under the sequential evaluation process set out in 20 C.F.R. 916.920, a conclusion by the agency that plaintiff does not suffer from a “severe impairment,” if supported by findings of fact which are in turn supported by substantial evidence, ends the agency inquiry and requires a decision denying plaintiffs claim for medical assistance. There is no need for the agency, as it has apparently done in the instant case, to proceed to Step 3, i.e., a consideration of whether plaintiffs impairment meets or equals those listed in Appendix 1. Nor should the agency move to Step 4, which involves an evaluation of plaintiffs residual functional capacity. The fact that the agency addressed these questions in the decision appealed from reveals that the agency did not evaluate plaintiffs claim in the sequential manner mandated by law, and thus demonstrates that the decision is affected by error of law, in addition to being unsupported by findings of fact.
+For the reasons set forth herein, the order of the Superior Court affirming the decision of the Department of Human Resources must be vacated and the cause remanded to that court for the entry of an order of remand to the Department of Human Resources to make findings of fact and conclusions of law consistent with this opinion.
+Vacated and remanded.
+Judges Webb and Hill concur.
