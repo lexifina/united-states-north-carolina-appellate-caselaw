@@ -1,0 +1,42 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7021SC45"
+decided: "1970-02-25"
+citations: ["7 N.C. App. 258"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MoRRis and Vaughn, JJ., concur."]
+parties: ["ATLANTIC MICROFILM CORPORATION v. DR. WILLIAM L. TURNER, R. D. McMILLAN, THOMAS J. WHITE, SAMUEL H. JOHNSON, RALPH H. SCOTT, THORNE GREGORY, LINDSAY C. WARREN, JR., and FRANK FORSYTH"]
+source_url: "https://static.case.law/nc-app/7/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549208
+cites_cases: ["106 U.S. 196", "114 S.E. 693", "118 S.E. 2d 792", "119 S.E. 2d 187", "131 S.E. 665", "138 S.E. 2d 143", "141 S.E. 743", "145 N.C. 495", "168 S.E. 2d 385", "170 N.C. 389", "183 S.E. 423", "184 N.C. 400", "191 N.C. 243", "195 N.C. 291", "209 N.C. 287", "216 N.C. 147", "217 N.C. 495", "223 N.C. 406", "230 N.C. 489", "235 N.C. 597", "254 N.C. 168", "254 N.C. 460", "262 N.C. 496", "27 S.E. 2d 1", "275 N.C. 493", "4 S.E. 2d 328", "42 A.L.R. 1465", "50 A.L.R. 1408", "53 S.E. 2d 517", "70 S.E. 2d 833", "8 S.E. 2d 619", "87 S.E. 133"]
+---
+
+# Atlantic Microfilm Corp. v. Turner
+
+## Majority (Mallard, C.J.)
+
+Mallard, C.J.
+In the case of Schloss v. Highway Commission, 230 N.C. 489, 53 S.E. 2d 517 (1949), it is said:
+“That the sovereign may not be sued, either in its own courts or elsewhere, without its consent, is an established principle of jurisprudence in all civilized nations. S. v. R. R., 145 N.C. 495; Bennett v. R. R., 170 N.C. 389, 87 S.E. 133; Carpenter v. R. R., 184 N.C. 400, 114 S.E. 693; Dredging Co. v. State, 191 N.C. 243, 131 S.E. 665; Rotan v. State, 195 N.C. 291, 141 S.E. 743; Vinson v. O’Berry, 209 N.C. 287, 183 S.E. 423; Insurance Co. v. Unemployment Compensation Com., 217 N.C. 495, 8 S.E. 2d 619; 49 A.J. 301, and citations in note; Anno. 42 A.L.R. 1465, 50 A.L.R. 1408. In the absence of consent or waiver, this immunity against suit is absolute and unqualified. Dalton v. Highway Com., 223 N.C. 406, 27 S.E. 2d 1; 40 A.J. 304.”
+In the case of Electric Co. v. Turner, 275 N.C. 493, 168 S.E. 2d 385 (1969), the plaintiff brought an action against some of these same individuals and others who were at that time holding the same official positions that the individual defendants in this action hold. The plaintiff sought to restrain the defendants from accepting any new bids on certain television transmitting equipment and also requested that a mandatory injunction be issued requiring the defendants to award the plaintiff the contract according to its bid. The Court said:
+“The record discloses that every act charged against any defendant was performed in his capacity as representative of the State, and related to a contract to be performed on behalf of the State. The facts and issues involved, and the relief demanded, permit only one conclusion: This is an action against the State of North Carolina. The suit was without the State’s consent.
+‘It is axiomatic that the sovereign cannot be sued in its own courts or in any other without its consent and permission. . . . An action against a commission or board created by statute as an agency of the State where the interest or rights of the State are directly affected is in fact an action against the State.’ Ins. Co. v. Unemployment Compensation Comm., 217 N.C. 495, 8 S.E. 2d 619; Dredging Co. v. State, 191 N.C. 243, 131 S.E. 665; U. S. v. Lee, 106 U.S. 196, 25 R.C.L. 412.
+* * *
+‘The State is immune from suit unless and until it has expressly consented to be sued. It is for the General Assembly to determine when and under what circumstances the State may be sued. When statutory provision has been made for an action against the State, the procedure prescribed by statute must be followed, and the remedies thus afforded are exclusive. . . .’ Ins. Co. v. Gold, 254 N.C. 168, 118 S.E. 2d 792.”
+The Director of the North Carolina Department of Administration, the State Purchasing Officer in charge of the Purchase and Contract Division of the Department of Administration, the North Carolina Board of Award, and the Advisory Budget Commission of North Carolina are State officials and State agencies. Their authority is defined by statute. The plaintiff does not allege that these State officials and State agencies can be sued by plaintiff; neither does plaintiff allege that it has permission to sue them as State officials. In fact, in its complaint the plaintiff alleges that it has no adequate remedy at law and that it could not sue the State of North Carolina for failure to award a contract to the plaintiff.
+In the case of Lynn v. Clark, 254 N.C. 460, 119 S.E. 2d 187 (1961), one of the defendants was described in the caption as “Administrator of Charles Clark, deceased” but there was no allegation in the complaint that he was such administrator or that he had qualified and was acting in his representative capacity. The Supreme Court there said:
+“While a complaint should specifically allege whether the action is brought against the defendant in his representative capacity, it is sufficient if the complaint, taken as a whole, shows that the defendant is being sued in a representative capacity, though it is not expressly so alleged.”
+In the case before us the complaint specifically states that the defendants are being sued as individuals, but the complaint, taken as a whole, shows that the defendants are being sued as State offi-ciáis. A group of individuals, acting as individuals, have no authority to award a contract in the name of the State. The plaintiff says that the defendants are intending to act in their official capacity by awarding a contract. When the defendants act in their official capacity, it is the State acting. The awarding of a contract as described in the complaint would be action on the part of the State.
+In Lynn v. Clark, supra, the Court said:
+“An action should be treated as individual or as representative, as its true nature is disclosed by an inspection of the whole record.”
+When the complaint in the instant case is considered as a whole, we think that the plaintiff is seeking to do indirectly what it cannot do directly in asking the Court to restrain the defendants, as individuals, from doing that which they can do only as public officials. Plaintiff does not allege that defendants, as individuals, have authority to advertise for bids or award a contract to anyone for the microfilming of the patient medical record files of the North Carolina Memorial Hospital at the University of North Carolina at Chapel Till, North Carolina.
+Plaintiff, however, contends that the defendants, as State officials, cannot be acting on behalf of the State because they propose to exceed their authority as State officials. State officials have been given certain discretionary powers under G.S. 143-52, G.S. 143-49 (3), and G.S. 143-49(6). In Electric Co. v. Turner, supra, the Court said:
+“Neither mandamus nor mandatory injunction may be issued to control the manner of exercising a discretionary duty. Ponder v. Joslin, 262 N.C. 496, 138 S.E. 2d 143; Hospital v. Wilmington, 235 N.C. 597, 70 S.E. 2d 833; Harris v. Bd. of Education, 216 N.C. 147, 4 S.E. 2d 328.”
+The plaintiff seeks to restrain State officials by an action alleged to be against individuals. If this action is brought against individuals, and plaintiff states it is, then the plaintiff is not entitled herein to a restraining order against them restraining them from acting as State officials. If the action is against the defendants as State officials, then the allegations of the complaint fail to reveal that plaintiff has the right to maintain such an action.
+In the case before us the plaintiff prays that the defendants be restrained and enjoined from entering into a microfilming contract, as set out in the invitation for bids, with Charles-Leyburn Company or with anyone other than the plaintiff. As in Electric Co. v. Turner, supra, the record here reveals that every act alleged against any individual defendant was an act performed or to be performed in his capacity as a representative of the State.
+We are of the opinion and so hold that this is an unauthorized action against the State, that it is not an action against the defendants as individuals. The judgment of the Superior Court dissolving the restraining order and dismissing the action should be, and it is
+Affirmed.
+MoRRis and Vaughn, JJ., concur.
