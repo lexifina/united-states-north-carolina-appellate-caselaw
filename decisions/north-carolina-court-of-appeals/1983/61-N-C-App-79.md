@@ -1,0 +1,42 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "823SC74"
+decided: "1983-03-01"
+citations: ["61 N.C. App. 79"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge WELLS concurs in the result.", "Judge WHICH ard concurs."]
+parties: ["PAUL R. WATERS and wife, ALMA M. WATERS, and WACHOVIA BANK AND TRUST COMPANY, N.A., Trustee Under the Will of James A. Tingle, Deceased v. NORTH CAROLINA PHOSPHATE CORPORATION, DAVID B. ALLEMAN and wife, RUTH G. ALLEMAN, and ELIZABETH KEYS ALLEMAN WHEELER (DIVORCED)"]
+source_url: "https://static.case.law/nc-app/61/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8519433
+cites_cases: ["157 N.C. 6", "232 S.E. 2d 275", "233 S.E. 2d 925", "234 N.C. 79", "243 N.C. 525", "273 S.E. 2d 517", "275 S.E. 2d 277", "279 S.E. 2d 357", "292 N.C. 470", "302 N.C. 402", "32 N.C. App. 305", "50 N.C. App. 252", "51 N.C. App. 19", "66 S.E. 2d 312", "72 S.E. 866", "91 S.E. 2d 673"]
+---
+
+# Waters v. North Carolina Phosphate Corp.
+
+## Majority (VAUGHN, Chief Judge.)
+
+VAUGHN, Chief Judge.
+Plaintiffs argue that the trial court erred in admitting evidence and making findings of fact and conclusions of law regarding the CP&L easement. They contend that this Court had previously ruled on this issue in Waters II and the trial court was bound by that decision under the doctrine of law of the case.
+In general, when an appellate court decides a question and remands the case for further proceedings, the questions determined by the appellate court become the law of the case, both in subsequent proceedings in the trial court, and on appeal. Bruce v. O’Neal Flying Service, Inc., 234 N.C. 79, 66 S.E. 2d 312 (1951). The doctrine of law of the case does not apply to dicta, but only to points actually presented and necessary to the determination of the case. Hayes v. City of Wilmington, 243 N.C. 525, 91 S.E. 2d 673 (1956).
+In Waters II this Court reversed the judgment directing verdict in Phosphate’s favor. Since Phosphate did not state specific grounds for its motion, this Court examined every possible basis for the motion to determine whether the evidence was sufficient to go to the jury. The directed verdict was reversed on the following grounds: the purported reverter clause had previously been deemed ineffectual; the evidence presented regarding a 1960 judgment creating a canal corporation was insufficient to justify a directed verdict; and plaintiffs had presented sufficient evidence to submit to the jury the issue of whether the CP&L easement constituted a visible easement. With regard to this last issue, this Court noted:
+If the CP&L easement is found by the jury to be a visible easement, defendant would be deemed to have entered the contract to convey intending to take subject to the easement and defendant could not assert the CP&L easement as a reason to refuse to perform the contract.
+Waters II, 50 N.C. App. at 256, 273 S.E. 2d at 520. Since the sole issue before the court was whether there was sufficient evidence to go to the jury, the above statement, which is more applicable to covenants against encumbrances in a deed than to contracts, was not necessary to the holding and was not binding on the subsequent trial.
+In this case, the findings of fact regarding the CP&L easement, particularly as to its visibility, CP&L’s entire rights thereunder, and Phosphate’s knowledge of these rights, were clearly relevant to decide the issue of whether the easement was of a visible, open and notorious nature. The evidence showed, and Judge McKinnon properly concluded, that the easement consisted of more than the visible power lines and right-of-way; and that Phosphate was not given notice of the entire rights of CP&L. We also find no error in the trial court’s interpretation of the rules as established by Waters II. Judge McKinnon further concluded that the presumption that a vendee in a contract to purchase land is presumed to have contracted to accept the land subject to visible easements of an open and notorious nature, is rebuttable. This interpretation is consistent with the following statement in 77 Am. Jur. 2d Vendor and Purchaser, § 222 at 399 (1975): “In the ordinary case the vendee is presumed to have contracted to accept the land subject to visible easements of an open and notorious nature, although it would seem that the circumstances may be such as to repel this presumption. . . .” “Where the vendee protects himself against encumbrances by a positive covenant that the premises shall be conveyed clear of all encumbrances, the vendor does not comply with the contract by tendering a conveyance where the land is subject to a visible easement, even though the vendee knew of it.” In Waters II this Court quoted this first sentence but omitted that portion beginning with “although.”
+Plaintiffs’ reliance on Hawks v. Brindle, 51 N.C. App. 19, 275 S.E. 2d 277 (1981), for their argument that the presumption is ir-rebuttable, is misplaced. Hawks involved a breach of the covenant against encumbrances found in a general warranty deed. In Hawks, this Court reversed the judgment directing verdict in defendants’ favor on the breach of covenant against encumbrances because there was no evidence that either plaintiffs or defendants knew that the tract of land was subject to a highway right-of-way. This Court, citing Goodman v. Heilig, 157 N.C. 6, 8-9, 72 S.E. 866, 867 (1911) applied the following rule of law:
+The rule in North Carolina appears to be that a covenantee may not recover for breach of the covenant against encumbrances where the encumbrance he alleges is a public highway or railroad right-of-way and either (1) the covenan-tee purchased the property with actual knowledge that it was subject to the right-of-way or (2) the property was “obviously and notoriously subjected at the time to some right of easement or servitude . . . (Emphasis added.)
+Hawks v. Brindle, 51 N.C. App. at 24, 275 S.E. 2d at 281.
+In this case we are dealing with a contract to convey land where the parties expressly agreed that the land would be conveyed subject to no encumbrances not satisfactory to Phosphate and to give Phosphate “exclusive possession of the property free from the claims and interferences of all persons whomsoever at the time of closing.” In the contract Phosphate waived no encumbrance other than an existing agricultural lease. By entering into this contract, Phosphate provided itself with an opportunity to investigate the property and any encumbrances thereon before closing. The very purpose of the aforementioned terms was to protect Phosphate against any unsatisfactory encumbrances. To hold that Phosphate was only protected against unknown encumbrances would rob the contract of its value and destroy the force of its language. Under the terms of the contract between the parties, the visibility of the easement would be immaterial. The question before the trial court involved the interpretation of this contract. On remand the trial court made findings of fact determining both issues. Since the evidence supports the findings of fact, and these findings of fact support the conclusions of law, we affirm the judgment. In light of this holding we deem it unnecessary to discuss defendant Phosphate’s cross-assignments of error.
+For the reasons stated above, the judgment of the trial court is
+Affirmed.
+Judge WELLS concurs in the result.
+Judge WHICH ard concurs.
+
+## Concurrence (Judge WELLS)
+
+Judge WELLS
+concurring in the result.
+I disagree with the majority reasoning, but agree with the result reached.
+I am persuaded that in Waters v. Phosphate Corp., 50 N.C. App. 252, 273 S.E. 2d 517, disc. rev. denied, 302 N.C. 402, 279 S.E. 2d 357 (1981), this Court clearly held that the visible easement rule applies to contracts to convey land, as well as to deeds of conveyance. I take that to be the law of this case, as well as the law of this jurisdiction. The rule, correctly applied, requires that the visible easements, known to the vendee, will not excuse performance by the vendee. Judge McKinnon found that the CP&L easement, while having visibility, had characteristics not known to the vendee in this case, e.g., rights of ingress and egress, etc. (see paragraph nine of Judge McKinnon’s order). The evidence supports this finding, and this finding supports Judge McKinnon’s conclusions of law, which support his judgment. For these reasons, I concur in the result.
