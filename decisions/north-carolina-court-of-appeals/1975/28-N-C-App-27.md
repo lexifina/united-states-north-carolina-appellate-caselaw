@@ -1,0 +1,47 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7515SC534"
+decided: "1975-12-17"
+citations: ["28 N.C. App. 27"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Britt and Vaughn concur."]
+parties: ["TOWN OF MEBANE v. IOWA MUTUAL INSURANCE COMPANY"]
+source_url: "https://static.case.law/nc-app/28/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8546741
+cites_cases: ["195 S.E. 2d 517", "226 N.C. 614", "236 N.C. 680", "237 N.C. 52", "283 N.C. 110", "31 N.C. 496", "39 S.E. 2d 914", "73 S.E. 2d 906", "74 S.E. 2d 310"]
+---
+
+# Town of Mebane v. Iowa Mutual Insurance
+
+## Majority (ARNOLD, Judge.)
+
+ARNOLD, Judge.
+This case presents the troublesome question of when an attorney may testify on behalf of a client and not withdraw as trial counsel. The weight of authority in this country is that while it is a breach of professional ethics for an attorney for a party to testify as to matters other than formal matters without withdrawing from the litigation, he is not incompetent so to testify. The testimony is admissible if otherwise competent. 118A.L.R. 954 (1939).
+The Supreme Court of North Carolina has historically discouraged the practice of attorneys testifying on behalf of clients, and although it has been allowed, in most instances the lawyer acting as witness for his client has surrendered his right to participate in the litigation. In re Will of Kemp, 236 N.C. 680, 73 S.E. 2d 906 (1953) ; see State v. Woodside, 31 N.C. 496 (1849).
+Recognizing the unique problem of attorneys appearing as witnesses on behalf of parties they represent, the Council of the N. C. State Bar, an agency created by the General Assembly of North Carolina and empowered to formulate and adopt rules of ethics and conduct for attorneys licensed to practice in this State, adopted rules applicable to this situation in the Code of Professional Responsibility. (4A Gen. Stat. Append. VII 169 (Sup. 1974)). The pertinent rules of the Code are as follows:
+“DR5-101 — Refusing Employment When the Interests of the Lawyer May Impair His Independent Professional Judgment.
+(B) A lawyer shall not accept employment in contemplated or pending litigation if he knows or it is obvious that he or a lawyer in his own firm ought to be called as a witness, except that he may undertake the employment and he or a lawyer in his firm may testify:
+(1) If the testimony will relate solely to an uncontested matter.
+(2) If the testimony will relate solely to a matter of formality and there is no reason to believe that substantial evidence will be offered in opposition to the testimony.
+(3) If the testimony will relate solely to the nature and value of legal services rendered in the case by the lawyer or his firm to the client.
+(4) As to any matter, if refusal would work a substantial hardship on the client because of the distinctive value of the lawyer or his firm as counsel in the particular case.”
+“DR5-102 — Withdrawal as Counsel When the Lawyer Becomes a Witness.
+(A) If, after undertaking employment in contemplated or pending litigation, a lawyer learns or it is obvious that he or a lawyer in his firm ought to be called as a witness on behalf of his client, he shall withdraw from the conduct of the trial and his firm, if any, shall not continue representation in the trial, except that he may continue the representation and he or a lawyer in his firm may testify in the circumstances enumerated in DR5-101 (B) (1) through (4).”
+Article 2, Section 1 of the N. C. Constitution provides that “The legislative powers of the State shall be vested in the General Assembly. ...” It is clear that the General Assembly is not to abdicate or delegate its authority to make law, but where it has declared the policy to be effectuated, established a framework of law within which the legislative goals are to be accomplished, and created standards for the guidance of the administrative agency, it may delegate to such agency the authority to make determinations of fact upon which the operation of the statute is made to depend. Foster v. Med. Care Com., 283 N.C. 110, 195 S.E. 2d 517 (1973) ; Coastal Hwy. v. Auth., 237 N.C. 52, 74 S.E. 2d 310 (1953).
+G.S. Chapter 84, Article 4 creates the N. C. State Bar as the agency, subject to the superior authority of the General Assembly, to formulate and adopt rules of professional ethics and conduct for licensed attorneys. Adequate standards are set forth to guide the State Bar in effectuating the policy or legislative goals declared by the General Assembly.
+While the Disciplinary Rules set forth in the Code of Professional Conduct do not control the admissibility of evidence or the competency of witnesses, they do govern the ethics and conduct of attorneys licensed to practice law in the State, and it should be the policy of the courts to give effect to these rules which specifically address the question of when an attorney may be a witness for a party he represents.
+We see no inconsistency in the Code of Professional Conduct and the uniform practice that has existed in North Carolina with respect to attorneys testifying on behalf of clients. If it becomes obvious that an attorney ought to testify on behalf of his client it is clear that he may do so, but he or any member of his firm shall not continue representation in the trial unless he can come under the exceptions listed in Disciplinary Rule 5-101 (B) (1) through (4). The exceptions allow an attorney or a member of his firm to testify and continue representation of the client if the testimony relates solely to an uncontested matter ; relates solely to a matter of formality and there is no reason to believe substantial evidence will be offered in opposition; relates solely to the nature and value of legal services rendered; and “as to any matter if refusal would work a substantial hardship on the client because of the distinctive value of the lawyer or his firm as counsel in the particular case.”
+The learned trial judge was mistaken during the trial when he remarked that “ [a] s a matter of law one cannot be a counsel of record and a witness for his client in one and the same lawsuit. There are no facts or circumstances presented or shown to this court to modify or change it, or make any exception even if the law would permit an exception. I know of no law that permits any exception.” Both the Code of Professional Conduct, as already cited, and the common practice recognized by the North Carolina Supreme Court provide for exceptions whereby attorneys may testify on behalf of clients. See In re Will of Kemp, supra; and State v. Woodside, supra.
+We feel, however, that there was no error in refusing to allow the attorney’s testimony in this case. The ruling by the trial judge actually occurred during a pretrial conference in which the court instructed the attorney that he would be allowed to testify only if he withdrew and secured other counsel to try the case.
+Plaintiff’s contention that to require it to secure new counsel would be an economic hardship, and hence a substantial hardship as contemplated in Disciplinary Rule 5-101 (B)(4), was expressly rejected by the judge in the pretrial conference. Indicating that he had considered Disciplinary Rule 5-101, and due to the nature of the testimony offered, the judge declared that the plaintiff’s attorney would not be permitted to testify.
+In making his determination not to allow the attorney to be a witness unless he withdrew the trial judge properly considered Disciplinary Rule 5-101. It was the judge’s view that due to the nature of the testimony offered the attorney did not come under the exception in 5-101 (B) (4) as a matter of law. We agree.
+No sudden emergency developed during the course of the trial which presented plaintiff’s attorney with the dilemma of whether he ought to take the stand as a witness for his client. He was given ample notice of the court’s ruling before trial commenced, and the court offered to postpone the trial of the case in order for new counsel to prepare. This is not a case where the testimony offered by the attorney came within any of the exceptions set forth under Disciplinary Rule 5-101 (B) (1) through (4).
+Plaintiff also assigns as error the court’s holding as a matter of law that there was no evidence of waiver by defendant of the requirement to commence action within two years following discovery of the loss.
+Both parties cite Hicks v. Insurance Co., 226 N.C. 614, 617, 39 S.E. 2d 914 (1946), which states the relevant law with respect to waiver as follows: “Waiver of the . . . provision in a policy of insurance is predicated on knowledge on the part of the insurer of the pertinent facts and conduct thereafter inconsistent with an intention to enforce the condition.”
+Plaintiff argues that the fact that defendant requested and received from plaintiff a copy of a transcript of certain criminal proceedings is evidence of waiver. We disagree, and find no evidence in the record to show any conduct by defendant which was inconsistent with an intention to enforce the two-year condition, or which would have caused plaintiff to honestly believe there was any waiver.
+We find no error in the court’s conclusion that there was no evidence of waiver of the contract provision.
+Affirmed.
+Judges Britt and Vaughn concur.
