@@ -1,0 +1,31 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7014SC205"
+decided: "1970-04-01"
+citations: ["7 N.C. App. 538"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mallard, C.J., and VaughN, J., concur."]
+parties: ["IRENE H. FARMER v. WELLONS VILLAGE SHOPPING CENTER DRUG CORPORATION"]
+source_url: "https://static.case.law/nc-app/7/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551541
+cites_cases: ["136 S.E. 2d 275", "139 S.E. 2d 1", "154 S.E. 2d 483", "171 S.E. 2d 70", "171 S.E. 2d 95", "242 N.C. 263", "243 N.C. 221", "262 N.C. 57", "263 N.C. 112", "270 N.C.. 447", "6 N.C. App. 690", "6 N.C. App. 696", "87 S.E. 2d 561", "90 S.E. 2d 532"]
+---
+
+# Farmer v. Wellons Village Shopping Center Drug Corp.
+
+## Majority (MoRRis, J.)
+
+MoRRis, J.
+Plaintiff’s first assignment of error raises the question of whether the trial court committed reversible, error in granting defendant’s motion for judgment of nonsuit at the close of plaintiff’s evidence.
+Plaintiff argues that the rug was partially concealed from the view of entering customers because of a large decal pasted to the lower portion of the door leading into the store; that a magazine rack had been placed to the right of the door, which necessitated a sharp turn to the left after entering the door, and that this design or placement of fixtures, together with the location of the rug, constituted a hazard.
+Plaintiff had entered defendant’s store during business hours. Her status was that of an invitee of defendant. The mere fact that she was an invitee did not make defendant an insurer of her safety while she was on its premises as a customer. Defendant would be liable to plaintiff for injuries sustained by her only if those injuries resulted from its actionable negligence. Gaskill v. A. & P. Tea Co., 6 N.C. App. 690, 171 S.E. 2d 95 (1969). Defendant owed to plaintiff, and all others similarly situated, the duty to exercise ordinary care to keep the premises in a reasonably safe condition and to give warning of hidden perils or of unsafe conditions insofar as they are known, or should be known, by reasonable inspection. Routh v. Hudson-Belk Co., 263 N.C. 112, 139 S.E. 2d 1 (1964).
+Nor does any inference of negligence on the part of defendant arise from the mere fact of a customer’s fall on the floor of its store during business hours, the doctrine of res ipsa loquitur having no application. Gaskill v. A. & P. Tea Co., supra, and cases there cited.
+Viewing plaintiff’s evidence in the light of these principles and considering it in the light most favorable to her, as we must do on a judgment of compulsory nonsuit. Quinn v. Supermarket, Inc., 6 N.C. App. 696, 171 S.E. 2d 70 (1969), we are of the opinion that plaintiff’s evidence was not sufficient to support a finding of actionable negligence on the part of defendant which was a proximate cause of plaintiff’s injuries. Plaintiff’s evidence shows that she had been in defendant’s store just prior to her fall for the purpose of having a prescription filled. As she was leaving the store with the prescription, she saw a can of hair spray which she wanted to purchase. She had expended all of the cash she had at the time for her prescription; and, since the hair spray she wanted was the last can on display, she asked the clerk to hold it for her while she went to get some money from her daughter who was shopping in a nearby store. When she returned with the money, she looked at the clerk as she entered the door, stumbled on the rug, and fell. She testified that she had seen a rug on the floor on previous occasions when she had been in the store but that she did not see it at the time of her fall.
+There is no evidence that her view was blocked by the decal as she alleged. There is no evidence as to the actual condition of the rug at the time of her fall nor is there evidence to substantiate plaintiff’s allegations that the entrance passageway was inadequate or that defendant had failed to provide a safe passageway.
+Defendant had a duty to keep the aisles and passageways in reasonably safe condition and to give warning of any hidden dangers or unsafe conditions of which it had knowledge or in the exercise of reasonable supervision and inspection should have had knowledge. Long v. Food Stores, 262 N.C. 57, 136 S.E. 2d 275 (1964); Routh v. Hudson-Belk Co., supra. Defendant, however, has no duty to warn an invitee of an obvious condition or one of which the invitee has equal or superior knowledge. Wrenn v. Convalescent Home, 270 N.C.. 447, 154 S.E. 2d 483 (1967). There is no evidence that defendant failed to keep the aisles or passageways in a reasonably safe condition, while there is evidence that plaintiff had knowledge that a -rug was likely to be in the very place it was when she stumbled and fell and that plaintiff was familiar with the store from previous visits and had seen a rug on the floor on previous occasions. The mere presence of the rug did not constitute actionable negligence. See 65 C.J.S., Negligence, § 81(10). Even if the evidence were sufficient to support a finding of actionable negligence on the part of defendant, plaintiff’s evidence reveals contributory negligence as a matter of law. Plaintiff attempts to repel this by contending that defendant’s “successful merchandising technique” had caused her to be attracted by displays and to think about other purchases, thus causing her attention to be diverted and causing her momentarily to forget about the rug. But she testified that “Nothing attracted my attention when I entered the store the second time except looking for the clerk.” In looking for the clerk plaintiff was acting of her own volition, and defendant cannot be held accountable for plaintiff’s forgetfulness under these circumstances, which are not sufficiently diverting to excuse plaintiff’s lapse of memory. See Dennis v. Albemarle, 242 N.C. 263, 87 S.E. 2d 561 (1955); reh. den. 243 N.C. 221, 90 S.E. 2d 532 (1955).
+Because we are of the opinion that the judgment of nonsuit was proper in this case, we consider it unnecessary to discuss plaintiff’s remaining assignments of error.
+Affirmed.
+Mallard, C.J., and VaughN, J., concur.
