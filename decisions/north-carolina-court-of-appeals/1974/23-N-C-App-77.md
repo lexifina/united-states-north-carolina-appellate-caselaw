@@ -1,0 +1,35 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7418SC609"
+decided: "1974-09-18"
+citations: ["23 N.C. App. 77"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chief Judge Brock and Judge Martin concur."]
+parties: ["STATE OF NORTH CAROLINA v. CHESTER HARRIS"]
+source_url: "https://static.case.law/nc-app/23/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8547838
+cites_cases: ["151 N.C. 731", "161 S.E. 2d 560", "180 S.E. 2d 140", "195 S.E. 2d 297", "20 N.C. App. 164", "20 N.C. App. 43", "200 S.E. 2d 408", "200 S.E. 2d 838", "207 S.E. 2d 712", "274 N.C. 62", "278 N.C. 351", "283 N.C. 249", "285 N.C. 631", "66 S.E. 567"]
+---
+
+# State v. Harris
+
+## Majority (MORRIS, Judge.)
+
+MORRIS, Judge.
+Defendant’s first and second assignments of error are addressed to the court’s allowing a State’s witness to testify about State’s Exhibit No. 12 as to which there was neither a proper foundation nor a proper authentication. Some of the exceptions upon which these assignments of error are based are not properly before us because it is impossible to determine from the record whether an objection was made at trial and a ruling made thereon by the court. Nevertheless, we discuss the assignments of error as though they were properly before us. The photograph in question was a photograph of the parking lot on which the homicide took place. It is true the witness was very vague in his identification by location of automobiles in the photograph shown him to refresh his recollection. It is also true, as defendant contends, that photographs when relevant and properly limited and authenticated are “competent to be used by a witness to explain or to illustrate anything it is competent for him to describe in words.” State v. Dawson, 278 N.C. 351, 180 S.E. 2d 140 (1971). However, as defendant candidly concedes, defendant must show not only that the photograph used to illustrate the vntness’s testimony was unauthenticated, but that its erroneous use was prejudicial and that absent the error, a different result would be likely. State v. Willis, 20 N.C. App. 43, 200 S.E. 2d 408 (1973). The witness was handed the photograph in question for the purpose, as stated by the solicitor, of refreshing the witness’s recollection. It obviously did not serve that purpose, and the photograph was never introducéd into evidence and never shown to the jury. The witness did, however, draw on the blackboard a diagram of the parking lot and the location of the vehicles at the time of the shooting. We fail to perceive any prejudice to defendant even if we should concede error, which we do not do.
+Assignments of error Nos. 3, 4, 5, 6, 7, 9, 10, and 11 are deemed abandoned by appellant since they are not brought forward and argued in his brief. Rule 28, Rules of Practice in the Court of Appeals of North Carolina.
+By his eighth assignment of error, defendant urges that prejudicial error was committed when the court allowed the solicitor to ask the defendant how much he weighed. We fail to see prejudicial error. This assignment of error is also overruled.
+Defendant’s remaining assignments of error are to the charge of the court. He first contends that the court in charging the jury as follows committed reversible error:
+“If the State proves beyond a reasonable doubt that the defendant intentionally killed Harold Farrington with a deadly weapon or intentionally inflicted a wound upon Harold Farrington with a deadly weapon which proximately caused his death, the law raises two presumptions: first, that the killing was unlawful, and, second, that it was done with malice. Then, nothing else appearing, the defendant would be guilty of second degree murder.”
+Defendant concedes that this portion of the charge is in accord with long-standing principles of law in this State. See State v. Propst, 274 N.C. 62, 161 S.E. 2d 560 (1968), and cases there cited. He urges, however, that the court should have further instructed the jury:
+“If on the State’s evidence there is uncontradicted evidence that the killing arose out of an act of self-defense, then no presumptions arise that the killing was unlawful and done with malice. Though the State is free to attempt to prove malice, it must do so unaided by presumptions.”
+We are not disposed to change the long-standing legal principles extant in the law of this jurisdiction with respect to death resulting from an intentional shooting. Indeed, even if defendant’s position had merit, he can show no prejudice, because conviction of a lesser offense renders harmless any errors in the charge with respect to the more serious offense unless it can be shown that the verdict was affected by the error. State v. McLamb, 20 N.C. App. 164, 200 S.E. 2d 838 (1973), and cases there cited. Defendant has not shown that the verdict was affected by the alleged error. This assignment of error is without merit and is overruled.
+By his assignment of error No. 12, defendant challenges the instruction of the court with respect to self-defense, conceding that the portion of the charge to which he excepts accurately reflects the current status of the law of this jurisdiction, to wit: the defendant has the burden of proving that he acted in self-defense to the satisfaction of the jury — not by the greater weight of the evidence nor beyond a reasonable doubt— but simply to the satisfaction of the jury. His contention is that our law has the effect of requiring defendant to prove his innocence and relieves the State of the burden of proving criminality. This contention was urged by the defendant in State v. Kelly Dean Sparks, 285 N.C. 631, 207 S.E. 2d 712 (1974), and there rejected. We also reject it.
+Finally, defendant urges that the court erroneously submitted to the jury an issue as to involuntary manslaughter. His argument that such an issue is not supported by the evidence is persuasive. Nonetheless, in State v. Vestal, 283 N.C. 249, 195 S.E. 2d 297 (1973), the Supreme Court, through Higgins, J., discussed this question at length. The result was to reaffirm the long-standing position of this jurisdiction that the .defendant cannot complain of a verdict of guilty of a lesser degree of homicide. “ ‘An error on the side of mercy is not reversible.’ ” State v. Vestal, supra, citing State v. Fowler, 151 N.C. 731, 66 S.E. 567. Justice Higgins said:
+“This proposition fails of its own weight. The defendant gains a new trial if the court fails to charge on a lesser offense of which there is evidence. The judge, therefore, must be alert to the danger of a new trial if he fails to charge on the lesser offense. In borderline cases, prudence dictates submission of the lesser offenses. To give the defendant absolution if the judge makes a mistake in his favor, would tend to put the judge on trial. Such is not the purpose of the law.” State v. Vestal, supra, at 253.
+We conclude that defendant’s trial was free of prejudicial error.
+No error.
+Chief Judge Brock and Judge Martin concur.
