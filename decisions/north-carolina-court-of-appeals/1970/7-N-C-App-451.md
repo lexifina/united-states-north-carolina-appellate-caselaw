@@ -1,0 +1,39 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7020SC21"
+decided: "1970-04-01"
+citations: ["7 N.C. App. 451"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mallaed, C.J., concurs.", "MoRRis, J., dissents."]
+parties: ["Case #1 JIMMY V. MARRONE, JR. and Wife, ARTHUR MAE MARRONE v. CHARLES E. LONG -and-Case #2 CHARLES FRANKLIN HELMS and Wife, DELANA HELMS v. CHARLES E. LONG"]
+source_url: "https://static.case.law/nc-app/7/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8550782
+cites_cases: ["141 N.C. 224", "163 S.E. 2d 664", "18 S.E. 2d 197", "2 N.C. App. 617", "220 N.C. 620", "241 N.C. 240", "246 N.C. 221", "53 S.E. 867", "84 S.E. 2d 892", "90 S.E. 2d 360", "98 S.E. 2d 360"]
+---
+
+# Marrone v. Helms
+
+## Majority (VaughN, J.)
+
+VaughN, J.
+No restrictions appear in the direct chain of title to defendant’s lot. The recorded map shows no restrictions. The deed to Marrone was executed prior to the survey of the “Boulevard Park” Subdivision and makes no reference to such subdivision or any lot therein. The deed to Marrone is the only deed from the common grantor, Ay-cock, containing restrictions or making any reference thereto. The trial judge correctly concluded that the restrictions contained in the plaintiff Marrone’s deed do not limit the defendant’s use of his lot.
+Restrictive covenants cannot be established except by a instrument of record containing adequate words so unequivocally evincing the party’s intention to limit the free use of the land that its ascertainment is not dependent on inference, implication or doubtful construction. Turner v. Glenn, 220 N.C. 620, 18 S.E. 2d 197. If purchasers wish to acquire a right-of-way or other easement over other lands of the grantor, it is very easy to have it so declared in the deed of conveyance. Milliken v. Denny, 141 N.C. 224, 53 S.E. 867. “The courts are not inclined to put restrictions in deeds where the parties left them out.” Hege v. Sellers, 241 N.C. 240, 84 S.E. 2d 892. In the last cited case the owner sold all of the lots in his subdivision except one and inserted the following restriction in each deed: “All lots contained in this property known as Wooded Acres shall be used for residential purposes only.” His deed to the last lot contained no restriction. The Court held that the last lot, conveyed without restriction, was not subject to restrictions imposed in the earlier deeds.
+Here, as in Church v. Berry, 2 N.C. App. 617, 163 S.E. 2d 664, the appellant contends that he is entitled to the relief sought by reason of the decision of a divided court in Reed v. Elmore, 246 N.C. 221, 90 S.E. 2d 360. The facts in Church v. Berry, supra, were very similar to those in the case before us and the decision there is controlling here. The opinion in that case brings forward and reviews pertinent decisions of the Supreme Court prior to its decision in Reed v. Elmore, supra, and very carefully distinguishes that case where the grantor conveyed one tract and, in the same instrument, expressly imposed restrictions on other real estate retained by him, from other cases, such as the one at bar, where there have been no express covenants made by the grantor as to the remainder of his property. The following analysis by Parker, J., in Church v. Berry, supra, is entirely appropriate for disposition of the case now before us:
+“. . . We do not so interpret Reed v. Elmore, supra. It should be noted that the majority opinion of the Court in that case cited both Turner v. Glenn and Hege v. Sellers and did not éxpressly overrule either. On the contrary, the Court took care to distinguish Turner v. Glenn by pointing out that in that case there had been no express covenant made by the common grantor as to the remainder of his property, whereas in Reed there had been a clear express application of the restriction to grantor’s retained lot #4. While the majority opinion in Reed does undoubtedly modify the prior decisions in Turner and in Hege, as we understand the Reed decision it goes no further than to require a purchaser of real property in North Carolina to examine all recorded ‘out’ conveyances made by prior record title holders during the periods when they respectively held title to the property, to determine if any such owner had expressly imposed a restriction upon the use of the property. If no restriction is imposed by clear and express language, the purchaser or his title examiner is not required to go further and to speculate at his peril as to whether imposition of some restriction is to be implied, either through processes of logical analysis of language employed, or from the fact that a large number of deeds containing uniform restrictions had been given, or from any combination of both.
+“If the developer of a real estate subdivision actually intends that all lots therein be restricted, it is simple enough for him to say so. If one of his grantees wants to invest in a restricted lot only if all then unsold lots are similarly restricted, he has but to insist that his grantor expressly say so in the deed by which he acquires title. He has no right to rely on the shaky grounds of implication.”
+There being no instrument of record which expressly imposes any restrictions on defendant’s lot, the decision of the trial court is
+Affirmed.
+Mallaed, C.J., concurs.
+MoRRis, J., dissents.
+
+## Dissent (Morris, J.,)
+
+Morris, J.,
+dissenting:
+This Court, in the majority opinion in Church v. Berry, 2 N.C. App. 617, 163 S.E. 2d 664 (1968), concluded that the opinion in Reed v. Elmore, 246 N.C. 221, 98 S.E. 2d 360 (1957), requires a purchaser of real property in this State to examine all recorded conveyances made by prior record title holders during the period of their ownership of the property for the purpose of determining whether any one of them had expressly imposed restrictions on the use of the property. With this interpretation of Reed v. Elmore, supra, I agree. In this case, the majority opinion affirms the trial court because there is “no instrument of record which expressly imposes any restrictions on defendant’s lot”.
+It appears from the record that Aycock owned a fifteen-acre tract. On 22 June 1965, Aycock conveyed a lot from this tract to Marrone. This deed contained restrictions. Subsequent deeds for lots from this fifteen-acre tract contained no restrictions. However, in my opinion, the restrictions in the Marrone deed are sufficiently, clearly and expressly stated to serve as specific notice of their application to other lots in the tract. The restrictions are set out in full in the majority opinion. The paragraph making the conveyance subject to the restrictions states that the restrictions shall run with the land and specifically refers to subsequent grantees of grantors who might acquire any portion of the original fifteen-acre tract. The first restriction limits the use to residential purposes only and provides that “no residence shall have more than one detached outbuilding.” The fourth restriction provides that “no more than one dwelling shall be constructed on any one lot, as originally sold by the Grantors herein.” (Emphasis supplied.) The fifth restriction requires that “no construction improvements shall be erected nearer than 30 feet to an adjacent street or road right-of-way, no nearer than 8 feet to any other property line.” (Emphasis supplied.)
+I cannot agree that the restrictions were obviously intended to apply only to the lot then being conveyed. The contrary seems more obvious to me. The deed was recorded as the first deed from Aycock and its recordation was prior to his subsequent conveyances of lots in the tract. It, therefore, constituted notice to subsequent purchasers of lots in the fifteen-acre tract. Reed v. Elmore, supra.
+For these reasons, I am compelled to vote for reversal.
