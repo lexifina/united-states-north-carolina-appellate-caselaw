@@ -1,0 +1,33 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7721DC905"
+decided: "1978-09-19"
+citations: ["38 N.C. App. 95"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chief Judge BROCK and Judge HEDRICK concur."]
+parties: ["ROBERT MILLER v. LENORA JACKSON MILLER"]
+source_url: "https://static.case.law/nc-app/38/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8552133
+cites_cases: ["120 S.E. 2d 438", "126 N.C. 507", "158 S.E. 2d 706", "170 N.C. 152", "19 N.C. App. 137", "198 S.E. 2d 36", "199 S.E. 2d 659", "2 S.E. 346", "216 S.E. 2d 464", "238 N.C. 506", "255 N.C. 202", "26 N.C. App. 494", "272 N.C. 499", "284 N.C. 121", "36 S.E. 47", "78 S.E. 2d 334", "86 S.E. 957", "97 N.C. 86"]
+---
+
+# Miller v. Miller
+
+## Majority (ARNOLD, Judge.)
+
+ARNOLD, Judge.
+The proper venue in a divorce action is the county in which either the husband or the wife resides. N.C.G.S. §§ 50-3, 1-82. Here, the action was filed in Forsyth County, but both husband and wife were residents of Guilford County. However, venue is not jurisdictional, but is only ground for removal to the proper county upon a timely objection made in the proper manner. Farmers Cooperative Exchange, Inc. v. Trull, 255 N.C. 202, 120 S.E. 2d 438 (1961); 13 Strong’s N.C. Index 3d, Venue, § 1, p. 269. The place of trial may, of course, be changed whenever: “the county designated for that purpose is not the proper one, . . . the convenience of witnesses and the ends of justice would be promoted by the change, . . . the judge has, at any time, been interested as party or counsel, . . . motion is made by the plaintiff and the action is for divorce and the defendant has not been personally served with summons.” N.C.G.S. § 1-83.
+Defendant made a timely motion for removal under Rule 12(b), which requires that the motion be made at or before the time of filing an answer, and the motion was made in the proper manner. Defendant contends that whenever an action has been brought in the wrong county such a properly made motion for change of venue must be granted.
+The general rule in North Carolina, as elsewhere, is that where a demand for removal for improper venue is timely and proper, the trial court has no discretion as to removal. Mitchell v. Jones, 272 N.C. 499, 158 S.E. 2d 706 (1968) (dicta); Swift and Co. v. Dan-Cleve Corp., 26 N.C. App. 494, 216 S.E. 2d 464 (1975) (dicta); 1 McIntosh, N.C. Practice & Procedure, § 832, p. 434 (2d ed., 1956). The provision in N.C.G.S. § 1-83 that the court “may change” the place of trial when the county designated is not the proper one has been interpreted to mean “must change.” Jones v. Statesville, 97 N.C. 86, 2 S.E. 346 (1887). Contra, Lassiter v. Norfolk & Carolina R.R. Co., 126 N.C. 507, 36 S.E. 47 (1900).
+However, since venue is not jurisdictional it may be waived by express or implied consent, 13 Strong’s N.C. Index 3d, Venue, § 1, p. 269, and a defendant’s failure to press his motion to remove has been found to be a waiver. Jones v. Brinson, 238 N.C. 506, 78 S.E. 2d 334 (1953); Oettinger v. Hill Live Stock Co., 170 N.C. 152, 86 S.E. 957 (1915); Swift and Co. v. Dan-Cleve Corp., supra; Strong’s N.C. Index 3d, supra. The question then is whether this defendant’s failure to appear on the second hearing date, having received a continuance at the first hearing date five months earlier, is a failure to pursue her motion sufficient to constitute a waiver.
+In Jones v. Brinson, supra, removal was by consent of the parties, but when both parties failed for a period of five months to tend to the administrative details required of them for removal, the plaintiff was found to have waived his right to object when defendant sought in the court of original venue to have the order of removal rescinded. The court in Oettinger, supra, denied defendant’s motion for removal, but gave him time to file additional affidavits, which he failed to do. The case was continued at defendant’s request for five months, at which time the motion was renewed and denied. The court found that defendant’s failure to file the affidavits and to except to or appeal the denial of his motion constituted a waiver. Recently this Court in the Swift case, supra, found no waiver in a delay of four months, but in that case the defendant neither sought a continuance nor failed to appear on the hearing date, but merely took no action during the period.
+Here, almost a year passed between the time defendant filed her motion and the first hearing date, but defendant sought a continuance at that time, and on the second hearing date five months later failed to appear. The trial court was justified in finding an implied waiver of defendant’s right to a change of venue by her failure to pursue her motion for removal. The motion was properly dismissed and defendant’s argument to the contrary is rejected.
+However, defendant correctly contends that the trial court erred in granting plaintiff a divorce on the same day the court ruled on defendant’s Rule 12(b) motion, and prior to defendant’s filing an answer in the action. As a general rule defendant has 30 days after service of the complaint upon him to file his answer. N.C.G.S. § 1A-1, Rule 12(a)(1). However, service of a Rule 12 motion alters the time period, giving defendant 20 days after notice of the court’s action on the motion to file his answer. Moseley v. Branch Banking & Trust Co., 19 N.C. App. 137, 198 S.E. 2d 36, cert. denied 284 N.C. 121, 199 S.E. 2d 659 (1973); N.C.G.S. § 1A-1, Rule 12 (a)(1)a; 1 McIntosh, supra, § 833. Defendant in this action filed a Rule 12 motion upon which the court ruled on 1 June 1977. Defendant was entitled to notice of this action, and to 20 days after the notice to file an answer to plaintiff’s complaint. The court erred in finding as fact that the time for pleading had expired and in entering judgment for plaintiff.
+Defendant also argues that, as her time for answering had not expired, neither had her time for demanding a jury trial. A party is entitled to demand trial by jury until 10 days after the service of the last pleading. N.C.G.S. §§ 50-10; 1A-1, Rule 38(b). Here, as the time for service of an answer had been extended by Rule 12(a), so had the time for demanding a jury trial.
+We find that defendant’s motion for removal was properly dismissed, but that the trial court erred in entering judgment before the time to answer had expired. Judgment is therefore vacated.
+Affirmed in part, and
+Reversed and remanded in part.
+Chief Judge BROCK and Judge HEDRICK concur.
