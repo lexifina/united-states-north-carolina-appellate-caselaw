@@ -1,0 +1,34 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7018SC323"
+decided: "1970-06-24"
+citations: ["8 N.C. App. 423"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mallard, C.J., and MoRRis, J., concur."]
+parties: ["STATE OF NORTH CAROLINA v. LEE MAY"]
+source_url: "https://static.case.law/nc-app/8/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8552502
+cites_cases: ["111 S.E. 2d 1", "127 S.E. 2d 774", "135 S.E., 771", "146 S.E. 2d 800", "147 S.E. 2d 881", "148 S.E. 2d 651", "15 S.E. 2d 9", "150 S.E. 2d 54", "182 S.E. 714", "187 S.E., 560", "19 S.E. 2d 142", "192 N.C., 668", "209 N.C. 56", "210 N.C., 447", "219 N.C. 545", "221 N.C. 117", "230 N.C. 54", "251 N.C. 177", "258 N.C. 44", "266 N.C. 640", "267 N.C. 238", "267 N.C. 470", "268 N.C. 140", "51 S.E. 2d 895"]
+---
+
+# State v. May
+
+## Majority (GRAHAM, J.)
+
+GRAHAM, J.
+Defendant assigns as error the court’s action in changing the suspended sentences and imposing active sentences upon learning of defendant’s intention to appeal.
+“In criminal cases the right of appeal by a convicted defendant from a final judgment is unlimited in the courts of North Carolina. This right of appeal is a substantial right. G.S. 15-180; S. v. Hodge, 267 N.C. 238, 147 S.E. 2d 881; S. v. Darnell, 266 N.C. 640, 146 S.E. 2d 800; S. v. Grundler, 251 N.C. 177, 111 S.E. 2d 1; S. v. Blades, 209 N.C. 56, 182 S.E. 714. In S. v. Calcutt, 219 N.C. 545, 15 S.E. 2d 9, we held that the execution of a sentence in a criminal action may not be suspended on conditions that conflict with the defendant’s right of appeal.” State v. Rhinehart, 267 N.C. 470, 148 S.E. 2d 651.
+In State v. Patton, 221 N.C. 117, 19 S.E. 2d 142, after the trial judge imposed sentence that prayer for judgment be continued on certain conditions, defendant entered notice of appeal. Thereupon the judge ordered the previous sentence stricken and imposed a sentence of 90 days in jail. In remanding the case for resentencing the Supreme Court, speaking through Devin, J., (later C.J.) stated:
+“While undoubtedly the presiding judge had the power to change his judgment at any time during the term in his sound discretion (S. v. Godwin, 210 N.C., 447, 187 S.E., 560), yet it seems here, under the circumstances described in the record, the action of the judge was induced by the defendant’s expression of his intention to appeal. This tended to impose a penalty upon the defendant’s right of appeal and to affect the exercise of his right to do so. C.S., 4650; S. v. Calcutt, 219 N.C., 545, 15 S.E. (2d), 9; S. v. Burgess, 192 N.C., 668, 135 S.E., 771.
+It may be noted that in the same statute wherein provision was made for the organization of this Court, in 1818, it was declared that appeals might be taken from the sentence or judgment of the Superior Court ‘in any cause of action, civil or criminal,’ thus establishing the policy, ever since adhered to, of unlimited right of appeal to the Supreme Court by any party aggrieved. This right ought not to be denied or abridged, nor should the attempt to exercise this right impose upon the defendant an additional penalty or the enlargement of his sentence. Doubtless the trial judge felt impelled to change the sentence by the fact that he understood the defendant had consented to the judgment first imposed. But the defendant’s consent to the terms of the judgment did not constitute a waiver of his right of appeal for errors to be assigned. The defendant would have had the right to appeal even if he had pleaded guilty. In S. v. Calcutt, supra, the judgment, which was imposed after the defendant in that case had pleaded guilty, was held to affect his right of appeal and was stricken out for that reason. In the language of Chief Justice Stacy, 'His appeal was allowed, and it is not. to be supposed that any penalty was attached thereto or imposed as a result thereof.’ ”
+The State has made no effort to distinguish the case at hand from the Patton case. We think it indistinguishable. The proper procedure would ordinarily be to remand the case to Superior Court for re-sentencing; however, for the reasons hereinafter set forth, a new trial is necessary.
+The theory of defendant’s defense, as shown by his evidence, was that he was assaulted by the officer before he had interferred in any manner with the officer in the performance of his duties and before he had been lawfully arrested; and that the blows he struck were administered in the exercise of his right of self-defense. Irrespective of the persuasiveness of the State’s evidence to the contrary, defendant was entitled to have his theory presented to the jury under proper instructions. By his assignment of error number 5, defendant has challenged the sufficiency and the accuracy of the court’s instructions on self-defense.
+Although the court charged in several places that defendant contended he did not interfere with the officer or offer resistance but merely defended himself, the only instructions specifically dealing with the right of a person assaulted to defend himself is the following portion of the charge which is excepted to by defendant:
+“Now, members of the jury, if you are satisfied that this officer attacked in any way this defendant, and that the defendant was placed in a position of having to defend himself, then the court charges you that if you are so satisfied that he was merely repelling force with force such as was necessary under the circumstances to protect himself, he not being in any way in the wrong himself, then the court charges you that you will take that into consideration in arriving at your verdict; the burden being upon the State in each of these cases to satisfy you beyond a reasonable doubt of the guilt of the defendant.”'
+The above instruction is insufficient and erroneous in several respects. See State v. Lee, 258 N.C. 44, 127 S.E. 2d 774; State v. Fletcher, 268 N.C. 140, 150 S.E. 2d 54; State v. Anderson, 230 N.C. 54, 51 S.E. 2d 895; 1 Strong, N.C. Index 2d, Assault and Battery, §§ 8, 15. While defendant was not charged with assaulting the officer, the actions which he contends he took in self-defense are those which the warrants charge constitute the unlawful interference and the resistance to arrest. Consequently, the jury should have been properly charged on the principle of self-defense under this factual situation and that if they were satisfied defendant was legitimately exercising a right of self-defense it would be their duty to acquit him, not simply to take it into consideration in arriving at their verdict as the court charged.
+We refrain from discussing the other assignments of error in that the questions raised may not reoccur upon retrial.
+New trial.
+Mallard, C.J., and MoRRis, J., concur.
