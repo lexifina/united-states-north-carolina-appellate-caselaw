@@ -1,0 +1,37 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "6816SC277"
+decided: "1968-10-16"
+citations: ["2 N.C. App. 593"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MallaRD, C.J., and Morris, J., concur."]
+parties: ["JEAN BRYAN v. OTIS ELEVATOR COMPANY, a Corporation"]
+source_url: "https://static.case.law/nc-app/2/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8554614
+cites_cases: ["158 S.E. 2d 607", "160 S.E. 2d 320", "234 N.C. 512", "272 N.C. 426", "273 N.C. 439", "67 S.E. 2d 492"]
+---
+
+# Bryan v. Otis Elevator Co.
+
+## Majority (Campbell, J.)
+
+Campbell, J.
+The evidence of the plaintiff must be taken to be true and must be considered in the light most favorable to her, resolving all contradictions therein in her favor, and giving her the benefit of every inference in her favor which can reasonably be drawn from it. Anderson v. Carter, 272 N.C. 426, 158 S.E. 2d 607.
+The evidence for the plaintiff tends to show she was employed as a legal secretary with an office on the second floor of a two-story building in Lumberton. The building was served by an automatic elevator. On 15 April 1966, at noon, the plaintiff pushed the elevator button on the second floor. The elevator came up and the door opened automatically. The plaintiff entered the elevator and pressed the number one button in order to go to the first floor. It started down normally, and the plaintiff, who was alone in the elevator, was aware of a normal noise as it was moving. The noise ceased and the elevator dropped. She did not remember any sensation of the elevator speeding up. When it stopped at the first floor, she did not fall. However, her knees buckled and she felt an awful pain in her stomach. The door to the elevator did not open, causing her to become scared. She testified: “I was scared to death; I thought I would run out of dir, that the air would just be gone, burn itself up. I was afraid I would not be able to get out; didn’t know what would happen if it caught on fire or what would happen.” She rang the alarm bell and succeeded in attracting the attention of another occupant of the building. It took some thirty minutes before she and the other occupant of the building were able to get the door to open. During this time she was trying to force it open from the inside, while the other person was pushing from the outside. The elevator was sitting at the first floor level. After lunch plaintiff returned to her work, but she experienced some spotting of blood later in the afternoon. This became more evident that night and she went to the hospital. The next night she had a miscarriage. She missed one week of work. The plaintiff had experienced similar bleeding some two or three days prior to the episode in the elevator.
+Her doctor testified that while it was possible that the fall could have caused the miscarriage, he would not say that it probably did, for there are a lot of causes of miscarriage. The plaintiff offered no evidence as to any defects in the up and down mechanical operation of the elevator. She testified that she continued to work in the same building, and that while she did not use the elevator anymore herself, she did know that it continued in operation.
+The plaintiff offered an expert witness in the mechanism and operation of elevators. In answer to hypothetical questions, this witness testified that in his opinion there was nothing wrong with the mechanism of the elevator relating to its going up and down, but that there was a malfunction in the door-opening device. He further testified that there could have been several causes for the failure of the doors to operate properly which an ordinary inspection of the elevator would not reveal. Among other things, lint could have gotten between the contacts of the electric switch, thereby causing an interruption in the power control of the doors. He also testified that the safety devices were working properly.
+On direct examination the plaintiff’s expert testified:
+“Q. If the jury should find on the occasion which we have under inquiry, that she entered the elevator and punched the door button to go to the bottom floor, and it descended suddenly and stopped, the doors wouldn't open and she couldn’t open them manually, were the safety devices on there working properly?
+A. Yes, sir, I would consider they were working properly.”
+Again the same expert witness testified that if the elevator descended and stopped level with the floor: “I would say the elevator was operating properly.”
+The plaintiff relies upon a contract between the defendant and the owner of the building, pursuant to which the defendant agreed to use trained and qualified persons to keep the equipment properly adjusted, and “they will use all reasonable care to maintain the elevator equipment in proper and safe operating condition.” Defendant further agreed to examine the elevator periodically as to all safety devices and governors and to make an annual safety test. The contract further provided: “It is agreed that we do not assume possession or management or any part of the equipment but such remains yours exclusively as the owner thereof.” The plaintiff contends that the defendant negligently breached the duty of due care which arose out of this contract. However, the defendant is not guilty of actionable negligence in the absence of a breach which was the proximate cause or one of the proximate causes of plaintiff’s injury. Jones v. Elevator Co., 234 N.C. 512, 67 S.E. 2d 492.
+The plaintiff is relying on the doctrine of res ipsa loquitur.'
+“The rule of res ipsa loquitur never applies when the facts of the occurrence, although indicating negligence on the part of some person, do not point to the defendant as the only probable tortfeasor, In such a case, unless additional evidence, which eliminates negligence on the part of all others who have had control of the instrument causing the plaintiff’s injury is introduced, the court must nonsuit the case.” Kekelis v. Machine Works, 273 N.C. 439, 160 S.E. 2d 320.
+In the instant case plaintiff’s evidence fails to show any defect in any of the safety devices on the elevator. When she entered the elevator and pressed the button to go to the first floor, the elevator started down normally. Then the noise ceased and the elevator dropped. The plaintiff braced herself by catching on the sides. The elevator, which did not hit anything, stopped so that her knees buckled and she had an awful pain in her stomach. The only defect shown by the plaintiff’s evidence was the failure of the doors to open. However, this failure did not produce any injury to the plaintiff since her evidence was to the effect that the pain she sustained was prior to ascertaining that the doors would not open.
+The elevator was a so-called automatic elevator, and the defendant did not have exclusive control or management of this instrumentality. In fact, the contract itself specifically provided that the defendant did not assume possession or management or any part of the equipment but same was to remain exclusively in the possession, management and control of the owner. We hold that under the facts and evidence in this case, the doctrine of res ipsa loquitur does not apply.
+The judgment of nonsuit is
+Affirmed.
+MallaRD, C.J., and Morris, J., concur.
