@@ -1,0 +1,39 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7019SC273"
+decided: "1970-06-24"
+citations: ["8 N.C. App. 524"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brock and Britt, JJ., concur."]
+parties: ["ELLEN JANE CONNOR BOONE v. JUNIOR (NMN) BOONE"]
+source_url: "https://static.case.law/nc-app/8/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8553366
+cites_cases: ["146 S.E. 2d 73", "229 N.C. 81", "243 N.C. 24", "266 N.C. 189", "47 S.E. 2d 798", "89 S.E. 2d 732"]
+---
+
+# Boone v. Boone
+
+## Majority (HedeicK, J.)
+
+HedeicK, J.
+The order of Judge Godwin awarding custody of the two minor children was as follows:
+“ORDER OF GODWIN, J.
+“THIS CAUSE COMING ON TO BE HEARD and being heard before the undersigned Judge Presiding at the January 5, 1970, two-week Session of the Civil Division of the Randolph County Superior Court, upon motion of the plaintiff for subsistence for herself, support and custody of the two minor children born of the marriage between the plaintiff and the defendant, and counsel for the plaintiff [sic], and it appearing to the Court that Notice was served on the defendant to be present on January 5, 1970, in Randolph County Superior Court, and the plaintiff being present in Court and represented by her attorney of record,. Ottway Burton, and the defendant being present in Court and represented by his attorneys of record, Walker, Bell & Ogburn, of Asheboro, and the plaintiff having introduced evidence and the defendant having introduced evidence, the Court finds the following facts:
+“1. That the plaintiff and the defendant have been separated since December 15, 1969, and that since that time the defendant has had custody of the two minor children, Daniel Richard Boone, born May 9, 1969, and Billy Ray Boone, bom January 1, 1967, and that the defendant has been keeping the two said children at the home of Mr. and Mrs. Wilburn Frye in Sea-grove, North Carolina;
+“2. That the mother, Ellen Jane Connor Boone, is a fit and proper person to have the care and custody of the two minor children born of the marriage of the plaintiff and defendant.
+“3. The Court further finds from the evidence that the home of Mr. and Mrs. Wilburn Frye is a suitable place for the two minor children and that the children are being well taken care of, the Court finding that the plaintiff and the defendant both work at public work. The Court finds as a fact that the father, Junior Boone, is a fit and proper person to have custody of the two minor children born of the marriage, and finds from the evidence that the best interest, health and welfare of the two children would best be served by allowing them to remain in the custody of the father, and to remain at the home of Mr. and Mrs. Wilburn Frye, subject to visitation of the mother.
+“NOW, THEREFORE, IT IS ORDERED, ADJUDGED AND DECREED that the father, Junior Boone, shall have the custody of the two minor children, Daniel Richard Boone and Billy Ray Boone, and that they shall remain in the home of Mr. and Mrs. Wilburn Frye under the same arrangements as they are now being kept; the Court further ORDERS that the mother, Ellen Jane Connor Boone, shall have the right to visit with the children at any time convenient to Mr. and Mrs. Wilburn Frye in Seagrove, and also the mother, Ellen Jane Con-nor Boone, shall have the right to have the children visit with her at any place of her choice except her father, John Connor, two weekends each month, commencing Friday, at 5:00 P.M. until Sunday at 9:00 P.M. at which time she shall return the children to Mr. and Mrs. Wilburn Frye’s home.
+“The Court further ORDERS the defendant to pay into the office of the Clerk of the Superior Court of Randolph County, the sum of $200 on or before the 2nd day of February, 1970, as attorneys’ fees for the plaintiff for the use and benefit of Ott-way Burton, Attorney.
+“This cause is retained for the further orders of the Court. “This the 6th day of January, 1970.
+“/s/ A. Pilston Godwin
+“Judge Presiding”
+Under the provisions of G.S. 50-132(a), the judge may order the custody of a minor child . . to such person, agency, organization, or institution . . as will, in his opinion, best promote the interest and welfare of the child. If a court finds that both parents are fit and proper persons to have custody of the children and then awards custody to the father after finding it is in the best interest of the children that he have custody, his holding will be upheld when supported by competent evidence. Hinkle v. Hinkle, 266 N.C. 189, 146 S.E. 2d 73 (1966). “However, a finding by the court, . . . which finding is not supported by the evidence, is not binding on appeal, and the judgment based thereon will be reversed . . 1 Strong, N.C. Index 2d, Appeal and Error, § 57; Burrell v. Burrell, 243 N.C. 24, 89 S.E. 2d 732 (1955); Coble v. Coble, 229 N.C. 81, 47 S.E. 2d 798 (1948).
+Judge Godwin found as a fact that the best interest, health and welfare of Daniel Richard Boone, age seven months, and Billy Ray Boone, age two years, would best be served if they were allowed to remain in the custody of the father and to remain at the home of Mr. and Mrs. Wilburn Frye. This finding of fact indicates that the judge felt that the best interest of the children would be served only if the father left the children in the home of Mr. and Mrs. Frye. The order provided that the father would have the custody and that they should be kept in the home of Mr. and Mrs. Frye under the arrangements then existing. The evidence does not support a finding that the best interest, health and welfare of the children will be served if they remain in the home of the Fryes. The evidence does not show that any “arrangements” have been made with the Fryes that they should provide a home for these two small children. The Fryes are identified by the evidence only as a nice, substantial couple who keep “kids” in their home in Seagrove, North Carolina. The record does not show that the Fryes are willing to assume the awesome responsibility of providing a home for these two small children. The father testified that he lived in Troy, North Carolina, and that he saw the boys only on the weekend, and that he provided them with milk, baby food and clothing, and that Mrs. Frye did their washing.
+The order appealed from, in effect, awards custody of these two' children to Mr. and Mrs. Frye with visitation rights granted to the father and the mother. Mr. and Mrs. Frye are not parties to this proceeding, nor are they a public institution, nor have they consented to be bound by this order; therefore the order is unenforceable. If the mother and the father are both fit and proper persons to have custody of these children, as the judge found them to be, under ordinary circumstances the court would then proceed to determine whether the best interest, health and welfare of the children would be served by awarding custody to the mother or father. If not, then the court must deal with someone or an agency over whom the court has control. The order awarding custody must be reversed and this ■cause remanded for further hearing and finding.
+Additionally, the order recites that the matter came on for hearing “upon motion of the plaintiff for subsistence for herself . . however, the court failed to make any findings of fact or order with reference to the plaintiff’s motion for subsistence. The plaintiff is ■entitled to a ruling upon this motion. G.S. 50-16.8 (f).
+For the reasons stated, the order appealed from is reversed and the case remanded to the superior court of Randolph County for further proceedings not inconsistent with this opinion.
+Reversed and remanded.
+Brock and Britt, JJ., concur.
