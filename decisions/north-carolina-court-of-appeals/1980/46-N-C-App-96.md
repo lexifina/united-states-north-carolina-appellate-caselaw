@@ -1,0 +1,28 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7910IC692"
+decided: "1980-04-01"
+citations: ["46 N.C. App. 96"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Parker and Webb concur."]
+parties: ["CHARLES M. BEE v. YATES ALUMINUM WINDOW CO., INC. and VIRGINIA MUTUAL INS. CO."]
+source_url: "https://static.case.law/nc-app/46/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549219
+cites_cases: ["110 S.E. 2d 467", "123 S.E. 2d 608", "123 S.E. 2d 611", "166 S.E. 2d 526", "251 N.C. 47", "256 N.C. 175", "4 N.C. App. 177"]
+---
+
+# Bee v. Yates Aluminum Window Co.
+
+## Majority (ARNOLD, Judge.)
+
+ARNOLD, Judge.
+Plaintiff assigns error to the Commissioner’s Finding of Fact 12, and the conclusion he drew from it. The Commissioner found: “The plaintiff wished to ride the motorcycle to the shop for purely personal reasons, the plaintiff having some personal errands to perform following work that evening. In addition, it appeared that it might rain that day and the plaintiff felt his motorcycle would be better off at the shop.” From this finding, the Commissioner concluded that plaintiff’s injury did not arise out of and in the course of his employment. Plaintiff asserts that this finding and the resulting conclusion are not based on competent evidence.
+We find, first of all, that there is ample evidence to support the Commissioner’s finding that plaintiff’s choice of the motorcycle as his mode of travel back to his employer’s shop was made for purely personal reasons. There is no evidence that any purpose of the employer was served either directly or indirectly by plaintiff’s taking the motorcycle instead of riding in the truck with the other employees. The Commissioner, in his opinion, made clear his view that the question in the case was not “the necessity for travel, but whether the use of his motorcycle by the plaintiff was in furtherance of the performance of an express or implied duty connected with employment.” Taking this view of the case, the only conclusion the Commissioner could have reached from his Finding of Fact 12 was that plaintiff was not injured in the course of his employment.
+We believe, however, that the question which the Commissioner should have addressed is not whether the plaintiff’s mode of travel benefitted the employer, but whether the trip plaintiff was making was for the employer’s benefit. We have found no case which, on facts such as these, has rested the determination of whether an injury arose out of employment on the mode of travel of the employee. In Brewer v. Powers Trucking Co., 256 N.C. 175, 123 S.E. 2d 608 (1962), our Supreme Court affirmed the Commission’s determination that the injury there arose out of and in the course of employment, though the plaintiff was injured while riding in his personal car when he could have been riding in the employer’s truck. The court said: “[T]he return trip to the place of business of the employer . . . constituted a substantial part of the services for which the plaintiff was employed. We hold that under the facts of this case, the transfer of this employee from the truck of his employer to his automobile in order that he might have it so that he could return home after he made his required report at the office of his employer, did not constitute a distinct departure on a personal errand. ... No detour was involved. . . . When the collision occurred, the plaintiff was proceeding on [the] direct route to the place of business of his employer.” Id. at 180, 123 S.E. 2d 611-12; see also McManus v. Chick Haven Farms, 4 N.C. App. 177, 166 S.E. 2d 526 (1969). In the instant case, the plaintiff had transferred from his supervisor’s truck to his personal vehicle, and was on a direct route to his employer’s shop at the time he was injured. The question which remains for the Commissioner is whether the trip itself was part of the plaintiff’s employment.
+The test to be applied where it appears that the employee may have had both personal and business purposes in making the trip is set out in Humphrey v. Quality Cleaners & Laundry, 251 N.C. 47, 51, 110 S.E. 2d 467, 470 (1959): “ ‘We do not say that the service to the employer must be the sole cause of the journey, but at least it must be a concurrent cause. To establish liability, the inference must be permissible that the trip would have been made though the private errand had been canceled. . . . The test in brief in this: If the work of the employee creates the necessity for travel, such is in the course of his employment, though he is serving at the same time some purpose of his own.’ ” In the present case, the Commissioner, believing that plaintiff’s mode of travel was the determinative factor, did not address himself to whether the trip itself was made necessary by plaintiff’s employment. There is substantial evidence that it was, but there is also the testimony of plaintiff’s supervisor that “[i]t was not necessary for the entire crew [consisting of the supervisor, plaintiff, and a third man] to travel with [the supervisor]” to pick up the additional supplies. This testimony would permit the inference that plaintiff was not required to make the trip at all. Since whether plaintiff’s injury arose out of and in the course of his employment turns upon whether one of his purposes in making the trip was work-related, we must remand so that the Commissioner may make findings of fact on this question.
+The order of the Commission is
+Vacated and remanded.
+Judges Parker and Webb concur.
