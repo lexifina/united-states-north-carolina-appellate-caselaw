@@ -1,0 +1,29 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "735SC731"
+decided: "1973-12-12"
+citations: ["20 N.C. App. 91"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chief Judge Brock and Judge Vaughn concur."]
+parties: ["STATE OF NORTH CAROLINA v. DANIEL LEE LONG"]
+source_url: "https://static.case.law/nc-app/20/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549602
+cites_cases: ["153 S.E. 2d 362", "154 S.E. 2d 305", "156 S.E. 2d 265", "158 S.E. 2d 85", "159 S.E. 2d 310", "163 S.E. 2d 407", "2 N.C. App. 495", "269 N.C. 679", "270 N.C. 319", "271 N.C. 276", "272 N.C. 273", "273 N.C. 128"]
+---
+
+# State v. Long
+
+## Majority (PARKER, Judge.)
+
+PARKER, Judge.
+Appellant assigns error to the denial of his motions for a directed verdict of not guilty made at the close of the State’s evidence and renewed at the close of all of the evidence. In a criminal case the motion for a directed verdict of not guilty, like the motion for judgment of nonsuit, challenges the sufficiency of the evidence to take the case to the jury, State v. Glover, 270 N.C. 319, 154 S.E. 2d 305; State v. Woodlief, 2 N.C. App. 495, 163 S.E. 2d 407, and in passing upon such a motion the same rule applies, i.e., the evidence must be viewed in the light most favorable to the State and the State must be given the benefit of all inferences in its favor which may be reasonably drawn. When so viewed, the evidence in this case was sufficient to require submission of the case to the jury and to support the verdict rendered.
+Defendant stipulated that on the date he was arrested his operator’s license was permanently revoked. All of the evidence showed that on that date the car in which defendant was riding had been operated upon a public highway by someone. The patrolman’s testimony that he found defendant sitting in the driver’s seat only a few seconds after he observed the car being driven from the traveled portion of the highway to its parking place on the shoulder of the road gave rise to a reasonable inference that defendant had been the driver. The case was properly submitted to the jury and there was no error in denying defendant’s motions for a directed verdict.
+While arguing to the jury, the solicitor drew a diagram on the blackboard in the courtroom. Defendant’s counsel objected, and the trial judge sustained the objection. Appellant now contends that he suffered prejudicial error in that the trial judge, after sustaining the objection, failed to go further and to instruct the jury to disregard any reference to the diagram. The contention is feckless. While the record does not disclose what the diagram purported to show, appellant’s brief states that it was “a diagram of the arrest scene,” but does not contend that as such it was in any way inaccurate nor does appellant give any reason to support his contention that he suffered any prejudice by reason of the fact that the solicitor drew the diagram and referred to it during the course of his argument to the jury. Appellant’s assignment of error to the trial judge’s failure to do more than sustain his objection to the diagram is overruled.
+Finally, appellant assigns as error that the trial judge failed to charge the jury that evidence of the defendant’s previous driving record goes only to the defendant’s credibility and is not substantive evidence of his guilt on this occasion. In this case defendant testified but did not otherwise put his character in issue. During cross-examination the solicitor asked him concerning his prior convictions and defendant admitted that he had been convicted on several different occasions for violations of the criminal laws relating to operation of motor vehicles. For purposes of impeachment, defendant was subject to cross-examination as to his convictions for unrelated prior criminal offenses, 1 Stansbury’s N. C. Evidence, Brandis Revision, § 112, including convictions for violations of motor vehicle laws. Ingle v. Transfer Corp., 271 N.C. 276, 156 S.E. 2d 265. However, in this case defendant’s admissions as to such convictions were not competent as substantive evidence but were competent only as bearing on his credibility as a witness, and he was entitled, upon making timely request, to have the jury so instructed. State v. Norkett, 269 N.C. 679, 153 S.E. 2d 362. However, the record shows that no such timely request for an instruction was made in this case. No objection was noted to any question asked by the solicitor during cross-examination of the defendant nor was the trial judge requested to make the limiting instruction at any time during the trial up to and including the time the court completed its charge to the jury. G.S. 1-181 provides, among other things, that requests for special instructions must be in writing and must be submitted to the trial judge before the judge’s charge to the jury is begun. The record in this case shows that only after the jury retired to consider their verdict did defendant’s counsel ask the judge if he could “have instructions as to any previous record.” The judge answered that he would “call them back if you want me to.” To this, defendant’s counsel replied, “No, sir. I have argued it to them.” Thus, in this case not only was no timely request made, but defendant’s counsel seems to have waived such request as he did make.
+Absent a request in apt time to limit the evidence of defendant’s prior convictions to impeachment purposes, the trial judge was not required to give such instructions. State v. Goodson, 273 N.C. 128, 159 S.E. 2d 310; State v. Williams, 272 N.C. 273, 158 S.E. 2d 85.
+Defendant has failed to show prejudicial error and the verdict and judgment will not be disturbed.
+No error.
+Chief Judge Brock and Judge Vaughn concur.
