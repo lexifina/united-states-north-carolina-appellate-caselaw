@@ -1,0 +1,35 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7217SC21"
+decided: "1972-03-29"
+citations: ["14 N.C. App. 7"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Campbell and Parker concur."]
+parties: ["ALVIN CODELL WATSON, Administrator cta of the Will of J. Sanford Chilton; BETTY JUNE WATSON CHILTON, Widow of J. Sanford Chilton; and MOODY FUNERAL HOME, INC., Trustee Under the Will of J. Sanford Chilton v. ERNEST CHILTON and Wife, PEARL CHILTON; HOWARD CHILTON and Wife, EVELYN CHILTON; MARION CHILTON and Wife, GRACE CHILTON; ANNA CHILTON MATTHEWS, Widow; ETHEL CHILTON NICHOLS and Husband, HARVEY NICHOLS; SAVANNAH CHILTON NORMAN and Husband, HARVEY NORMAN; LOTTIE CHILTON WESTMORELAND and Husband, HOWARD WESTMORELAND"]
+source_url: "https://static.case.law/nc-app/14/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8546660
+cites_cases: ["126 N.C. 365", "166 S.E. 2d 70", "171 S.E. 2d 48", "182 S.E. 2d 373", "217 N.C. 175", "237 N.C. 115", "275 N.C. 175", "276 N.C. 487", "279 N.C. 313", "35 S.E. 608", "6 N.C.App. 656", "64 N.C. 342", "7 S.E. 2d 383", "74 S.E. 2d 235"]
+---
+
+# Watson v. Chilton
+
+## Majority (MORRIS, Judge.)
+
+MORRIS, Judge.
+Respondents (with the exception of Anna Chilton Matthews) have taken the position that Howard Chilton is the owner of the land in question. In their answer they state that he has acquired title by adverse possession. Interestingly enough, they also state that by their verified answer they release and relinquish all of their right, title, and interest therein to him.
+As we understand Howard Chilton’s position, it is that he claims that his father’s will, devising the property to him for life, constituted color of title which ripened into title in him after seven years adverse possession. This, he says, occurred prior to his mother’s death and at her death he owned the property, and it could not pass under her residuary clause. In the alternative, he contends that he had acquired title by adverse possession of over 20 years without color of title.
+There is authority in this State that a will defectively probated, but where the defect in the probate (only one witness) “was not so obvious but what it might have misled a man of ordinary capacity,” was color of title for the land disposed of therein. McConnell v. McConnell, 64 N.C. 342 (1870). There the devisee went into possession claiming under the will. Later, when his title was attacked because of the invalidity of the will, he relied on acquisition of title by adverse possession under color of title.
+There is also authority for the principle that where one enters into possession of lands claiming as a devisee under a will where that devise was void does not claim adversely but rather permissively or mistakenly. See Barrett v. Williams, 217 N.C. 175, 176, 7 S.E. 2d 383 (1940), where Chief Justice Stacy said:
+“If he entered into possession of the locus in quo, claiming it, pro hac vice, as devisee under his father’s will — and there is some evidence of this — then his possession and those claiming under him up to the time of his death would be permissive rather than adverse to plaintiff’s rights under the ulterior limitation.”
+The clear and obvious inference from all the pleadings and evidence in this case is that all the members of the family assumed that Howard Chilton took a life estate in the property under W. L. Chilton’s will with the remainder to Howard’s children. Howard Chilton’s evidence was to that effect as was the evidence of his brothers and sister and daughter.
+Additionally, the general rule is that an adverse possession cannot be predicated on the possession of a child as against its parent. “In order that a possession by a parent against a child, or vice versa, may become adverse, the owner must have had some clear, definite, and unequivocal notice of the adverse claimant’s intention to assert an exclusive ownership in himself.” 3 Am. Jur. 2d, Adverse Possession, § 148, p. 230. The character of the possession — whether it is adverse — is for the jury. Here the court as the trier of facts found that it was not.
+Respondents claim that the evidence supports no other inference or finding but that Howard Chilton acquired title by adverse possession for more than 20 years after his mother’s death against his brothers and sisters — tenants in common under their mother’s will. Regardless of whether his claim is under color of title for seven years or under claim of right, without color of title, for 20 years, he must show his possession to have been actual, open, visible, notorious, continuous and hostile to the true owner’s title and to all persons for the full statutory period. Newkirk v. Porter, 237 N.C. 115, 74 S.E. 2d 235 (1953).
+But the possession of one tenant in common is presumed to be the possession of all tenants. Tharpe v. Holcomb, 126 N.C. 365, 35 S.E. 608 (1900). We think what was said there is applicable here:
+“The evidence is that ‘Angeline (defendant’s vendor) entered into possession of the land, claiming it as her own under the will of Elcana Elliott, . . . claiming it adversely to all others, claiming it as her own under said will.’ This proof shows only quiet, undisturbed possession, and that is not inconsistent with a holding for all the tenants in common. It does not indicate a hostile attitude of the occupant towards his cotenants as contemplated by the statute, Code, section 141. To that end, there must be some act done between the parties from which the jury or court can see that a hostile relation exists — that the defendant’s intent to hold alone is manifested to the cotenants. Then the statute begins to run. If the cotenants attempt to assert their claim, as to enter, or to demand an account for rents, etc., which is resisted by the occupant, then his possession becomes adverse, and, if it continues for seven years, his title will ripen against his cotenants ...” 126 N.C., at 366-367.
+Respondents, having asserted title in Howard Chilton by adverse possession, had the burden of proving that issue. Board of Education v. Lamm, 6 N.C.App. 656, 171 S.E. 2d 48 (1969), affirmed 276 N.C. 487 (1970) ; State v. Brooks, 275 N.C. 175, 166 S.E. 2d 70 (1969). Here the court was the trier of the facts. It was his duty to consider and weigh all the competent evidence before him, pass upon the credibility of the witnesses, the weight to be given to their testimony, and the reasonable inferences to be drawn therefrom. Here the court concluded the respondents had not met their burden of proof. He found facts which are supported by the evidence and the inferences which can reasonably be drawn therefrom. The findings are, therefore, conclusive on appeal. Cogdill v. Highway Comm. and Westfeldt v. Highway Comm., 279 N.C. 313, 182 S.E. 2d 373 (1971). The conclusions of law are supported by the findings of fact.
+The judgment of the Superior Court is
+Affirmed.
+Judges Campbell and Parker concur.
