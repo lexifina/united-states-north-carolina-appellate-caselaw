@@ -1,0 +1,26 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7026DC602"
+decided: "1970-12-16"
+citations: ["10 N.C. App. 66"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chief Judge Mallard and Judge Hedrick concur."]
+parties: ["KERMIT B. NICHOLS, d/b/a MARSH KITCHENS OF CHARLOTTE v. C. J. MOSS REAL ESTATE, INC. and CONCORD-KANNAPOLIS SAVINGS AND LOAN ASSOCIATION"]
+source_url: "https://static.case.law/nc-app/10/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8550850
+---
+
+# Nichols v. C. J. Moss Real Estate, Inc.
+
+## Majority (PARKER, Judge.)
+
+PARKER, Judge.
+Plaintiff alleged an express contract with Moss under which he sold and delivered the cabinets to Moss. All of the evidence, however, shows that plaintiff had refused to sell to Moss and instead had sold the cabinets to H. and H. Supply Company, a sole proprietorship owned by one Gene Holbrooks. Plaintiff testified: “I told him (C. J. Moss, president of defendant) I didn’t know him and I didn’t have any way of selling him on approved credit. Mr. Holbrooks had agreed that it could be billed through him and he would be responsible to me for collection. I told Mr. Moss it would be billed through H. and H. Supply Company in Kannapolis.” All of the evidence is to the effect that when the cabinets were manufactured and shipped, all shipping documents and invoices issued by plaintiff or at his direction showed a sale to H. and H. Supply Company, not to Moss. Holbrooks, presented as plaintiff’s witness, testified as follows: “These invoices were charged to my company, and I agreed for them to be charged to my company. I promised to pay for these cabinets and these cabinets here were billed to me by Marsh Furniture Company in the same way and manner that cabinets were billed to me on numerous occasions in the past. They were billed exactly as the others.” All of the evidence is to the effect that plaintiff never rendered any bill for the cabinets to Moss, but billed only H. and H. Supply Company, and that Moss never made any payment to plaintiff, but did make a payment of $1,210.69 for the cabinets to a company owned by Holbrooks.
+Plaintiff alleged an express contract with Moss. All of the evidence, however, established that the only express contract which he made with reference to sale of the cabinets was with Holbrooks, not with Moss, and that this contract expressly provided for a sale of the cabinets to Holbrooks, not to Moss. Under the express contract established by all of the evidence in this case, plaintiff has shown no valid claim for relief against Moss. What claims, if any, plaintiff may have against Holbrooks, who is not a party to this litigation, are not presently before us.
+Nor does the evidence here give rise to any implied contract between plaintiff and Moss. It is true that a contract for sale of personal property, as other contracts not required to be in writing, need not necessarily be express but may be implied from facts and circumstances which create an obligation on the part of one to pay for goods received from another. It is also true that “ordinarily, when one person receives goods or merchandise from another, the law implies a contract on his part to pay therefor, which will support an action of assumpsit for goods sold and delivered. One cannot ordinarily accept goods from another and use them and then refuse to pay for them on the ground that he never ordered them. A promise, however, to pay for goods delivered will not be implied in direct contradiction of the agreement or intention of the parties. . . .” 46 Am. Jur., Sales, § 37, pp. 229, 230. Thus, if in the present case plaintiff’s evidence had shown merely a delivery of the cabinets by plaintiff to Moss, and acceptance and installation by Moss of the cabinets into its apartment building, nothing else appearing such evidence would give rise to an implied promise on the part of Moss to pay plaintiff for the cabinets. But here plaintiff’s own evidence and all of the evidence goes further and establishes an express contract under which plaintiff sold to a third party, who agreed both to pay plaintiff for the cabinets and that the cabinets be delivered to Moss. Here, the express contract established by all of the evidence negates implication of any promise by Moss to pay plaintiff. As above noted, what rights or liabilities, if any, Holbrooks may have with respect to the cabinets are not presented for adjudication in this litigation.
+For the reasons noted above, it is our opinion that the trial judge should have granted appellant’s motion for a directed verdict made at the close of all the evidence. Since appellant also in apt time moved for judgment notwithstanding the verdict, as provided in Rule 50(b) (1) of the Rules of Civil Procedure, it is appropriate that we direct entry of judgment in accordance with appellant’s motion. See Rule 50(b) (2). The cause is remanded to the trial court with the direction that judgment be entered in accordance with appellant’s motion for a directed verdict in its favor.
+Reversed and remanded.
+Chief Judge Mallard and Judge Hedrick concur.
