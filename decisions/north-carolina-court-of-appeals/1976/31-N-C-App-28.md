@@ -1,0 +1,40 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7623SC337"
+decided: "1976-10-06"
+citations: ["31 N.C. App. 28"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Parker and Clark concur."]
+parties: ["STATE HIGHWAY COMMISSION v. T. W. ROSE and wife, ETTA ROSE; REECE COCKERHAM and wife, OPAL COCKERHAM, Lessees; WAYNE M. MAYES and wife, DELLA MAYES, Lessees; J. N. SPEAS, Lessee"]
+source_url: "https://static.case.law/nc-app/31/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8547250
+cites_cases: ["126 S.E. 2d 732", "14 N.C. App. 691", "170 S.E. 2d 159", "189 S.E. 2d 611", "191 S.E. 2d 355", "257 N.C. 507", "281 N.C. 757", "6 N.C. App. 294"]
+---
+
+# State Highway Commission v. Rose
+
+## Majority (BRITT, Judge.)
+
+BRITT, Judge.
+Defendants contend first that the trial court did not have authority to pass upon the question whether defendants are entitled to compensation because of the construction of the islands adjacent to their property. We reject this contention.
+G.S. 136-108 provides: “After the filing of the plat, the judge, upon motion and 10 days’ notice by either the Board of Transportation or the owner, shall, either in or out of term, hear and determine any and all issues raised by the pleadings other than the issue of damages, including, but not limited to, if controverted, questions of necessary and proper parties, title to the land, interest taken, and area taken.”
+We hold that the trial court had authority to pass upon the question.
+Defendants contend that the trial court’s findings of fact were not supported by the evidence. This contention has no merit. Not only was the oral testimony sufficient to support the findings but it was buttressed with maps, plats and photographs depicting the locus in quo both before the taking and following the construction of the islands in question.
+Defendants contend that the conclusions of law that (1) the construction of the islands was a reasonable exercise of authority under the police power of the state, (2) there has been no substantial interference with their abutter’s rights of access, and (3) defendants are not entitled to receive compensation as a result of the construction of said structures, are not supported by applicable North Carolina law. We find no merit in this contention.
+“ . . . [A]n abutting landowner on a public highway has a special right of easement and user in the public road for access purposes, and this is a property right which cannot be damaged or taken from him without due compensation. While entire access may not be cut off, an owner is not entitled, as against the public, to access to his land at all points in the boundary between it and the highway; if he has free and • convenient access to his property and to, the improvements thereon, and his means of ingress and egress are not substantially interfered with by the public, he has ho cause of complaint.” 39 C.J.S., Highway § 141, p. 1081.
+In Haymore v. Highway Commission, 14 N.C. App. 691, 189 S.E. 2d 611, cert. denied, 281 N.C. 757, 191 S.E. 2d 355 (1972), this court held:
+“The question as to what constitutes a taking of a landowner’s right to access has been the subject of numerous decisions in this jurisdiction, all to the effect that while a ■ substantial or unreasonable interference with an abutting landowner’s access constitutes the taking of a property right, the restriction of his right of entrance to reasonable and proper points so as to protect others who may be using the highway does not constitute a taking. Such reasonable restriction is within the police power of the sovereign- and any resulting inconvenience is damnum absque injuria.” (Citations omitted.)
+The North Carolina Supreme Court has further held that the construction of a median strip so as to limit landowner’s ingress and egress to lanes for southbound travel when he formerly had direct access to both the north and southbound lanes was a valid traffic regulation adopted by the Highway Commission in the exercise of the police power vested in it by the statutes. Barnes v. Highway Commission, 257 N.C. 507, 126 S.E. 2d 732 (1962). In Barnes the court stated that: “While entire access may not be cut off, an owner is not entitled, as against the public, to access to his land at all points in the boundary between it and the highway . . . . ” 257 N.C. at 517, 126 S.E. 2d at 739.
+“It is clear under the principles of the cases cited herein that when access has been interfered with by the state the question involved is one of ‘degree.’ If the interference is not substantial and if reasonable means of ingress and egress remains or is provided, there has been a legitimate exercise of the police power. If the interference is substantial and no reasonable means of ingress or egress remains or is provided, there has been a taking of a property right under the power of eminent domain.” Highway Commission v. Yarborough, 6 N.C. App. 294, 170 S.E. 2d 159 (1969).
+Where the State interferes with the access of a property owner the question is usually whether reasonable means of ingress or egress remain or are provided. Highway Commission v. Yarborough, supra. In the present case, this question has been resolved against the defendants and the trial court’s findings were supported by competent evidence. Even after the construction of the islands, the defendants retained reasonable means of ingress and egress. The trial court’s conclusion that there had been no substantial interference with access was proper.
+Defendants contend that the restrictive order entered by the trial court is too restrictive and deprives them of the right to present adequately to the jury their case with respect to the issue of just compensation. We think this contention has merit.
+In view of the trial court’s ruling that defendants are not entitled to receive compensation from plaintiff for any diminution in value to their remaining land caused by the traffic islands, and our affirmance of that ruling, we think that part of the protective order prohibiting defendants, their witnesses and counsel, at trial from mentioning the islands in oral testimony or in arguments to the jury is appropriate. However, we hold that the court erred in prohibiting defendants from introducing any map, photograph or other exhibit which depicts the islands.
+For decades it has been permissible in this jurisdiction for a witness to use a map, diagram or photograph of a place or object to illustrate his testimony and make it more intelligible to the court and jury. See 1 Stansbury, N. C. Evidence § 34 (Brandis Rev. 1973), and cases therein cited. These aids have been particularly helpful in condemnation cases in providing the court and jury with better understanding with respect to the subject property before and after the taking.
+In the instant case any photographs and accurate maps of the subject property, made since the taking and changes brought about pursuant thereto, would have to depict the islands in front of defendants’ property; but we perceive no reason why the judge presiding at the trial will not be able by appropriate instructions to prevent the jury from considering the islands as an element of damage to defendants’ remaining property.
+There is an additional reason for our ruling regarding maps and photographs. G.S. 1-181.1 authorizes the judge presiding at the trial of any action or proceeding involving the condemnation of real property, in his discretion, to permit the jury to view the property which is the subject of condemnation. It goes without saying that if the presiding judge should permit a jury view in this case, keeping from the jury maps and photographs depicting the islands would have little or no effect.
+For the reasons stated, that portion of the protective order forbidding the introduction of any map, photograph or other exhibit depicting the islands in any manner is nullified. Except for said portion, the judgment appealed from is affirmed.
+Modified and affirmed.
+Judges Parker and Clark concur.
