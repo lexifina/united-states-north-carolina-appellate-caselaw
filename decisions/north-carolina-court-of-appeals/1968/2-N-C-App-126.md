@@ -1,0 +1,62 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "68IC205"
+decided: "1968-08-14"
+citations: ["2 N.C. App. 126"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brock and PaekeR, JJ., concur."]
+parties: ["TOM MORGAN (Employee) v. THOMASVILLE FURNITURE INDUSTRIES, INC. (Employer), AMERICAN MUTUAL LIABILITY INSURANCE COMPANY (Carrier)"]
+source_url: "https://static.case.law/nc-app/2/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551409
+cites_cases: ["105 S.E. 2d 439", "132 S.E. 2d 747", "155 S.E. 2d 71", "233 N.C. 372", "235 N.C. 602", "241 N.C. 448", "249 N.C. 74", "260 N.C. 413", "270 N.C. 695", "64 S.E. 2d 265", "70 S.E. 2d 706", "85 S.E. 2d 596"]
+---
+
+# Morgan v. Thomasville Furniture Industries, Inc.
+
+## Majority (Mallard, C.J.)
+
+Mallard, C.J.
+The Court of Appeals has appellate jurisdiction to review an award of the Industrial Commission for errors of law when a party to the proceeding in which the appeal is made appeals to it. G.S. 97-86.
+"The Commission or any of its members shall hear the parties at issue and their representatives and witnesses, and shall determine the dispute in a summary manner.” G.S. 97-84. The Commission is the sole fact finding agency in cases in which it has jurisdiction. The finding of facts is one of the primary duties of the Commission. Brice v. Salvage Co., 249 N.C. 74, 105 S.E. 2d 439.
+The Commission is the sole judge of the credibility of the witnesses and the weight to be given to their testimony. It may accept all of the testimony of a witness or reject all of the testimony of a witness. It may accept a part of the testimony of a witness and reject a part of the testimony of such witness. It is not required to accept the uncontradicted testimony of a witness. Anderson v. Motor Co., 233 N.C. 372, 64 S.E. 2d 265. The Commission is not required to make a finding as to each fact presented by the evidence. Guest v. Iron & Metal Co., 241 N.C. 448, 85 S.E. 2d 596. However, specific findings by the Commission with respect to the crucial facts, upon which the question of plaintiff’s right to compensation depends, are required. Thomason v. Cab Co., 235 N.C. 602, 70 S.E. 2d 706; Pardue v. Tire Co., 260 N.C. 413, 132 S.E. 2d 747.
+Plaintiff contends that the Commission erred in failing to find facts relating to whether he was totally disabled and incapacitated for work as a result of a compensable injury.
+“Disability” as used in the Workmen’s Compensation Act means impairment of wage earning capacity rather than physical impairment. Anderson v. Motor Co., supra; Burton v. Blum & Son, 270 N.C. 695, 155 S.E. 2d 71.
+The findings of fact in the opinion and award of Commissioner Shuford are as follows:
+“The undersigned finds as facts and concludes as matters of law the following, which were entered by the parties at the first hearing as
+STIPULATIONS
+1. At the time of the injury by accident giving rise hereto the parties were subject to and bound by the provisions of the Workmen’s Compensation Act.
+2. The employer-employee relationship existed between plaintiff and defendant employer at such time.
+3. American Mutual Liability Insurance Company was the compensation insurance carrier on the risk at such time.
+4. Plaintiff’s average weekly wage was $89.00.
+5. On 28 May 1964 plaintiff sustained an injury by accident arising out of and in the course of his employment with defendant employer. Thereafter defendants admitted liability and the parties entered into agreements for the payment of compensation, pursuant to which plaintiff has been paid compensation for temporary total disability from 29 May 1964 to 8 July 1964 and again from 5 August 1964 to 24 August 1965.
+# * * *
+Based upon all the competent evidence, the undersigned makes the following additional
+FINDINGS of Fact
+1. Plaintiff has not worked or attempted to work since he was last paid compensation in August 1965. Plaintiff feels that he is unable to do any physical work whatsoever. He is nervous and gets upset easily. He feels that he is unable to walk upright and thus walks in a stooped position.
+2. Prior to his injury by accident plaintiff had been treated by Dr. Charles F. Gilliam of Thomasville for stomach • ulcers and plaintiff suffered with nervousness prior to such accident.
+3. Plaintiff is not(sic) treated by Dr. E. L. Jones of'Thomas-ville for nervousness, headaches and back pain. Plaintiff draws $270.00 per month from the Federal Government as social security.
+4. Dr. Richard H. Ames, neurosurgeon of Greensboro, operated upon plaintiff on 12 August 1964 and removed a disc at L-5. Dr. Ames has examined plaintiff from time to time thereafter, the last examination being on 19 October 1966. Dr. Ames is of the opinion that the combination of plaintiff’s physical condition and emotional instability makes plaintiff 100% disabled. The doctor is further of the opinion that plaintiff’s physical and mental condition is an outgrowth of plaintiff’s injury by accident giving rise hereto and that he is unable to separate the physical and mental disability.
+5. Dr. David D. Anderson, orthopedic surgeon of Winston-Salem, first examined plaintiff on 13 August 1965. Dr. Anderson felt that plaintiff should be rehospitalized with the idea of carrying out a lumbosacral fusion. However, plaintiff and his wife felt that if no guarantee could be given that plaintiff’s condition would be improved that it would be too much of a risk to undergo further surgery and no operation was thus performed. Dr. Anderson rated plaintiff as having 25 to 30% permanent disability of the back and felt that if a lumbosacral fusion was done at the best he would still rate plaintiff as having approximately 20% permanent disability of the spine. Dr. Anderson last examined plaintiff on 30 January 1967 at which time he found no change in plaintiff’s condition and was of the opinion that the previously given rating of 25 to 30% permanent partial disability of the back still prevailed.
+6. As a result of the injury by accident giving rise hereto plaintiff has no temporary total or temporary partial disability other than that for which he has already been paid compensation.
+7. As a result of the injury by accident giving rise hereto plaintiff has a 50% permanent partial disability or loss of use of the back.”
+In his appeal and application for review by the full Commission the plaintiff alleged error on the part of the hearing Commissioner for that:
+“Portions of the Findings of Fact, Conclusions of Law, and Award are contrary to, and not supported by, the evidence, in that:
+Plaintiff should have been found to be totally and permanently disabled rather than having a 50% permanent partial disability or loss of the use of the back, and should be compensated under the provisions of G.S. 97-29.”
+In the opinion and award by the full Commission no additional findings of fact are made with respect to the condition of the plaintiff. In the opinion and award of the full Commission there appears the following:
+“As stated in order filed by the Full Commission on July 6, 1967 counsel for the parties appeared before the Full Commission and ably presented their contentions in the matter, and as noted in said order counsel for the plaintiff contends that plaintiff is totally and permanently disabled and should be compensated under the provisions of G.S. 97-29.
+The Full Commission has again carefully reviewed the evidence in this case, including the report of examination by Dr. Hohman, and has fully considered the contentions of counsel for the plaintiff.
+The Full Commission is of the opinion that the results reached by Commissioner Shuford are fair and equitable to all parties concerned and that the plaintiff’s exceptions and assignments of error are without substantial merit and should be overruled.
+Therefore, the Full Commission overrules the plaintiff’s exceptions and assignments of error and adopts as its own the opinion and award of Commissioner Shuford, and directs that the result reached by him be, and the same is hereby, in all respects AFFIRMED.”
+There Was evidence tending to show that the plaintiff was totally disabled and incapacitated emotionally and physically to engage in any gainful work as a result of a compensable injury. There was also evidence tending to show that his condition, was in part the result of his failure to submit to further surgery. There was also evidence of a preexisting physical and nervous condition tending to contribute to his condition.
+Two medical experts testified in substance that the plaintiff was, as a result of his condition, disabled and incapacitated to engage in any gainful work. One of the medical experts testified in substance that he was of the opinion that further surgery would be of benefit to the plaintiff. There is evidence tending to show that the plaintiff has refused to submit to further surgery. However, the hearing Commissioner and the full Commission have not, pursuant to G.S. 97-25, ordered the plaintiff to accept such surgery.
+The plaintiff was ordered by the full Commission to see a psychiatrist. He did. The psychiatrist testified:
+“My opinion about the patient psychiatrieally was that he was a somewhat chronic psychoneurotic by history and that his injury had probably precipitated a depressive like hopelessness which made it impossible for him to regain normal psychologic function. From his own history it would seem clear that he has always been something of a complainer. His early quitting of school and his failure to learn to read makes one feel that his intelligence was limited. In my opinion, the patient is severely handicapped emotionally and psychologically and I would agree with one of his former examiners that his incapacity whether emotional, physical, or psychological is severely handicapping.”
+It is quite clear that the plaintiff in this proceeding raised' the question of whether he was totally disabled and incapacitated for gainful work as the result of a compensable injury. It is also clear that this is a determinative question of fact in this case. The finding by the Commission that the plaintiff contends that he is totally and permanently disabled, and the further finding that he has a 50% permanent partial disability or loss of use of the back does not answer the factual question presented as to whether he is totally disabled and incapacitated for work as a result of a compensable injury. In the case of Thomason v. Cab Co., supra, in the opinion by Ervin, J., it is stated:
+“If the findings of fact of the Industrial Commission are supported by competent evidence and are determinative of all the questions at issue in the proceeding, the court must accept such findings as final truth, and merely determine whether or not they justify the legal conclusions and decision of the commission. (Citations omitted.) But if the findings of fact of the Industrial Commission are insufficient to enable the court to determine the rights of the parties upon the matters in controversy, the proceeding must be remanded to the commission for proper findings. (Citations omitted.)
+It is impossible to exaggerate how essential the proper exercise of the fact-finding authority of the Industrial Commission is to the due administration of the Workmen’s Compensation Act. The findings of fact of the Industrial Commission should tell the full story of the event giving rise to the claim for compensation. They must be sufficiently positive and specific to enable the court on appeal to determine whether they are supported by the evidence and whether the law has been properly applied to them. It is obvious that the court cannot ascertain whether the findings of fact are supported by the evidence unless the Industrial Commission reveals with at least a fair degree of positiveness what facts it finds. It is likewise plain that the court cannot decide whether the conclusions of law and the decision of the Industrial Commission rightly recognize and effectively enforce the rights of the parties upon the matters in controversy if the Industrial Commission fails to make specific findings as to each material fact upon which those rights depend.”
+For the reasons given the case is remanded and the Industrial Commission is directed to make findings of fact determinative of all questions at issue and proceed as the law requires.
+Error and remanded.
+Brock and PaekeR, JJ., concur.
