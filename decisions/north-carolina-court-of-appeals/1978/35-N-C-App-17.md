@@ -1,0 +1,39 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7712SC89"
+decided: "1978-01-03"
+citations: ["35 N.C. App. 17"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge MORRIS concurs.", "Judge Arnold dissents."]
+parties: ["WILLIAM CORBIE DAUGHTRY, JR. v. WILLIAM FRANKLIN TURNAGE and J. A. EUBANKS AND SON, INC."]
+source_url: "https://static.case.law/nc-app/35/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8547009
+cites_cases: ["116 S.E. 2d 804", "127 S.E. 2d 515", "141 S.E. 2d 468", "163 S.E. 2d 105", "176 S.E. 2d 359", "2 N.C. App. 436", "253 N.C. 252", "257 N.C. 730", "264 N.C. 341", "9 N.C. App. 450"]
+---
+
+# Daughtry v. Turnage
+
+## Majority (HEDRICK, Judge.)
+
+HEDRICK, Judge.
+Defendants assign as error the denial of their motion for directed verdict. Defendants argue that the evidence discloses plaintiff’s contributory negligence as a matter of law.
+In order for a verdict to be directed on the basis of the contributory negligence of the plaintiff the evidence must establish so clearly as to exclude all other conclusions the negligence of the plaintiff as a proximate cause of the damages sustained. Parker v. Allen, 2 N.C. App. 436, 163 S.E. 2d 105 (1968).
+The motor vehicle accident giving rise to plaintiff’s claim and the manner in which the respective vehicles were being operated can best be described by quoting from the record pertinent portions of the testimony of plaintiff’s agent, the driver of plaintiff’s vehicle.
+“At the time of the accident I had approximately seventy thousand pounds on it [the truck]. I was east-bound from Wade going towards New Bern, traveling on North Carolina 55. . . .
+“As you come into Seven Springs coming into the school zone, it is a straight level road and as you leave the school zone going into Seven Springs, it is a long tapered curve through the entire community of Seven Springs. . . . The curve is approximately, I’d say, a mile and a half to two miles long. . . . The accident that I was involved in on May 1, 1974 was approximately a half mile down the road from the original school building. This was in the Seven Springs community.
+“At the location where the accident occurred, Highway 55 is a long tapered road and the little road on which . . . [defendant’s truck] turned off is at a right angle going North. I was traveling East and was approximately one thousand feet from the Turnage vehicle when I first saw it. I was coming out of the thirty-five mile per hour zone and I was traveling at approximately thirty-five when I first observed him. There was a vehicle approximately one hundred and fifty feet in front of me driven by Mr. Coor traveling East also. I had first seen this vehicle when it pulled out in front of me at the school about a half a mile up the road. He pulled right out in front of me and I maintained a distance of about one hundred and fifty feet. The Coor vehicle and my vehicle were both proceeding in an easterly direction. The Turnage vehicle was westbound and was approximately nine hundred to one thousand feet when I first observed it. When I first saw him he was probably five or six hundred feet below the turn off and I was approximately nine hundred feet up the road West from him, or West from where the accident occurred. I did not continue to observe the Turnage vehicle because it was in its lane and it was coming at a moderate speed. When I first observed the Turnage vehicle it was approximately five hundred feet and I noticed he started moving into — crossing the yellow line in his lane. I was continuing to travel at a speed of approximatley thirty-five miles per hour and was approximately one hundred to one hundred and fifty feet behind the Coor vehicle maintaining the same distance always. The Turnage vehicle started moving into the East lane. As I approached him I got about three hundred feet from him and all of a sudden he just whipped over the complete whole road into the eastbound lane. I began to break my speed and I seen he was making a right-hand turn and was moving so I broke it down to probably thirty miles an hour and the vehicle in front of me broke down to about the same speed. I maintained a certain distance with him and all of a sudden the vehicle driven by William Turnage stopped. By then the pickup truck that was in front of me was probably fifty to seventy-five feet from him and I was probably one hundred and fifty feet behind him and by the time that I realized that the loaded fertilizer was stopped completely in the road — had the complete road covered and the pickup started to stop — he had only what a thirty five hundred pound pickup to stop and here I come with seventy thousand pounds of weight, plus going down a forty-five degree angle hill. I locked my brakes and I seen that I was not going to stop in time to avoid making contact with the pickup. So, in order to keep from hurting anybody I just whipped it to the side ditch. I released my brakes where I could steer it and hit the side ditch, where I hit the concrete culvert.”
+Other evidence tends to show that the Coor vehicle did not strike the defendant’s truck and the plaintiff’s truck did not strike either the Coor pickup or the defendant’s truck. All of the evidence tends to show that plaintiff’s truck was damaged when plaintiff’s driver “whipped” the vehicle off the highway into the culvert and then overturned.
+The duties imposed by law upon operators of motor vehicles are familiar reading but nevertheless bear repetition. A driver is obligated to keep a proper lookout in the direction of travel at all times. Clontz v. Krimminger, 253 N.C. 252, 116 S.E. 2d 804 (1960). He is likewise responsible for keeping his vehicle under proper control and keeping, a safe distance between his own vehicle and any which he might be following. Burnett v. Corbett, 264 N.C. 341, 141 S.E. 2d 468 (1965); Clontz v. Krimminger, supra. Above all, a driver of a motor vehicle must exercise that care which an ordinarily prudent person would exercise under like circumstances. Black v. Milling Co., 257 N.C. 730, 127 S.E. 2d 515 (1962).
+Applying the foregoing rules of the road to the evidence in the present case, the conclusion is inescapable that plaintiff’s agent was negligent in the operation of plaintiff’s vehicle and such negligence was a proximate cause of the damages suffered by plaintiff. The plaintiff’s driver operated the truck at an excessive speed under the circumstances; he followed the pickup truck closer than was prudent under the circumstances; the plaintiff’s driver failed to keep the vehicle he was operating under proper control so that he could bring the vehicle to a stop before colliding with other persons or vehicles on the public highway. The driver’s contributory negligence in this case is demonstrated most vividly by his testimony that “I locked my brakes and I seen that I was not going to stop in time to avoid making contact with the pickup. So, in order to keep from hurting anybody I just whipped it to the side ditch. I released my brakes where I could steer it and hit the side ditch, where I hit the concrete culvert.” Evidence tending to show that the 3500-lb. pickup truck could be stopped quicker and in shorter distance than plaintiff’s truck carrying a 70,000-lb. load did not relieve plaintiff’s driver of the duty of operating plaintiff’s truck at such a rate of speed and in such a manner as to avoid causing damage or injury to himself. See Roberson v. Coach Lines, 9 N.C. App. 450, 176 S.E. 2d 359 (1970); Parker v. Allen, supra; Burnett v. Corbett, supra; Black v. Milling Co., supra.
+The judgment appealed from is reversed.
+Judge MORRIS concurs.
+Judge Arnold dissents.
+
+## Dissent (Judge ARNOLD)
+
+Judge ARNOLD
+dissenting.
+The evidence does not compel a conclusion that defendant was contributorily negligent as a matter of law.
