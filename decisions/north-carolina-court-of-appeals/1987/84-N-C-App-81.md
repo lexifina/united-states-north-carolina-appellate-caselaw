@@ -1,0 +1,47 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "8610IC555"
+decided: "1987-01-20"
+citations: ["84 N.C. App. 81"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Arnold concurs.", "Judge Johnson dissents."]
+parties: ["ROGER LONG, Employee/Plaintiff v. MORGANTON DYEING & FINISHING CO., Employee, and OLD REPUBLIC INSURANCE COMPANY, Carrier, Defendants"]
+source_url: "https://static.case.law/nc-app/84/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12167534
+cites_cases: ["153 S.E. 2d 591", "19 N.C. App. 380", "198 S.E. 2d 746", "199 N.C. 38", "210 S.E. 2d 214", "24 N.C. App. 113", "246 N.C. 274", "308 S.E. 2d 485", "310 N.C. 309", "312 N.C. 276", "312 S.E. 2d 652", "322 S.E. 2d 133", "65 N.C. App. 69", "98 S.E. 2d 289"]
+---
+
+# Long v. Morganton Dyeing & Finishing Co.
+
+## Majority (EAGLES, Judge.)
+
+EAGLES, Judge.
+In reviewing decisions of the Industrial Commission, we are limited to determining whether the findings of the Commission are supported by competent evidence and whether those findings justify its legal conclusions. Roper v. J.P. Stevens & Co., 65 N.C. App. 69, 308 S.E. 2d 485 (1983), disc. review denied, 310 N.C. 309, 312 S.E. 2d 652 (1984). Plaintiff argues that the Commission’s finding that he failed to prove that his hernia was accompanied by pain is unsupported by the evidence and that the finding does not justify the Commission’s conclusion that there was no causal connection between defendant’s hernia and the accident. Plaintiff has failed to show where there is any error in the Commission’s decision. Therefore, we must affirm.
+G.S. 97-2(18) provides that, in all claims for compensation for hernia resulting from an injury by accident, the claimant must prove to the satisfaction of the Commission:
+(a) That there was an injury resulting in a hernia;
+(b) That the hernia appeared suddenly;
+(c) That it was accompanied by pain;
+(d) That the hernia immediately followed an accident; and
+(e) That the hernia did not exist prior to the accident for which compensation is claimed. G.S. 97-2(18). [Emphasis added.]
+To recover compensation, a plaintiff must prove the existence of each of the above five elements. Hensley v. Cooperative, 246 N.C. 274, 98 S.E. 2d 289 (1957). The absence of any one of them will result in the denial of compensation. Lutes v. Tobacco Co., 19 N.C. App. 380, 198 S.E. 2d 746 (1973).
+Here, the Commission found that plaintiff failed to prove that his hernia was accompanied by any pain. An examination of the record reveals that there is competent evidence to support that finding. Plaintiff testified that, after the lump appeared, he experienced muscular “strain” while lifting the 75-100 pound rolls of cloth at work and that about a month after the accident he began to feel “sick to my stomach.” He contends that this testimony is sufficient to constitute proof of “pain.” While we agree with plaintiff that the feeling of pain is subjective and that an employee need not necessarily use the term “pain” before compensation may be awarded, plaintiffs testimony here clearly does not satisfy the mandatory requirement of G.S. 97-2(18)(c).
+Although plaintiff testified that he felt sick to his stomach, he also stated that it “really never hurt.” Furthermore, the muscle strain which he alluded to was, according to his own testimony, unrelated to his hernia. In fact, plaintiff stated that the muscle strain was the same kind of strain anyone feels when lifting a heavy object. Therefore, neither the general feeling of nausea nor the muscle strain which plaintiff described in his testimony can be equated with “pain” as that term is used in G.S. 97-2(18)(c). Since plaintiff never testified that he suffered any pain, the Commission’s finding that he failed to prove that his hernia was accompanied by pain is supported by competent evidence.
+Plaintiff also argues that the Commission erred in concluding that he failed to establish a causal connection between his hernia and his injury by accident. More specifically, plaintiff states that, even without a finding of pain, he established a causal connection by proving to the satisfaction of the Commission that the hernia was a result of the accident. Plaintiff contends that the showing of pain is not necessary under a liberal construction of the statute where the Commission is otherwise satisfied as to causation. We agree that the statute must be liberally construed. McMahan v. Supermarket, 24 N.C. App. 113, 210 S.E. 2d 214 (1974). We also agree that the record indicates that the Commission believed that plaintiff s hernia was, in fact, caused by his accident at work. Nevertheless, the Commission properly found that no causal connection was established, as required by G.S. 97-2(18).
+Here, the statute is unambiguous in requiring that each of the five listed elements must be proven before compensation may be awarded. Where a statute is clear, there is no reason for judicial construction and courts must give the statute its plain meaning. News and Observer v. State; Co. of Wake v. State; Murphy v. State, 312 N.C. 276, 322 S.E. 2d 133 (1984). The statute, in effect, defines what constitutes a causal connection for purposes of a hernia injury and, when any one of the statute’s elements is not proven, a causal connection does not exist. See, Lutes v. Tobacco Co., supra; 1B Larson, The Law of Workers’ Compensation Section 39.71 (1986). This is true even if the Commission is otherwise convinced that the hernia was caused by an accident arising out of and in the course of employment. Plaintiffs failure to prove the hernia was accompanied by pain requires that his claim be denied.
+Affirmed.
+Judge Arnold concurs.
+Judge Johnson dissents.
+
+## Dissent (Judge Johnson)
+
+Judge Johnson
+dissenting.
+I respectfully dissent from the majority opinion. In upholding the Commission’s decision (Commissioner Clay dissenting) the majority opinion correctly states our standard of review and the burden of proof plaintiff must carry in order to receive compensation. I agree with the majority opinion that “the record indicates that the Commission believed that plaintiffs hernia was, in fact, caused by his accident at work.” However, I disagree with the majority’s conclusion that “the Commission properly found that no causal connection was established, as required by G.S. 97-2(18).”
+Deputy Commissioner Page found as fact, inter alia, as follows:
+6. On January 22, 1985, plaintiffs normal work routine was interrupted and plaintiff thereby sustained an injury. Plaintiffs hernia appeared the following day but was not accompanied by any pain until approximately six weeks following the date of injury.
+The majority opinion by the Full Commission states: “[w]hile it appears obvious from the medical evidence in this matter that the hernia complained of by the Plaintiff arose out of his employment, we are unable to award compensation in the face of a clear and unequivocal requirement in the statute which remains unsatisfied in this matter.”
+I fully agree with Commissioner Clay’s dissent on the basis that the facts of this case dictate that when the statute is construed liberally plaintiffs testimony about the “strain” he felt should be sufficient to establish the “pain” required by G.S. 97-2(18) when there is no question that plaintiff’s injury was sustained in the course of his employment. My understanding of the technical requirements of G.S. 97-2(18) is that they serve the purpose of insuring that only valid claims may be filed pursuant to G.S. 97-2(18). There is no question that plaintiff is asserting a valid claim inasmuch as Deputy Commissioner Page and the Full Commission concluded, and the evidence fully supports, that plaintiff sustained his injury in the course of his employment.
+Commissioner Clay, in his dissent, appropriately includes a statement of the purpose of the Workers’ Compensation Act as follows: “[t]he Workers’ Compensation Act is to be construed liberally to effectuate the broad intent of the Act to provide compensation for employees sustaining an injury arising out of and in the course of the employment, and no technical or strained construction should be given to defeat this purpose.” See generally, Johnson v. Asheville Hosiery Co., 199 N.C. 38, 153 S.E. 2d 591 (1930). In the case sub judice, plaintiff honestly, and obviously without any prior “coaching,” described the circumstances of his injury. The Commission concedes that plaintiff was injured in the course of his employment. But for the lack of plaintiffs use of the magic word “pain” he would have been compensated. Moreover, expert testimony established that pain is not universally experienced when a hernia occurs. However, plaintiffs hernia was accompanied by pain, according to the findings made by Commissioner Page, but this pain was not experienced by plaintiff until six weeks after his injury. Plaintiff repeatedly testified that the hernia made him feel sick and further testified that the hernia “felt like somebody hit me in the stomach.” Since plaintiff sustained his injury in the course of employment he is entitled to compensation. The technical construction of the Workers’ Compensation Act utilized by the Commission to deny compensation to plaintiff was error as a matter of law. I vote to reverse and remand to the Commission to render an award of compensation in plaintiffs behalf.
