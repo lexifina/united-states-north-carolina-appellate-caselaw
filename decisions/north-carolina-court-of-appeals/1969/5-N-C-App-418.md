@@ -1,0 +1,42 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "6926SC358"
+decided: "1969-07-23"
+citations: ["5 N.C. App. 418"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BROCK and Morris, JJ., concur."]
+parties: ["MRS. HELEN ALLEN BROWN v. BOREN CLAY PRODUCTS COMPANY"]
+source_url: "https://static.case.law/nc-app/5/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8550461
+cites_cases: ["133 S.E. 2d 687", "139 S.E. 2d 202", "229 N.C. 20", "230 N.C. 122", "260 N.C. 709", "263 N.C. 212", "47 S.E. 2d 484", "52 S.E. 2d 377"]
+---
+
+# Brown v. Boren Clay Products Co.
+
+## Majority (Campbell, J.)
+
+Campbell, J.
+The plaintiff makes numerous assignments of error, but we will refrain from discussing many of them as we find it necessary to award a new trial, and the same questions are unlikely to arise again.
+The plaintiff assigns as error the refusal of the court to set the verdict aside because one of the jurors during a night recess conducted some experiments with regard to viewing vehicles on the highway some thirty minutes after sunset. The record discloses that the trial judge went into this with care and concluded that any impropriety in this regard had not affected the verdict. This was a discretionary matter with the trial judge, and we do not think the record discloses any abuse of the discretion of the trial judge.
+There is no merit in this assignment of error.
+Both the pleadings and the evidence brought into sharp focus not only the desirability, but the necessity of having headlights burning on the respective vehicles at the time of collision. The plaintiff claimed that she did have the headlights burning on her vehicle and that the defendant did not have lights burning on the truck and that as a result thereof, she was unable to see the truck and hence placed herself in a position where the collision occurred. The defendant on the other hand contended that at all times the lights on the truck were burning. It was stipulated and agreed that the collision occurred on the open highway where the maximum speed limit was 55 miles per hour for passenger vehicles and 45 miles per hour for trucks; and that the sun had set at 5:13 p.m. The plaintiff claimed the collision occurred some forty minutes after sunset and thus the statutory requirement with regard to headlights was applicable.
+G.S. 20-129(a) provided:
+“When Vehicles Must Be Equipped. — -Every vehicle upon a highway within this State during the period from a half hour after sunset to a half hour before sunrise, and at any other time when there is not sufficient light to render clearly discernible any person on the highway at a distance of two hundred feet ahead, shall be equipped with lighted front and rear lamps as in this section respectively required for different- classes of vehicles, and subject to exemption with reference to lights on parked vehicles as declared in § 20-134.” (As it read in 1966 at the time of the accident here involved and prior to the 1967 amendment.)
+This is a safety statute enacted for the protection of persons and property. A violation of this statute is negligence per se. Thomas v. Thurston Motor Lines, 230 N.C. 122, 52 S.E. 2d 377; Oxendine v. Lowry, 260 N.C. 709, 133 S.E. 2d 687.
+It was incumbent upon the trial judge to instruct the jury with regard to the requirements of the statute as being the law applicable to the case and then to apply the law as thus given to the facts in question. Correll v. Gaskins, 263 N.C. 212, 139 S.E. 2d 202.
+The trial judge should have instructed the jury, even in the absence of request therefor, in substance, as follows: If the jury should find from the evidence and by its greater weight that the collision in question occurred more than a half hour after sunset and that at that time the defendant’s truck did not have front lamps lighted as required by the statute, then such conduct on the part of the defendant would constitute negligence as a matter of law, and if the jury find by the greater weight of the evidence that such negligence was a proximate cause of the collision and the injuries and property damage sustained by the plaintiff, then the first issue should be answered, “Yes”. In the instant case, the trial judge gave no instructions with regard to this statute requiring lighted front lamps and did not apply the law as contained in the statute to the facts. Because of this failure, the plaintiff is entitled to a new trial. Correll v. Gaskins, supra.
+Another statute and factual situation was drawn into sharp focus by both the pleadings and the evidence of the plaintiff and the defendant in this case.
+The plaintiff contended and alleged and offered evidence tending to show that she reached the intersection sometime prior to the defendant’s truck; that she was giving a proper signal for a left turn an appreciable length of time before the defendant’s truck reached the intersection, and in fact, long enough for some three or four cars to pass before she commenced turning. She claimed that she had the right-of-way pursuant to G.S. 20-155 as it provided in 1966, and prior to the 1967 amendment. This statute then read:
+“(b) The driver of a vehicle approaching but not having entered an intersection and/or junction, shall yield the right-of-way to a vehicle already within such intersection and/or junction whether the vehicle in the junction is proceeding straight ahead or turning in either direction: Provided, that this subsection shall not be interpreted as giving the right-of-way to a vehicle already in an intersection and/or junction when said vehicle is turning either to the right or left unless the driver of said vehicle has given a plainly visible signal of intention to turn as required in § 20-164.”
+The trial court in charging in this phase of the matter stated:
+“. . . If you should find, Members of the Jury, that the Plaintiff in this case entered this intersection or junction and was already in the act of turning into this junction road; that when the truck driver approached the junction, it would have been the duty of the defendant to delay his entrance into the intersection until the Plaintiff had passed through, that is to yield to the Plaintiff the right-of-way, even though the —STRIKE THAT.”
+If the words “STRIKE THAT” mean to strike the entire sentence, then the Court failed to instruct properly the jury with regard to the plaintiff’s contentions. It is difficult, if not impossible, to say exactly what the judge intended by the words “STRIKE THAT”. There was no explanation given to the jury, and the result was certain to cause confusion in the minds of the jury.
+As Ervin, J. wrote in Lewis v. Watson, 229 N.C. 20, 47 S.E. 2d 484:
+“The chief purpose of a charge is to aid the jury clearly to comprehend the case, and to arrive at a correct verdict. For this reason, this Court has consistently ruled that this statute imposes upon the trial judge the positive duty of instructing the jury as to the law upon all of the substantial features of the case. ... If the mandatory requirements of the statute are not observed, ‘there can be no assurance that the verdict represents a finding by the jury under the law and the evidence presented.’ ... A litigant does not waive his statutory right to have the judge charge the jury as to the law upon all of the substantial features of the case by failing to present requests for special instructions. . . . Moreover, the mandate of the statute is not met by a ‘statement of the general principles of law, without application to the specific facts involved in the issue.’ . . . The judge must declare and explain the law ‘as it relates to the various aspects of the testimony offered.’ . . . By this it is meant that the statute requires the judge ‘to explain the law, of the case, to point out the essentials- to be proved on the one side or the other, and to bring into view the-relations of the particular evidence adduced to the particular-issues involved.' . . .
+When the instructions given to the jury in the court below are-scrutinized in the light of these principles, it is indisputably clear that the trial judge failed to declare and explain the law arising upon the evidence given in this case, and that the exceptions of the plaintiff to the charge must be sustained. . .
+For the reasons given in this opinion, the plaintiff is entitled to a new trial. It is so ordered.
+New trial.
+BROCK and Morris, JJ., concur.
