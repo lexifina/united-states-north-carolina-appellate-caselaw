@@ -1,0 +1,38 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "6822SC350"
+decided: "1968-09-26"
+citations: ["2 N.C. App. 456"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mallard, C.J., and Campbell, J., concur."]
+parties: ["PAUL HARRISON DANIELS v. GENE AUTRY CAUSEY"]
+source_url: "https://static.case.law/nc-app/2/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8553820
+cites_cases: ["119 S.E. 894", "162 N.C. 317", "167 N.C. 290", "186 N.C. 446", "239 N.C. 504", "78 S.E. 287", "80 S.E. 2d 253", "83 S.E. 360"]
+---
+
+# Daniels v. Causey
+
+## Majority (Morris, J.)
+
+Morris, J.
+Plaintiff makes four assignments of error. The first two are directed to the court’s charge to the jury. Assignments of error 3 and 4 relate to the failure of the court to set the verdict aside as against the greater weight of the evidence, and the signing of the judgment.
+The first assignment of error relates to the following portion of the charge:
+“There was certain testimony with respect to alcohol. The credibility of that testimony you will draw from that testimony. You may draw your conclusion from it by using your common sense and experience.”
+We think this portion of the judge’s charge constitutes prejudicial error.
+The plaintiff testified and in addition offered four witnesses in his behalf. These were the highway patrolman, plaintiff’s doctor, the Clerk of the Thomasville Recorder’s Court, and Kenneth Byerly who was also a passenger in the automobile. The highway patrolman, on cross-examination, testified that he saw two unopened cans of beer in the car when he was investigating the accident; that he could not testify with respect to plaintiff’s intoxication; that defendant told him he had consumed some beer earlier that day. The other passenger, Kenneth Byerly, testified on cross-examination by the defendant that he did not see the other two parties, the plaintiff and the defendant, purchase any beer and didn’t remember seeing any in the car; that it was not true that plaintiff wanted someone else to drive because he was under the influence of an intoxicant.
+The plaintiff, Paul Harrison Daniels, testified on cross-examination that he and the defendant had been drinking earlier in the evening at the plaintiff’s house; that they left the plaintiff’s house, and about an hour later drove over to Guilford County in order to purchase beer. From there, they returned to the Hasty School Store to shoot pool. The pool tables were full, and they did not stay. Up until this time the automobile had not been operated by the defendant. The plaintiff stated on cross-examination that after driving around for an hour or so, he realized he did not have his license with him, so he asked the defendant Causey to drive his automobile. Plaintiff denied that he was under the influence of alcohol at this time. He testified that they had 10 or 12 cans of beer in the car; that he had some change with which defendant bought some beer.
+The defendant did not plead the defense of contributory negligence. There were no allegations of intoxication. The testimony concerning the drinking and purchasing of alcoholic beverages prior to the accident, solicited by the defendant on cross-examination, could only have been procured for the purpose of discrediting the testimony offered by the plaintiff and his witness Byerly. That is, it would tend to show their inability accurately to state the facts, surrounding the accident. We do not think that the instruction given by the trial judge properly explained to the jury that they were to consider this evidence for credibility purposes only. The trial judge failed to explain the relationship of this evidence to the substantive evidence given by the witnesses. Rather, he said, “The credibility of that testimony you will draw from that testimony. You may draw your conclusion from it by using your common sense and experience.” It cannot be said that the jury did not take this to mean that on the basis of the testimony relating to the purchase and drinking of alcoholic beverages they could deny the plaintiff the right to recover.
+There are two types of charges which might be given. The first is general and does not relate to any specific testimony or witness. Such a charge is found in Herndon v. R. R., 162 N.C. 317, 78 S.E. 287. There the Court approved the following instruction:
+“Weigh all of this evidence, gentlemen, in every way, and in weighing it you have a right to take into consideration the interest that the parties have in the result of your verdict, the conduct of the witnesses upon the stand and their demeanor, the interest that they may have shown, or bias, upon the stand, the means they have of knowing that to which they testify, their character and reputation, in weighing this testimony, so as to arrive at the truth of what this matter is.”
+Also, see Styers v. Bottling Co., 239 N.C. 504, 80 S.E. 2d 253, where the Court approved substantially the same charge. In Ferebee v. R. R., 167 N.C. 290, 83 S.E. 360, the Court discussed the instruction just quoted and commended it to trial judges as a “full and clear statement of duty of jurors in passing upon the evidence of parties when they are witnesses.”
+The other type of instruction which is given in relation to the credibility of witnesses is more specific in that it relates to specific testimony, or to the testimony given by certain witnesses who have an interest in the outcome of the action, or who, for some reason, may be unable to relate the events about which they are testifying. This type of instruction is given most often in criminal cases where the defendant’s relatives have testified in his behalf. See State v. Barnhill, 186 N.C. 446, 119 S.E. 894, where the Court approved the following instruction:
+“. . . And the law says the close relations have that same temptation. Therefore, it is your duty to scrutinize their evidence before you accept it. But the law says that after having scrutinized their evidence, applied your common sense and reason to it, observed the demeanor of the witnesses on the stand, and considered their interest in the result of the trial, if you find that the evidence is entitled to be believed, that you have a right to accept it and give it the same weight you would that of any disinterested witness.”
+Although in Ferebee v. R. R., supra, the Court commended the general type of instruction in Herndon, supra, to trial judges as being all that was required, it approved the following charge to the jury, . . that the plaintiff, ‘as a party to this action, has an interest in the outcome of such a character that it is your duty to scrutinize his evidence with care and to give due consideration to the fact that he is interested.’ ” The Court went on to say, “That is the extent of your consideration, and I do this because the Supreme Court has held that it must be done. [Here the defendant had requested the instruction.] But after you have done so, and you shall conclude that he told the truth, you will give the same weight to the evidence that you would to that of any other credible witness.”
+Since we cannot say that from the portion of the court’s charge before us, the jury clearly understood that the evidence with respect to alcohol was to be considered for credibility purposes only, we cannot say that plaintiff was not prejudiced by this portion of the charge.
+There must be a new trial, and we do not, therefore, discuss appellant’s remaining assignments of error.
+New trial.
+Mallard, C.J., and Campbell, J., concur.
