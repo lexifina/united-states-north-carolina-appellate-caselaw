@@ -1,0 +1,35 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7919DC992"
+decided: "1980-04-01"
+citations: ["46 N.C. App. 82"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges MARTIN (Robert M.) and CLARK concur."]
+parties: ["CYNTHIA MAHALEY HAND v. JAMES DAVID HAND"]
+source_url: "https://static.case.law/nc-app/46/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549152
+cites_cases: ["11 N.C. App. 133", "147 La. 331", "180 S.E. 2d 450", "214 S.E. 2d 285", "225 N.C. 83", "230 S.E. 2d 541", "239 N.C. 97", "25 N.C. App. 527", "291 N.C. 386", "33 S.E. 2d 489", "79 S.E. 2d 248", "84 So. 892"]
+---
+
+# Hand v. Hand
+
+## Majority (ERWIN, Judge.)
+
+ERWIN, Judge.
+Defendant’s evidence presented at trial tended to show the following.
+The parties executed their separation agreement on 19 October 1978. On or about 1 December 1978, the parties resumed their marital relations for one week. Thereafter, they lived separate and apart until 8 March 1979, when they lived together in their trailer until 23 March 1979. During this period, they had sexual intercourse, went to church together on one occasion, and went shopping for an automobile. Some nights, he slept with plaintiff; on other nights, he slept on the couch.
+Plaintiff’s evidence tended to show that after 1 December 1978, she resided with her parents in Winston-Salem until the baby was born. She went back to live in the trailer at defendant’s suggestion. Defendant came by to see the baby one day when the baby was sick; he agreed to help with the baby who was up a lot at night. On several occasions, defendant stayed until 11:00 p.m., and it was not too big a change for defendant to sleep there, and defendant moved back into the trailer. Defendant was making his payments while he was in the trailer. He slept on the couch every night, and they did not have sexual relations. At no time did she tell defendant she would take him back as her husband. They ate their meals in the trailer. They took turns caring for the child, and on one occasion, they went to church together. Defendant worked third shift.
+Defendant’s entire appeal hinges on the determination whether he and plaintiff had reconciled and resumed their marital cohabitation. Where such a reconciliation and resumption of cohabitation has taken place, an order or separation agreement with provisions for future support and an agreement to live apart is necessarily abrogated. Hester v. Hester, 239 N.C. 97, 79 S.E. 2d 248 (1953); 2 Lee, North Carolina Family Law, § 200 (3rd ed. 1963), p. 420.
+In In re Estate of Adamee, 291 N.C. 386, 230 S.E. 2d 541 (1976), our Supreme Court held that when separated spouses who have executed a separation agreement resume living together, they hold themselves out as man and wife in the ordinary meaning of that phase, and irrespective of whether they have resumed sexual relations, in contemplation of law, their action amounts to a resumption of marital cohabitation which rescinds their separation agreement insofar as it has not been executed; and further, a subsequent separation will not revive the agreement. In reaching its holding, the Court quoted from Dudley v. Dudley, 225 N.C. 83, 86, 33 S.E. 2d 489, 491 (1945), where Justice Denny (later Chief Justice) reasoned in pertinent part:
+“ ‘Marriage is not a private affair, involving the contracting parties alone. Society has an interest in the marital status of its members, and when a husband and wife live in the same house and hold themselves out to the world as man and wife, a divorce will not be granted on the ground of separation, when the only evidence of such separation must, in the language of the Supreme Court of Louisiana (in the case of Hava v. Chavigny, 147 La. 331, 84 So. 892) “be sought behind the closed doors of the matrimonial domicile.” Our statute contemplates the living separately and apart from each other, the complete cessation of cohabitation.’ ”
+291 N.C. at 392, 230 S.E. 2d at 546. This language, standing alone, would indicate that the actual intention of the parties to resume their marital cohabitation is not relevant to determining a resumption of the marital relationship. Later in its opinion, however, the Supreme Court indicates that the posture of the case being decided was the essential determinant:
+“All the evidence offered by appellees in support of their motion for summary judgment and by appellants in opposition to it, tends to show that after the execution of the separation agreement and consent judgment on 20 December 1973, Mrs. Adamee returned to the marital home which she and Adamee had occupied prior to the separation; that thereafter the commissioners named in the consent judgment to sell the couple’s joint property for division were instructed not to do so; that Adamee paid Mrs. Adamee’s attorney for representing her in the litigation between them; and that from January 1974 until Adamee’s death on 20 August 1974, he and Mrs. Adamee lived together continuously in their marital residence. Therefore, no issue arose for either judge or jury to decide as to their resumption of marital relations. As a matter of law they had done so.
+It follows that Judge Braswell correctly denied ap-pellees’ motion for summary judgment but that he erred in refusing to affirm the clerk’s order that Mrs. Adamee is entitled to qualify as administratrix of the estate of Adamee and share in his estate as his widow without prejudice by reason of the separation agreement and consent judgment of 20 December 1973. It also follows that the Court of Appeals erred when it affirmed Judge Braswell’s judgment.
+In its consideration of this case the Court of Appeals began with the assumption that the appeal involved a disputed fact, that is, whether a reconciliation and resumption of marital relations had actually occurred between Adamee and Mrs. Adamee. We, however, have viewed and decided the case as presenting a question of law arising upon undisputed facts.”
+Id. at 393, 230 S.E. 2d at 546-47. Thus, we believe that our statement in Newton v. Williams, 25 N.C. App. 527, 532, 214 S.E. 2d 285, 288 (1975), that “[t]he issue of the parties’ mutual intent is an essential element in deciding whether the parties were reconciled and resumed cohabitation” is still the rule where the evidence is conflicting.
+Where the trial judge sits as judge and juror, his findings of fact “ ‘have the force and effect of a verdict by a jury and are conclusive on appeal if there is evidence to support them, even though the evidence might sustain a finding to the contrary. . . .’ ” Laughter v. Lambert, 11 N.C. App. 133, 136, 180 S.E. 2d 450, 452 (1971). Credibility, contradictions, and discrepancies are all matters to be resolved by the trier of the facts. Laughter v. Lambert, supra. Since there is competent evidence to support the trial court’s findings of facts and these in turn support its conclusions of law, the order entered thereupon is
+Affirmed.
+Judges MARTIN (Robert M.) and CLARK concur.
