@@ -1,0 +1,39 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "6818SC339"
+decided: "1968-10-09"
+citations: ["2 N.C. App. 484"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Campbell and Morris, JJ., concur."]
+parties: ["WILLIAM M. YORK, JR., and FRANK W. YORK v. GEORGE F. NEWMAN, JR., Trustee"]
+source_url: "https://static.case.law/nc-app/2/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8554002
+cites_cases: ["101 S.E. 2d 413", "105 P. 233", "113 S.E. 2d 689", "125 S.E. 2d 437", "134 S.E. 2d 654", "147 N.C. 545", "162 S.E. 727", "202 N.C. 344", "21 P. 946", "231 N.C. 111", "242 N.C. 728", "247 N.C. 516", "252 N.C. 229", "257 N.C. 274", "261 N.C. 285", "56 S.E. 2d 404", "56 Wash. 162", "61 S.E. 519", "78 A.L.R. 24", "79 Cal. 443", "89 S.E. 2d 381"]
+---
+
+# York v. Newman
+
+## Majority (Mallard, C.J.)
+
+Mallard, C.J.
+Defendant asserts in his brief that the question presented by this record is: “Did the Court below err in overruling the Demurrer based upon the grounds that the Complaint does not state a proper action for removing a cloud on title or for declaratory relief and that there is a defect of parties?”
+“A cloud upon title is in itself a title or encumbrance, apparently valid, but in fact invalid. It is something which, nothing else being shown, constitutes an encumbrance upon it or a defect in it—something that shows prima facie the right of a third party either to the whole or some interest in it, or to a lien upon it.” McArthur v. Griffith, 147 N.C. 545, 61 S.E. 519.
+“A cloud may be created by anything that may be a muniment of title or constitute an encumbrance.” Annot. 78 A.L.R. 24, 29 (1932).
+The distinction between a suit to remove a cloud upon title and an action to quiet title under G.S. 41-10 is clear. In the old equity action, to remove a cloud upon title to real property, the proceeding was an equitable one and was intended to remove a particular instrument or documentary evidence of title or encumbrance against the title, which was hanging over or threatening a plaintiff’s rights therein. Castro v. Barry, 79 Cal. 443, 21 P. 946; McGuinness v. Hargiss, 56 Wash. 162, 105 P. 233. In a suit to quiet title to real property under G.S. 41-10, the proceeding is designed and intended to provide a means for determining all adverse claims, equitable or otherwise. It is not limited to a particular instrument, bit of evidence, or encumbrance but is aimed at silencing all adverse claims, documentary or otherwise. Any action that could have been brought under the old equitable proceeding to remove a cloud upon title may now be brought under the provision of G.S. 41-10. This statute has been liberally construed. Lumber Co. v. Pamlico County, 242 N.C. 728, 89 S.E. 2d 381.
+G.S. 41-10 reads in part:
+“An action may be brought by any person against another who claims an estate or interest in real property adverse to him for the purpose of determining such adverse claims.”
+In the case under consideration, the plaintiffs contend, and we agree, that the letter from the defendant’s lawyer, Mr. Jordan, is an assertion by the defendant of a claim to an interest in the real property described in the deed to the plaintiffs referred to in the complaint. The defendant claims, through his attorney in the letter, that he has the legal right to rescind the deed or sue for damages. He asserts that not only does he have the right to do so, but he has the legal duty to do so because of his fiduciary relationship as Trustee. If he has the right to rescind the deed, and he claims he has in the letter, that is certainly such interest in the real property described therein as to bring this case within the provisions of G.S. 41-10 permitting an action to be brought by any person against another who claims an interest in real property adverse to him for the purpose of determining such adverse claim. If the defendant in his answer disclaims an interest in the described real property, or suffers judgment to be taken against him without answering, under another provision of G.S. 41-10, the plaintiffs cannot recover costs herein. We conclude that the complaint filed herein meets the minimum requirements of G.S. 41-10 in that it alleges that the plaintiffs own the described land and that the defendant claims an interest therein adverse to them.
+In 2 Anderson 2d, Declaratory Judgments, § 604, p. 1354, it is said:
+“A declaratory action is an appropriate remedy to perform the function of the customary action to quiet title.”
+The Supreme Court of North Carolina, in Insurance Co. v. Roberts, 261 N.C. 285, 134 S.E. 2d 654, held:
+“The Superior Court has jurisdiction to render a declaratory judgment only when the pleadings and evidence disclose the existence of a genuine controversy between the parties to the action, arising out of conflicting contentions as to their respective legal rights and liabilities under a deed, will, contract, statute, ordinance, or franchise. G.S. §§ 1-253 to -267; Trust Co. v. Barnes, 257 N.C. 274, 125 S.E. 2d 437; Greensboro v. Wall, 247 N.C. 516, 101 S.E. 2d 413; Lide v. Mears, 231 N.C. 111, 56 S.E. 2d 404. When jurisdiction exists, a contract may be construed either before or after there has been a breach of it. G.S. § 1-254. The purpose of the Declaratory Judgment Act is, ‘to settle and afford relief from uncertainty and insecurity, with respect to rights, status, and other legal relations. . . .’ Walker v. Phelps, 202 N.C. 344, 349, 162 S.E. 727, 729; Little v. Trust Co., 252 N.C. 229, 113 S.E. 2d 689. It is to be liberally construed and administered.”
+Applying the foregoing principles of law to the complaint here, we are of the opinion that a liberal construction of the complaint requires the conclusion that the respective legal rights and liabilities mentioned in the complaint relating to these plaintiffs and this defendant accrued under the deed mentioned therein and that this, if raised by answer, constitutes an actual controversy and is a proper subject for an action under the Uniform Declaratory Judgment Act.
+“All persons having any claim or interest in the subject matter of the action whose rights would be affected by the judgment and who are necessary for a final adjudication of the matters involved are necessary parties. A necessary party is one whose rights must of necessity be affected by a judgment in the cause, and is therefore one who must be brought in before the court can proceed to final judgment.” 6 Strong, N. C. Index 2d, Parties, § 1.
+On the face of the complaint, the only person asserting a claim against the plaintiffs concerning the real property mentioned therein is the defendant. It is alleged that the defendant, as Trustee, conveyed the lands to the plaintiffs. The defendant, as Trustee, asserted his claim and duty to rescind, or sue for damages. It does not appear that other parties are necessary to determine the asserted claim of the right to a rescission of the deed. The subject matter relates to a rescission of the deed on the grounds of the inadequacy of the purchase price. The controversy alleged can be settled in this action, and no one is affected except the parties to the present action.
+Defendant’s contention that the demurrer should be sustained because the complaint shows that issues of fact are involved is without merit. G.S. 1-261 provides for a jury trial to determine issues of fact in cases brought under the Uniform Declaratory Judgment Act.
+The judgment of the Superior Court overruling the demurrer is affirmed. We do not know at this time if the defendant will file answer, or if he does, whether he will thereby raise a controversy jus-ticiable under the Uniform Declaratory Judgment Act.
+Affirmed.
+Campbell and Morris, JJ., concur.
