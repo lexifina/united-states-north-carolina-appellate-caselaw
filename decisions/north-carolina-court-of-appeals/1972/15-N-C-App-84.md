@@ -1,0 +1,37 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7215SC471"
+decided: "1972-06-28"
+citations: ["15 N.C. App. 84"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Beitt and Paekee concur."]
+parties: ["STATE OF NORTH CAROLINA v. JOSEPH NATHANIEL DAMERON, JR."]
+source_url: "https://static.case.law/nc-app/15/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8547698
+cites_cases: ["134 S.E. 2d 386", "148 S.E. 2d 593", "158 S.E. 2d 617", "169 S.E. 2d 265", "169 S.E. 2d 43", "174 S.E. 2d 526", "241 N.C. 156", "261 N.C. 263", "267 N.C. 661", "272 N.C. 509", "276 N.C. 690", "5 N.C. App. 586", "6 N.C. App. 1", "84 S.E. 2d 545"]
+---
+
+# State v. Dameron
+
+## Majority (HEDRICK, Judge.)
+
+HEDRICK, Judge.
+Defendant assigns as error the Court’s refusal to continue the case or to exclude the testimony of challenged witnesses. The record discloses that on 22 November 1971 on motion of the defendant the Court entered an order in pertinent part as follows:
+“It is Ordered that the State furnish to the defendant the following information:
+3. The names and all statements to be used by the State of North Carolina in the trial of the above listed cases which were made by any witnesses concerning the crime alleged against the various defendants.
+7. Counsel for the accused shall be permitted to examine before the Clerk of Superior Court of Wake and/or Orange County, or their designate, any expert witnesses to be used by the State of North Carolina in the trial of these cases regarding the proposed testimony of such expert witness, on a date prior to the Session of Court wherein said cases are called for trial. The Solicitor shall arrange for the date and place of said examination.”
+On the second day of his trial, after seven jurors had been passed on by the defendant and the State, the defendant moved that the case be continued on the grounds that the State had not complied with the quoted portions of the Order entered 22 November 1971 in that the solicitor had not arranged for the defendant to examine three expert witnesses the State proposed to call and that the defendant was not given the names of three other witnesses the State proposed to call until the morning of the second day of the trial. In response to the defendant’s motion, the solicitor stated that he advised the defendant’s counsel before the selection of the jury began that the State would call two firearms experts from the State Bureau of Investigation and Dr. Harry L. Taylor, the medical examiner. The solicitor further stated that at the close of the first day’s proceedings he first learned of three witnesses who would testify that the defendant had made statements threatening the life of Billy Lee. Defendant’s counsel stated that the solicitor gave him the names of these witnesses and what would be the substance of their testimony on the morning of the second day of defendant’s trial.
+The defendant contends the Court in denying his motion for a continuance abused its discretion and denied his constitutional right to a reasonable time and opportunity to investigate and produce competent evidence in defense of the crime which he stands charged and to confront his accusers with other testimony.
+A motion for continuance is ordinarily addressed to the sound discretion of the trial court, and its ruling thereon is not subject to review absent an abuse of discretion. If, however, the motion is based on a right guaranteed by the Federal and State Constitutions, the motion presents a question of law and the order of the Court is reviewable. State v. Baldwin, 276 N.C. 690, 174 S.E. 2d 526 (1970); State v. Crutchfield, 5 N.C. App. 586, 169 S.E. 2d 43 (1969); State v. Moses, 272 N.C. 509, 158 S.E. 2d 617 (1968); State v. Stinson, 267 N.C. 661, 148 S.E. 2d 593 (1966); State v. Phillip, 261 N.C. 263, 134 S.E. 2d 386 (1964).
+We cannot say the trial judge abused his discretion in denying the motion to continue made on the second day of the trial after seven jurors had been seated, State v. Stinson, supra; nor can we say the defendant was not given ample opportunity to prepare his defense and confront his accusers. The defendant was advised by the solicitor before the jury selection began that the State proposed to call the medical examiner and two firearms experts as witnesses; yet the defendant waited until the second day of the trial to complain that the State had not complied with the order with respect to a pretrial examination of expert witnesses. We do not perceive that a defendant under indictment for first degree murder, represented by competent counsel, would be taken by surprise that the State proposed to use the medical examiner and two firearms experts as witnesses; nor would he be surprised by the fact that the State proposed to call three witnesses who would testify that the defendant had made statements threatening the life of the deceased. With respect to the latter, the record is clear that the solicitor acted in good faith and promptly gave the information to defendant’s counsel as soon as he himself learned of the witnesses. The defendant was given ample opportunity to confront and cross-examine all of the State’s witnesses. There is nothing in this record to indicate that the defendant was in any way prejudiced by the Court’s failure to allow his motion to continue. As was said in State v. Moses, supra:
+“Whether a defendant bases his appeal upon an abuse of judicial discretion, or a denial of his constitutional rights, to entitle him to a new trial because his motion to continue was not allowed, he must show both error and prejudice.”
+In this case defendant has done neither.
+Finally, the defendant contends the Court committed prejudicial error in not submitting the question of his guilt or innocence of involuntary manslaughter to the jury.
+“Involuntary manslaughter is the unlawful killing of a human being, unintentionally and without malice, proximately resulting from the commission of an unlawful act not amounting to a felony, or resulting from some act done in an unlawful or culpably negligent manner, when fatal consequences were not improbable under all the facts existent at the time, or resulting from the culpably negligent omission to perform a legal duty.” 4 Strong, N.C. Index 2d, Homicide, § 6, p. 198; State v. Lawson, 6 N.C. App. 1, 169 S.E. 2d 265 (1969).
+There is no evidence in the record tending to show that the death of the deceased was caused by culpable negligence or was the result of misadventure. The fight between the defendant and the deceased in the living room and the hall, the direct testimony of the witnesses that the defendant shot the deceased, the defendant’s flight out of the trailer with a gun in his hand, evidence that the deceased had no weapon, and Billy Lee’s dying declaration that the defendant shot him, all tend reasonably to show an intentional shooting of the deceased by the defendant. Considering the evidence in this case, the Court did not commit prejudicial error in not instructing the jury that it could convict the defendant of involuntary manslaughter. State v. Lawson, supra; State v. Hicks, 241 N.C. 156, 84 S.E. 2d 545 (1954).
+We have considered all of defendant’s assignments of error and find that the defendant had a fair trial free from prejudicial error.
+No error.
+Judges Beitt and Paekee concur.
