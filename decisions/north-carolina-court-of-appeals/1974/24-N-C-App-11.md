@@ -1,0 +1,57 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7410DC772"
+decided: "1974-11-25"
+citations: ["24 N.C. App. 11"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Baley concurs.", "Judge Morris dissents."]
+parties: ["ALFRED H. HEILMAN v. MABEL W. HEILMAN"]
+source_url: "https://static.case.law/nc-app/24/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8548423
+cites_cases: ["11 N.C. App. 183", "125 S.E. 2d 373", "127 S.E. 2d 889", "158 S.E. 2d 799", "167 S.E. 2d 761", "178 S.E. 2d 387", "180 S.E. 2d 450", "225 N.C. 80", "236 N.C. 686", "237 N.C. 122", "257 N.C. 130", "258 N.C. 84", "272 N.C. 636", "275 N.C. 370", "277 N.C. 664", "33 S.E. 2d 466", "73 S.E. 2d 923", "74 S.E. 2d 320"]
+---
+
+# Heilman v. Heilman
+
+## Majority (HEDRICK, Judge.)
+
+HEDRICK, Judge.
+Plaintiff in this action seeks an absolute divorce, pursuant to G.S. 50-6, on the ground of one year’s separation. Defendant may defeat the action only by affirmatively establishing that the separation was caused by plaintiff’s abandoning her. Overby v. Overby, 272 N.C. 636, 158 S.E. 2d 799 (1968) ; Pickens v. Pickens, 258 N.C. 84, 127 S.E. 2d 889 (1962). Abandonment, as an affirmative defense, is conduct by plaintiff such as would entitle defendant to a divorce from bed and board or alimony without divorce. Hicks v. Hicks, 275 N.C. 370, 167 S.E. 2d 761 (1969). In order to prevail, the defendant must prove by the greater weight of the evidence every element of abandonment, which has been defined as the ending of cohabitation without justification, consent, or intent to return. Panhorst v. Panhorst, 277 N.C. 664, 671, 178 S.E. 2d 387, 392 (1971). See Taylor v. Taylor, 257 N.C. 130, 125 S.E. 2d 373 (1962) ; McLean v. McLean, 237 N.C. 122, 74 S.E. 2d 320 (1953). Plaintiff argues that defendant has not carried her burden of proof.
+That plaintiff departed without defendant’s consent and without intention of renewing cohabitation is not disputed. The issue is whether plaintiff’s departure was justified. When defendant asserted the affirmative defense of abandonment, the burden did not shift to plaintiff to justify the separation, Taylor v. Taylor, 225 N.C. 80, 33 S.E. 2d 466 (1945), for in order to obtain a divorce under G.S. 50-6, plaintiff need allege and prove only separation and domicile. 1 Lee, North Carolina Family Law, § 71, p. 281. It was incumbent upon defendant to prove lack of justification.
+Plaintiff testified in substance as follows: Plaintiff and defendant were married on 10 May 1942. The plaintiff was employed as a school teacher until 1950, when he took a job with the United States Post Office in Raleigh. Defendant is presently employed as a public school teacher and has been so employed during most of the marriage. The defendant “nagged plaintiff about various things” during the years they lived together. Although plaintiff has an excellent driving record, defendant particularly criticized the plaintiff about his driving. For no obvious reason defendant would scream, “Jam on the brakes,” “Turn,” “Watch out,” or “Slow Down.” On a trip to Pennsylvania in 1970 the defendant told plaintiff “she hoped she would never have to go through that ordeal again and that it was her last trip.” The defendant also nagged plaintiff about the attention he gave their dog and was jealous of the plaintiff’s sister. Defendant even became enraged and nagged the plaintiff for weeks when the plaintiff, during a rainstorm, walked from church to their car with another woman so that he could use her umbrella. Defendant also complained about the plaintiff going to the YMCA one night a week. Defendant did not understand plaintiff’s humor, could not take a joke, did not communicate on any subject with him, and did not like to visit friends or return their invitations. Defendant did not like to cook; therefore, they ate out quite often.
+In September of 1970, plaintiff wanted to visit a niece in Virginia who had multiple sclerosis. The defendant, however, did not want to go and even stated that if they went, the niece’s family would be visiting them every week. Plaintiff and defendant had not had sexual relations for two years prior to their separation and had practically no sexual relations for five years prior to their separation because of defendant’s lack of interest and desire for having sexual relations with plaintiff and because of defendant’s complaints about discomfort during such relations.
+Due to defendant’s nagging, complaining and negative, approach, the plaintiff “became nervous, tense, and began having difficulty sleeping, eating and digesting his food.” Because of these difficulties, he had to consult a physician. On 4 September 1971 plaintiff separated from the defendant for about four months and during this period of time “his sleep, eating .and digestion gradually improved and the plaintiff ceased using any medication or consulting a doctor.” Plaintiff returned home on 31 December 1971. He again separated from the defendant on 31 January 1973 because “of the re-occurrence of defendant wife’s same attitude and continually nagging and complaining which brought about a re-occurrence of the nervousness, tenseness, loss of sleep and digestive problems.” After this last separation, his physical ailments have disappeared and he is able to sleep and eat without medication or medical treatment.
+Defendant testified in substance as follows: She only nagged in a “suggestive way” but had many suggestions. Defendant’s driving bothered her and although she made as few suggestions as possible never made a trip out of town with plaintiff without making some suggestions. After a trip to Pennsylvania in 1970, she told the plaintiff she never wanted to go on another trip with him and has not done so since that time. Plaintiff always had stomach trouble and trouble sleeping. The incident of plaintiff walking to the car with another lady in order to use her umbrella was of such a minor nature that she had dismissed it from her mind. It was probably more accurate to say that the plaintiff and defendant had had little or no sex for ten years. However, this had been the plaintiff’s choice, and she had never had any physical trouble which would prevent her from having intercourse.
+Based on the testimony of the parties, the trial judge made findings relevant to the issue of abandonment as follows:
+“7. During the marriage, in the latter stages, the plaintiff was tense, with stomach trouble and was not sleeping well.
+8. After the separation his tenseness and stomach trouble ceased and his sleeping improved.
+9. During the latter part of the marriage the parties divided the expenses evenly and each invested their own money for savings.
+10. There was no intense bickering or fighting between the parties and the relationship, though not ideal, was well within normal ranges.
+11. The defendant did, on occasions, attempt to offer critical advice to the plaintiff, to which he sometimes reacted sensitively.”
+Upon these findings the court concluded that:
+“4. The separation was the result of plaintiff’s departure from the home of the parties without justification or lawful excuse.
+5. The plaintiff did abandon defendant.”
+We think the evidence supports the material findings of fact. Our concern is whether the findings support the conclusion that plaintiff left the home of the parties without justification or lawful excuse.
+In Caddell v. Caddell, 236 N.C. 686, 690-91, 73 S.E. 2d 923, 926 (1953), our North Carolina Supreme Court said:
+“This Court . . . has never undertaken to formulate any all-embracing definition ... of what conduct on the part of one spouse will justify the other in withdrawing from the marital relation, and each case must be determined in large measure upon its own particular circumstances. Ordinarily, however, the withdrawing spouse is not justified in leaving the other unless the conduct of the latter is such as would likely render it impossible for the withdrawing spouse to continue the marital relation with safety, health, and self-respect. . . .”
+Instead of going forward with evidence in support of her allegation that the plaintiff was not justified in leaving the home, the defendant merely responded to the plaintiff’s testimony describing the conditions in the home, particularly the conduct of the defendant, which necessitated his withdrawal from the marriage. In substance, there is very little difference in the testimony of the plaintiff and the defendant. All of the evidence depicts a marriage totally lacking conjugal harmony. The trial judge responded in kind to this negative evidence when he found:
+“There was no intense bickering or fighting between the parties and the relationship, though not ideal, was well within normal ranges.”
+Surely the parties to a marriage can expect more than that their discordant relations be “within normal ranges.” The parties to a marriage contract have mutual duties and obligations. The defendant offered no evidence tending to show that she was fulfilling her marital duties and obligations when the plaintiff, apparently for the sake of his health and self-respect, chose to break-off the relationship.
+In our opinion, the findings made by the trial judge do not support the conclusion that plaintiff was not justified in leaving the defendant. The judgment is
+Reversed.
+Judge Baley concurs.
+Judge Morris dissents.
+
+## Dissent (Judge Morris)
+
+Judge Morris
+dissenting.
+Plaintiff contends there was insufficient evidence to support the trial judge’s finding of abandonment and that the trial court erred in failing to find the plaintiff’s course of action was justified. I disagree.
+Abandonment has been defined by our courts as follows:
+“One spouse abandons the other, . . . where he or she brings their cohabitation to an end without justification, without the consent of the other spouse and without intent of renewing it.” Panhorst v. Panhorst, 277 N.C. 664, 670-671, 178 S.E. 2d 387 (1971).
+Here the plaintiff himself testified that he separated from his wife and did not return. This testimony, coupled with the testimony of the defendant, clearly establishes that plaintiff brought their cohabitation to an end “without the consent of the other spouse” and “without the intent of renewing it.” The remaining question is whether plaintiff’s departure was justified. Plaintiff alleged and offered evidence tending to show that his wife’s nagging was excessive and caused him mental and physical illness. Defendant’s evidence tended to show that her nagging was not excessive and that plaintiff had always had problems with his health. Her evidence supports the trial judge’s finding that her nagging was “well within normal ranges” and that plaintiff’s departure from the home was “without justification or lawful excuse.” The trial judge’s findings are supported by competent evidence and are binding on appeal.
+“Where trial by jury is waived and issues of fact are tried by the court, . . . the court’s findings of fact ‘have the force and effect of a verdict by a jury and are conclusive on appeal if there is evidence to support them, even though the evidence might sustain a finding to the contrary. . . . ’ ” Laughter v. Lambert, 11 N.C. App. 183, 136, 180 S.E. 2d 450 (1971).
+For this reason, I would affirm the trial court.
