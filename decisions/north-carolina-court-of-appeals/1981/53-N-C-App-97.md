@@ -1,0 +1,28 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "8018SC1091"
+decided: "1981-07-07"
+citations: ["53 N.C. App. 97"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge VAUGHN and Judge ARNOLD concur."]
+parties: ["WILLIAM T. BUIE and wife, MARTHA BUIE; BENNIE ROGERS and wife, JACQUELINE ROGERS; RICHARD L. HALL, JR. and wife, LOIS HALL; C. KENNETH WOOD and wife, SYLVIA M. WOOD; RALPH HULLENDER and wife, GERALDINE HULLENDER; JOE MONTGOMERY and wife, CORNELIA MONTGOMERY; BESS S. WAMPLER; and MICHAEL H. CORNETTE and wife, LINDA D. CORNETTE v. RICHARD C. JOHNSTON"]
+source_url: "https://static.case.law/nc-app/53/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8519735
+cites_cases: ["120 S.E. 2d 817", "153 S.E. 2d 821", "162 A.L.R. 1095", "240 N.C. 382", "244 S.E. 2d 469", "248 S.E. 2d 727", "255 N.C. 23", "270 N.C. 108", "295 N.C. 551", "36 N.C. App. 410", "64 N.E. 2d 921", "82 S.E. 2d 388"]
+---
+
+# Buie v. Johnston
+
+## Majority (BECTON, Judge.)
+
+BECTON, Judge.
+By their sole assignment of error, plaintiffs contend that the trial court erred by refusing to grant a mandatory injunction requiring the defendant to remove the existing incomplete foundation. We agree.
+We find Ingle v. Stubbins, 240 N.C. 382, 82 S.E. 2d 388 (1954), controlling. Ingle was also an action to enjoin a defendant from violating restrictive covenants of a residential subdivision. The covenant at issue therein provided that no building should be located nearer than 50 feet from the front line of the subdivision lots. Lots 10 and 11 faced Bueno Street or Wildwood Lane at its intersection with Plaid Street. These two lots were re-subdivided into three lots facing Plaid Street. Stubbins owned the re-subdivided lot at the intersection, and he began construction of a dwelling on his part of lot 11 that was less than 50 feet from Bueno Street and Wildwood Lane. While plaintiffs’ action against him was pending, he completed this dwelling and completed the foundation for another dwelling on his part of lot 10 that was also less than 50 feet from Bueno Street or Wildwood Lane. The trial court ruled that, notwithstanding the re-subdividing of lots 10 and 11, defendant was in violation of the 50-foot minimum setback restriction. The trial court held that the plaintiffs were entitled to damages, but not to relief by means of a mandatory injunction. Both defendant and plaintiffs appealed. As to defendant’s appeal, the Supreme Court affirmed. As to plaintiffs’ appeal, the Supreme Court wrote:
+the defendant acquired the property with notice of the restrictions imposed upon lots 10 and 11 as originally platted. His attention was directed to these restrictions when he applied to the city for a building permit, and such permit was granted subject to the restrictive covenants. When he began the erection of building, plaintiffs sought in this action to enjoin him from proceeding. The court granted a temporary injunction which he obeyed. But when the plaintiffs could not furnish the bond required as condition for continuance of the injunction, defendant proceeded to take his chances as to the effect of his conduct upon plaintiffs’ rights. Speaking to a like factual situation the Massachusetts Supreme Judicial Court in Sterling Realty Co. v. Tredennick, 162 A.L.R. 1095, 64 N.E. 2d 921 [1946], declared: “Upon similar facts it has been the practice of the courts to grant a mandatory injunction.” While this statement of the principle is not binding on this Court, it is here appropriate, and is most persuasive. Hence, this Court holds that plaintiffs are entitled to mandatory injunction to require defendant to remove the building so that it shall not be nearer than fifty feet to Bueno Street or Wildwood Lane. Moreover, mandatory injunction is appropriate to prevent further construction of the building, foundation for which it appears has been laid by defendant.
+240 N.C. at 391, 82 S.E. 2d at 395-96. Accord, Currin v. Smith, 270 N.C. 108, 153 S.E. 2d 821 (1967). See 20 Am. Jur. 2d, Covenants, Conditions, and Restrictions § 328 (1965).
+In the present case the defendant acquired his lots with notice of the restrictive covenants. He was reminded of the particular restriction at issue when he first undertook construction of two residences on his lots. Defendant nonetheless commenced construction of the second residence. We find no genuine issue of material fact as to the mandatory injunctive relief sought. Defendant cannot rely upon the City’s issuance of building permits to him, since zoning ordinances do not diminish the effect of more stringent private restrictive covenants. See Tull v. Doctors Building, Inc., 255 N.C. 23, 120 S.E. 2d 817 (1961); Mills v. Enterprises, Inc., 36 N.C. App. 410, 244 S.E. 2d 469, disc. rev. denied, 295 N.C. 551, 248 S.E. 2d 727 (1978); 20 Am. Jur. 2d, supra, at § 277. Moreover, it is of no avail to the defendant that construction of the ' second residence is incomplete. The restrictive covenants are intended to preserve the value and character of the subdivision; and a useless, incomplete residential structure would be at least as detrimental to property values and the character of the neighborhood as a completed one. Although summary judgment is otherwise proper, the trial court erred in denying plaintiffs a mandatory injunction requiring the defendant to remove the existing incomplete construction of the second residence. The cause is remanded for further proceedings in accordance with this opinion.
+Error and remanded.
+Judge VAUGHN and Judge ARNOLD concur.
