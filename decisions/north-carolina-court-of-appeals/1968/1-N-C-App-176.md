@@ -1,0 +1,55 @@
+---
+court: "North Carolina Court of Appeals"
+decided: "1968-04-24"
+citations: ["1 N.C. App. 176"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Morris, J., concurs. Britt, J., dissents."]
+parties: ["PEGGY LOUISE CLARKE v. RONALD EUGENE HOLMAN and HUGHEY FRED TOWNSEND."]
+source_url: "https://static.case.law/nc-app/1/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551168
+cites_cases: ["155 S.E. 2d 519", "190 S.E. 899", "211 N.C. 536", "238 N.C. 665", "242 N.C. 67", "244 N.C. 186", "271 N.C. 165", "78 S.E. 2d 598", "86 S.E. 2d 780", "92 S.E. 762"]
+---
+
+# Clarke v. Holman
+
+## Majority (Campbell, J.)
+
+Campbell, J.
+Rural Paved Road 1001 ran in a northerly-southerly direction and was known locally as the Connelly Springs Road. At a point about six miles south of Lenoir, Rural Paved Road 1136 intersected the Connelly Springs Road from the west only, forming a “T” intersection. From the intersection south, the Connelly Springs Road is straight and level for a distance of 528 feet according to the investigating highway patrolman and for a distance of at least 300 feet according to the defendant Holman. From the intersection north, the Connelly Springs Road was straight and level 'for about one-half a mile. The Connelly Springs Road was a paved road approximately 20 feet wide with shoulders approximately four feet wide on each side. There was a marked center line and' the weather was clear and dry.
+The speed limit for vehicular traffic was 55 miles per hour.
+The plaintiff Clarke was driving a 1964 Nash Rambler automobile in a southerly direction at:a speed of approximately 45- miles per hour. Behind her, Cecil Dennis Gragg was. driving a. 1957 Ford automobile and was some five car lengths behind the plaintiff Clarke. There were several vehicles in front of the plaintiff Clarke proceeding, likewise, in a southerly direction.
+When the plaintiff Clarke was some 1700 feet north of the intersection, she observed a 1953 Chevrolet pickup truck operated by the defendant Townsend stopped in the road in the lane designated for northbound traffic. She did not observe any signals being given by the defendant Townsend. The pickup truck was not equipped with mechanical turn' signals. At all times she observed the' Chevrolet pickup truck of the defendant Townsend, it was sitting “dead still” in the road. Just as she reached the intersection, she was struck by a vehicle that she had not observed prior to that time.
+The witness Gragg, who was driving the Ford automobile immediately behind the plaintiff Clarke, likewise observed the Townsend truck, and it was sitting still when he first observed it. Gragg further saw the defendant Holman driving a 1966 Ford pickup truck in a northerly direction come up behind the Townsend truck and saw Holman swerve off of the Townsend truck “that was stopped there and struck the Peggy Clarke car.”
+After striking the Clarke vehicle, Holman ran into the Gragg automobile.
+The defendant Holman testified that he saw the Townsend vehicle sitting in the road but did not see Townsend giving any signal. Holman testified that he never saw the Townsend vehicle when he came around the curve at least 300 feet away and that he had not seen it previously along the highway. He testified that the first time he saw it, it was stopped on its side of the road headed directly north in the lane of traffic and not turned in any direction. He said that he did not see the pickup truck of the defendant Townsend until it was too late for him to stop. He testified that if he had seen the Townsend vehicle when 150 feet away from it, he would have been able to stop but that he did not see it until he was too close to stop. The evidence showed Holman’s 1966 Ford pickup truck skidded 57 feet and struck the Townsend vehicle in the left rear and then crossed into the southbound lane and struck the vehicle of the plaintiff Clarke and came to rest after striking the vehicle of the witness Gragg.
+The defendant Holman testified that, while he had not seen the defendant Townsend give any signals, if there had been a hand signal he could not have stopped, because he did not see the vehicle until he was too close to stop. He was within 100 feet of the stopped vehicle before he saw it. He gave no explanation as to why he had not seen the Townsend vehicle prior to that time.
+Townsend testified that on reaching the intersection he stopped for the purpose of making a left turn; that he gave a hand signal indicating his intention to turn left but, because of oncoming traffic, was not able to make a turn; and that he had been sitting there for a half a minute or more, possibly 45 seconds, when he heard brakes and tires squalling and looked in the mirror and saw the truck of Holman sliding towards him sideways. He took his hand in and braced himself on the steering wheel.
+The plaintiff in her complaint alleges that the defendant Townsend was negligent in that:
+1. He failed to give a signal of his intention to stop.
+2. He failed to give a signal of his intention to make a left turn.
+3. He stopped on the main traveled portion of a public highway without just cause or an emergency.
+All of the evidence was to the effect that the defendant Townsend stopped preparatory to making a left turn, that it was necessary for him to remain in a stopped position in order to permit oncoming traffic to pass, and that there was no intent to break the continuity of the travel. This being a legitimate purpose for stopping on the highway, the evidence on behalf of the plaintiff does not sustain the third allegation of negligence. Royal v. McClure, 244 N.C. 186, 92 S.E. 762.
+With regard to the other two allegations of negligence, namely: the failure to give a signal of intention to stop and the failure to give a signal of an intention to turn left, the statute provides: “The driver of any vehicle upon a highway before starting, stopping or turning from a direct line shall first see that such movement can be made in safety, and if any pedestrian may be affected by such movement shall give a clearly audible signal by sounding the horn, and whenever the operation of any other vehicle may be affected by such movement, shall give a signal as required in this section, plainly visible to the driver of such other vehicle, of the intention to make such movement.” G.S. 20-154(a).
+It is to be noted that the statute provides, “whenever the operation of any other vehicle may be affected by such movement.” Accordingly, whenever the operation of another vehicle will not be affected by starting, stopping, or turning, no signal is required by the statute.
+“The plaintiff having first looked in both directions, and having observed no automobile or other vehicle approaching from either direction, was under no obligation; by virtue of the statute, to give any signal of his purpose- to turn to his left and enter the driveway to his home. He was" therefore.not negligent as a matter of law in failing to give a signal before he turned to his left and crossed the highway for the purpose of entering the driveway to his home.” Stovall v. Ragland, 211 N.C. 536, 190 S.E. 899.
+In the instant case the plaintiff, according to her testimony, when she was 1700 feet to the north of the intersection saw the vehicle of the defendant Townsend sitting still. No one testified to seeing the vehicle of the defendant Townsend moving. So far as the evidence on behalf of the plaintiff reveals, the defendant Townsend was properly stopped on the highway and, under the statute, it was not incumbent upon him to give a signal of his intention to turn left until he started to do so because the statute states: “before.” The evidence in the instant case shows no requirement on the part of Townsend to give any ¡signal.
+If it be conceded that the defendant Townsend was in any way negligent in failing to give a signal indicating that he was stopped or' indicating that he was intending to make a left turn, such negligent act on the part of the defendant Townsend under the evidence of this case was dormant and at rest.
+The defendant Holman testified that if he had seen the Townsend vehicle when he was 150 feet from it he could have stopped, and that he ran into it simply because he did not see it until he was too close to it to stop. He gave no explanation as to why he had failed to' see the vehicle previously, even though there was nothing to impede his vision of the vehicle.
+If the defendant Townsend was in any way negligent, his negligence was insulated by the active negligence of the defendant Holman, and this case is controlled by the doctrine of insulated negligence as set forth in Smith v. Grubb, and Construction Company v. Grubb, 238 N.C. 665, 78 S.E. 2d 598, and Potter v. Frosty Morn Meats, Inc., 242 N.C. 67, 86 S.E. 2d 780.
+We have read and considered all of the cases cited in the appellant’s brief. In each of those cases, all of the vehicles were moving at the time of the collision, and the facts are readily distinguishable from the facts involved in the instant case.
+In the instant case, the trial court was in error in failing to sustain the motion for judgment as of nonsuit on behalf of the defendant Townsend.
+Reversed.
+Morris, J., concurs. Britt, J., dissents.
+
+## Dissent (Britt, J.,)
+
+Britt, J.,
+dissenting: Defendant Townsend’s principle assignment of error relates to the failure of the trial court to nonsuit the action as to him.
+A motion to nonsuit presents the question whether the evidence considered in the light most favorable to plaintiff is sufficient to be submitted to the jury. Discrepancies and contradictions in plaintiff’s evidence are for the jury, not the court. Plaintiff is entitled to every reasonable inference to be drawn from his evidence. Cutts v. Casey, 271 N.C. 165, 155 S.E. 2d 519.
+A decision in this case depends upon the construction of portions of G.S. 20-154. Plaintiff contends that under the facts in this case this statute required defendant Townsend to give a signal continuously for the last 200 feet before stopping or making a turn and to continue signaling until his movement was completed. (Emphasis added).
+Our research fails to disclose that our Supreme Court has said whether or not a motorist situated as defendant Townsend was in this case must continue signaling until his left turn movement is completed. I fear that the construction given in the majority opinion is too strict.
+Subsection (b) of G.S. 20-154, after describing the signal to be given, states that “all signals shall be maintained or given continuously for the last one hundred feet (two hundred feet where speed limit is 45 miles per hour or more) traveled prior to stopping or making a turn.” (Emphasis added). In the instant case, a turn was not made when defendant Townsend stopped at the intersection.
+In my opinion, the trial court properly submitted the case for jury determination and I vote to affirm.
