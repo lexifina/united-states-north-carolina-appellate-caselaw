@@ -1,0 +1,40 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "6912DC53"
+decided: "1969-04-02"
+citations: ["4 N.C. App. 240"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Campbell and Moeeis, JJ., concur."]
+parties: ["ROLAND RECTOR v. HILDA RECTOR"]
+source_url: "https://static.case.law/nc-app/4/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8552664
+cites_cases: ["1 N.C. App. 192", "159 A.L.R. 496", "160 S.E. 2d 547", "176 N.C. 307", "97 S.E. 39"]
+---
+
+# Rector v. Rector
+
+## Majority (Brock, J.)
+
+Brock, J.
+The only question raised on this appeal is by defendant’s assignment of error to the failure of the trial court “to set aside the verdict as contrary to the weight of the evidence, particularly as to the second issue for the reason that there is insufficient evidence to sustain an affirmative answer to the second issue submitted to the jury.”
+The first and second issues were submitted to, and answered by, the jury as follows:
+“1. Has the plaintiff been a resident of North Carolina for more than six months next preceding the institution of this action as alleged in the complaint?
+ANswer: No.
+“2. Has the defendant been a resident of North Carolina for more than six months next preceding the institution of this action as alleged in the complaint?
+AnsweR: Yes.”
+The next three issues, (1) as to the marriage of the parties, (2) as to the act of adultery by defendant, and (3) as to plaintiff’s knowledge thereof for at least six months before institution of the action, were each answered in the affirmative. No reason or argument is stated, and no authority is cited, by defendant in support of her assignment of error to the failure of the court to set aside the answers to issues 1, 3, 4 and 5, and her assignment of error with respect to those issues is deemed abandoned. Rule 28, Rules of Practice in the Court of Appeals of North Carolina.
+With respect to the second issue (defendant’s residence), defendant’s primary argument is that since she was plaintiff’s wife, and since plaintiff was found not to be a resident of North Carolina, it follows as a matter of law that she is not a resident of North Carolina.
+The evidence with respect to residence tends to show that plaintiff and defendant were married in Germany on 23 April 1964; plaintiff is presently in the active military service stationed at Fort Bragg, North Carolina; at some time prior to 4 November 1967 the parties moved to Fayetteville and purchased a home; that on 4 November 1967 the parties separated and have not lived together since; that defendant continued to reside in the home, and in March 1968 plaintiff transferred his interest in the home to defendant, and she has lived in the home continuously since that time. The evidence further tended to show that defendant is a German national and has not become a citizen of the United States. However, plaintiff testified, without objection, that he knew that defendant intends her residence to be in Fayetteville, and that she had never expressed any desire or intent to return to Germany to live.
+One need not be a citizen of the United States in order to establish residence or domicile within the state for purposes of divorce actions. 27A C.J.S., Divorce, § 12, p. 42; 27A C.J.S., Divorce, § 76c, p. 275; 1 Lee, N. C. Family Law, § 42, p. 196.
+“The weight of authority continues to be that a bona fide ‘residence,’ necessary under statutes in order to confer jurisdiction in divorce proceedings, is within the legal meaning of the word ‘domicile,’ that is, an abode animo manendi, a place where a person lives or has his home, to which, when absent, he intends to return, and from which he has no present purpose to depart.” Annot., 159 A.L.R. 496, 499 (1945). Whether defendant is a resident, within the meaning of the statute, was a question for determination, from the evidence, by the jury, under proper instructions by the court. Defendant takes no exception to the charge of the court, and it is not contained in the record on appeal; therefore, it is presumed to be correct.
+Since the separation of the parties on 4 November 1987 defendant has continued to live in the home in Fayetteville, and since March 1968 has been the sole owner of the home in Fayetteville. Her conduct in continuing to reside in Fayetteville, coupled with the testimony of plaintiff, was sufficient evidence to be submitted to the jury for its determination of whether defendant had been a resident of the State of North Carolina for more than six months next preceding the institution of the action.
+“The common-law rule is that a woman, upon marriage, loses her own domicile and by operation of law acquires that of her husband; and that when the husband changes his domicile, hers follows and is drawn to his. Exceptions are made to the rule where a situation arises in which the interests of the spouses are not identical. Obviously, the interests of the spouses are not identical for the purposes of the dissolution of the marriage. . . .” 24 Am. Jur. 2d, Divorce and Separation, § 257, p. 411. This rule has been very generally applied in allowing the wife to acquire a separate domicile for the purpose of her maintaining an action for divorce or custody where there is no fault on her part. In re Means, 176 N.C. 307, 97 S.E. 39; 25 Am. Jur. 2d, Domicil, § 53, p. 40. In view of this rule, we see no logical, legal or equitable reason for allowing the wife, whose misconduct has brought about the separation, to insist upon the legal fiction that her domicile follows that of her husband, and thereby to defeat his action for divorce brought in the jurisdiction in which she actually resides.
+Also, it seems clear that our divorce statutes recognize the legality of a separate domicile, or residence, for the wife. G.S. 50-8 provides: “The plaintiff shall set forth in his or her complaint that the complainant or defendant has been a resident of the State of North Carolina for at least six months. . . .” (Emphasis added.) G.S. 50-6 provides: “Marriages may be dissolved ... on the application of either party, if and when . . . the plaintiff or defendant in the suit for divorce has resided in the State for a period of six months.” (Emphasis added.)
+Defendant’s assignment of error is overruled.
+Ordinarily, when a party conceives, as is contended here by defendant, that there is insufficient evidence to support an answer to an issue, the proper procedure is to move for nonsuit, or object to the submission of the issue. Defendant did neither of these. However, because the question of jurisdiction has been argued, we have considered defendant’s appeal as though defendant had made a motion in the cause to vacate the judgment for lack of jurisdiction, and that the motion had been denied by the trial court, and defendant had appealed from such denial.
+We wish to point out that when notice of appeal was given, the trial judge allowed appellant sixty days to serve case on appeal, and allowed appellee thirty days to serve countercase or exception. It seems necessary to reiterate for the benefit of counsel what we said in Smith v. Starnes, 1 N.C. App. 192, 160 S.E. 2d 547. “The case on appeal, and the countercase or exceptions, and the settlement of the case on appeal by the trial tribunal must all be accomplished within a time which will allow docketing of the record on appeal within the time allowed under Rule 5.” Where sixty days and thirty days are allowed, as was done in this case, if the parties use all of the time allowed, the record on appeal could not reasonably be docketed in the Court of Appeals within the ninety days allowed by Rule 5; and this is particularly so if it should become necessary for the trial tribunal to settle the case on appeal. However, in this case the full time allowed by the order was not actually used, and the record on appeal was docketed in ample time.
+Affirmed.
+Campbell and Moeeis, JJ., concur.
