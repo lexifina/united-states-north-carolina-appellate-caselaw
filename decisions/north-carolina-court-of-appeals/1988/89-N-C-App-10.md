@@ -1,0 +1,65 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "8728SC604"
+decided: "1988-03-01"
+citations: ["89 N.C. App. 10"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Arnold and Johnson concur."]
+parties: ["STATE OF NORTH CAROLINA v. LUTHER FOWLER"]
+source_url: "https://static.case.law/nc-app/89/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8520006
+cites_cases: ["12 N.C. App. 487", "16 N.C. App. 712", "183 S.E. 2d 820", "184 S.E. 2d 885", "193 S.E. 2d 341", "194 S.E. 2d 154", "247 F. 2d 745", "260 S.E. 2d 419", "279 N.C. 728", "282 N.C. 674", "298 N.C. 759", "311 N.C. 633", "319 S.E. 2d 254", "320 S.E. 2d 31", "352 U.S. 432", "462 U.S. 213", "463 U.S. 1237", "70 N.C. App. 403", "77 L.Ed. 2d 1453"]
+---
+
+# State v. Fowler
+
+## Majority (ORR, Judge.)
+
+ORR, Judge.
+I.
+On appeal, defendant contends the information provided by the confidential informant in the two affidavits was insufficient to establish probable cause for issuance of a search warrant.
+When addressing defendant’s contention, our Court is guided by the Supreme Court’s decision in State v. Arrington, 311 N.C. 633, 319 S.E. 2d 254 (1984), which adopted the “totality of the circumstances” analysis, set forth in Illinois v. Gates, 462 U.S. 213, 76 L.Ed. 2d 527, reh’g denied, 463 U.S. 1237, 77 L.Ed. 2d 1453 (1983), for determining if probable cause existed for issuance of a search warrant based on information from an informant. State v. Walker, 70 N.C. App. 403, 320 S.E. 2d 31 (1984).
+The standard applied for a totality of the circumstances analysis is stated as follows:
+The task of the issuing magistrate is simply to make a practical, common sense decision whether, given all the circumstances set forth in the affidavit before him, including the ‘veracity’ and ‘basis of knowledge’ of persons supplying hearsay information, there is a fair probability that contraband or evidence of a crime will be found in a particular place. And the duty of a reviewing court is simply to ensure that the magistrate had a ‘substantial basis for . . . concluding]’ that probable cause existed.
+Illinois v. Gates, 462 U.S. at 238-39, 76 L.Ed. 2d at 548; State v. Arrington, 311 N.C. at 638, 319 S.E. 2d at 257-58.
+The Supreme Court of North Carolina further emphasized in Arrington “that great deference should be paid a magistrate’s determination of probable cause and that after-the-fact scrutiny should not take the form of a de novo review.” Arrington, 311 N.C. at 638, 319 S.E. 2d at 258.
+In the present case, Detective Jenkins presented two affidavits to establish probable cause for the search of defendant’s person and anal cavity. The first affidavit contained the following statements:
+Within the past 48 hrs. Det. A. D. Jenkins with the Asheville Police Dept, interviewed a confidential informant. Informant stated that Luther Fowler was to leave on 10/22/86 in the evening, on a flight out of town to buy Dilaudid and would return within the next day or so. Informant has informed Affiant in the recent past of the actions of Luther Fowler, as to leaving town by airplane to buy Dilaudid, and would return in a day or so with a quanity [sic] of Dilaudid.
+On 10/22/86 Det. J. S. Siske with the Asheville Police Dept, contacted a Piedmont Airlines reservation clerk in Winston-Salem, N.C. The clerk stated that they had a Luther Fowler on their reservation list, to depart the Asheville Airport at aprox. 6:00 p.m. on 10/22/86. The clerk stated that Luther Fowler cancelled the flight and wanted to book a flight for a departure of aprox. 1 hour later. The clerk stated that this flight was full and Fowler did not depart on 10/22/86. But did schedule a flight for 10/23/86 at 6:50 a.m. with a destination of Daytona Florida. The clerk stated that Luther Fowler was scheduled to return on 10/23/86 at aprox. 10:20 p.m.
+On 10/23/86 Det. J. S. Siske talked with a clerk with Piedmont Airlines in Winston-Salem, N.C. and was told that Luther Fowler did board the 6:50 a.m. flight to Daytona Fla.
+On aprox. 10/11/86 Det. A. D. Jenkins and Det. J. S. Siske while assisting patrol had the occasion to talk with Luther Fowler after being arrested for trespass, and while being intoxicated stated to Siske and Jenkins that he had just recently returned from Daytona, Fla. and offered to show the airline ticket.
+In 1976 Luther Fowler was convicted for sale & delivery of Herion [sic], Cocaine, & Dilaudid in the state of N.C. Also convicted for Rape in 1956 and more recently for carrying a concealed weapon 8/27/86. Luther Fowler also has numerous other convictions in other states.
+This affiant has received information in the recent past that Luther Fowler is a Dilaudid dealer.
+An evaluation of the affidavit discloses for consideration by the magistrate the following factors: (1) defendant’s present street reputation as a dilaudid dealer and his past conviction for dilaudid possession; (2) the informant’s specific description, at an earlier time, as to how and when defendant purchased dilaudid; (3) the informant’s tip describing the time and day of departure, the estimated day of return, and the mode of transportation to be used by defendant when he brought his next shipment of dilaudid to Asheville; (4) the police confirmation of all the details contained in the informant’s tip; and (5) the further confirmation of defendant’s departure on a flight from Asheville, North Carolina to Daytona Beach, Florida on 23 October 1986.
+The second affidavit to establish probable cause was a continuance of the first affidavit and said:
+The applicant swears to the following facts to establish probable cause for the issuance of this continuation of the original affidavit:
+In addition to the original information contained in the application for search warrant of Luther E. Fowler, same confidential informant further informed applicant that Luther E. Fowler is known to transport Dilauded [sic] within his anal cavity.
+Upon execution of search warrant, Fowler was searched by applicant Det. Dayton, and Special Agent David Barnes. Upon examination of Fowler, Det. Dayton and Special Agent Barnes observed what appeared to be a lubricant in the direct area of the anal opening.
+It is therefore requested that the search be expanded to include body cavities.
+This affidavit was dated, sworn, and subscribed before a detached and neutral magistrate. It specifically referred to and incorporated the prior information given in the search warrant application and the first affidavit. In addition, the information received from the informant, that defendant transported drugs in his anal cavity, was supported by the police examination disclosing a lubricant at the opening of defendant’s anal cavity.
+Applying the practical common sense approach mandated by the “totality of the circumstances” analysis, this Court finds there was a substantial basis for the first magistrate’s conclusion that defendant would possess dilaudid when he returned to the Ashe-ville Airport the evening of 23 October 1986 and for the second magistrate’s conclusion that the dilaudid possessed by defendant was secreted in his anal cavity. Accordingly, we conclude adequate probable cause, based upon the informant’s tip and the police investigation, existed for issuance of the search warrant.
+II.
+Defendant further argues issuance of the search warrant violated N.C.G.S. § 15A. After reviewing this argument, we find it to be without merit and decline to discuss it.
+III.
+Finally, defendant contends the search warrant, even if properly issued, was improperly executed; therefore, evidence disclosed pursuant to the warrant was improperly admitted at trial.
+Defendant presents two arguments in support of his contention. First, he contends the search exceeded the scope of the warrant because the warrant did not specifically list his body cavity as an area to be searched. We disagree.
+It is not necessary under these facts for the face of the warrant to list the specific bodily area to be searched. “[A] warrant may properly be construed with reference to the supporting affidavit for the purpose of sustaining the particularity of the description of the premises to be searched .... Such incorporation is proper, provided that the affidavit accompanies the warrant, and, in addition, the warrant uses suitable words of reference which will provide notice that the two documents are to be construed together so as to provide the requisite particularity of description.” Brooks, Comr. of Labor v. Enterprises, Inc., 298 N.C. 759, 763, 260 S.E. 2d 419, 422 (1979) (citations omitted); State v. Shanklin, 16 N.C. App. 712, 193 S.E. 2d 341 (1972), cert, denied, 282 N.C. 674, 194 S.E. 2d 154 (1973); State v. Flowers, 12 N.C. App. 487, 183 S.E. 2d 820, cert. denied, 279 N.C. 728, 184 S.E. 2d 885 (1971).
+Language in the challenged warrant said “[y]ou are commanded to search the premises, vehicle, person, and other place or item described in the application for the property and person in question.” (Emphasis added.) The application for the search warrant specifically referred to the attached affidavit. The second affidavit “requested that the search be expanded to include body cavities.”
+The second affidavit accompanied the warrant and the first affidavit, when defendant’s body cavity was searched. Moreover, the language in the warrant and application incorporated the affidavit by reference and gave sufficient notice that the documents were to be construed together. For this reason, we find defendant’s argument without merit.
+Defendant assigns error in his second argument to the manner in which the body cavity search was executed.
+Initially, the police asked defendant to submit to an abdominal x-ray to determine if he was concealing drugs in his anal cavity. Only after defendant refused to comply did police order a rectal exam.
+The actual physical examination was conducted by a qualified physician, in a hospital emergency room, with the use of medically approved procedures.
+“This kind of examination is a routine one which countless persons have undergone. It is an uncomplicated and non-hazardous procedure.” Blackford v. United States, 247 F. 2d 745, 752 (9th Cir. 1957).
+We conclude, under these facts, that the rectal exam was properly conducted within the scope of the warrant.
+Defendant next argues that the physician, when removing the dilaudid, excessively probed his rectum with a finger and an instrument before administering an enema. The physician’s actions, defendant contends, were performed without his consent and, thus, constituted an unreasonable search and seizure.
+The intensity of the alleged probing is not supported by the physician’s medical record, which states that after attempting to reach the dilaudid with a finger and an instrument, the physician administered an enema, which successfully dislodged the drugs.
+After review, we find that defendant was not under arrest at the time of the search; consequently, the immediate recovery of the dilaudid was necessary to justify his continued police detention. However, defendant was in custody pursuant to a valid search warrant authorizing a cavity search and seizure of dilaudid found therein, so defendant’s consent was not required for conducting either the search or the removal. We further find that the dilaudid’s removal was carried out by a qualified physician, in sterile medical surroundings, using approved medical procedures.
+We refuse to accept defendant’s argument that the rectal exam and the removal of drugs from his anal cavity are such an intrusion upon personal privacy and dignity as to be an inherently unreasonable search. As the Ninth Circuit Court of Appeals stated in Blackford, when faced with the same argument, “[t]here is nothing in the Bill of Rights which makes body cavities a legally protected sanctuary for carrying narcotics. It is not per se violative of the Constitution to remove foreign matter from body cavities (Breithaupt v. Abram, [352 U.S. 432, 1 L.Ed. 2d 448 (1957)]) any more than it is to force a person with narcotics in a clenched fist to open his hand. It is necessary to inquire into the particular circumstances to determine whether in the precise case before the court, the search and subsequent seizure are unlawful.” Blackford, 247 F. 2d at 753.
+In the present case, the search and seizure were conducted pursuant to a valid warrant, and were performed by a physician in a hospital with the use of approved medical procedures. Defendant’s constitutional rights were adequately protected by the utilization of proper procedure by the law enforcement officers in securing the search warrants and in executing the search.
+For the reasons given above, this Court finds the rectal exam and the removal of the dilaudid did not constitute an unreasonable search and seizure, and overrules this assignment of error.
+This Court holds that defendant received a fair trial free from prejudicial error.
+No error.
+Judges Arnold and Johnson concur.
