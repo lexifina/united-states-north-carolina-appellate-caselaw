@@ -1,0 +1,43 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "704SC467"
+decided: "1970-12-16"
+citations: ["10 N.C. App. 88"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Parker and Graham concur."]
+parties: ["STATE OF NORTH CAROLINA v. FURNIE THIGPEN"]
+source_url: "https://static.case.law/nc-app/10/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551045
+cites_cases: ["128 S.E. 2d 229", "144 S.E. 2d 262", "149 S.E. 2d 579", "151 S.E. 2d 577", "164 S.E. 2d 388", "171 S.E. 2d 416", "175 S.E. 2d 561", "258 N.C. 162", "265 N.C. 420", "268 N.C. 33", "268 N.C. 679", "276 N.C. 123", "277 N.C. 1", "3 N.C. App. 196"]
+---
+
+# State v. Thigpen
+
+## Majority (MALLARD, Chief Judge.)
+
+MALLARD, Chief Judge.
+Furnie Thigpen, the defendant, was tried upon a warrant charging him with driving an automobile on 22 November 1969 while under the influence of intoxicating liquor and driving while his license was revoked.
+In the Uniform Traffic Ticket, used as a warrant, there was an apparent attempt to charge the defendant with resisting arrest. This was not a proper allegation and did not charge the defendant with that offense.
+The plea, verdict and judgment appealed from in district court are not set out in the record on appeal. In the record on appeal under the “Statement of Case on Appeal,” it is stated that the defendant appealed to the superior court from the district court. There has also been filed in the office of the Clerk of the Court of Appeals an instrument which reveals that the defendant was convicted and sentenced in the district court of “driving under the influence of intoxicating liquor, resist arrest, driving while license were revoked.”
+In superior court the defendant pleaded not guilty and was found guilty as charged. The evidence was purportedly narrated in the record on appeal. In addition, the transcript of the evidence was filed in question and answer form, contrary to Rule 19 (d) of the Rules of Practice in the Court of Appeals, as amended. The narrative in the record on appeal does not set forth all the circumstantial evidence of the State as contained in the transcript. The transcript also contains a copy of the charge of the court to the jury. When Rule 19(d), as amended, is not complied with and the evidence is set forth in question and answer form, it is provided that “ * * * this Court will, in its discretion, hear the appeal, dismiss the appeal or remand for a settlement of the case on appeal to conform to this rule.”
+From the transcript and charge of the court, it is clear that in the superior court the defendant was tried and convicted of driving an automobile while under the influence of intoxicating liquor, this being the second offense. He was also tried and convicted of driving a motor vehicle upon a public highway while his operator’s license was revoked. Concurrent sentences of six-months imprisonment were imposed on each count. There is sufficient competent evidence in the transcript to require submission of the case to the jury on each of these charges, and the sentences are not in excess of that permitted by statute.
+The record on appeal in this case consists of nineteen pages and contains on page five the following: “Denial of motion at close of State’s evidence Exception Transcript Page 45.” The word “exception” also appears on pages ten and fifteen of the record on appeal. All three of these “exceptions” appear to relate to a motion to dismiss. There are no other exceptions in the record on appeal.
+On page four of the record begins a series of sections, the first being styled “Assignment op Error No. I.” They run consecutively to “VI.” We quote here from one of them entitled “Assignment op Error No. II Alibi Evidence” to indicate our bewilderment:
+“Failure of the Court to allow the defendant to put before the jury his alibi evidence by means of cross-examination of the arresting officer who was the sole witness for the State. Here officer was not allowed by the Court to repeat any of his conversation with the defendant upon his arrest nor any of defendant’s responses for the Benefit op the Jury.”
+The Supreme Court stated in State v. Kirby, 276 N.C. 123, 171 S.E. 2d 416 (1970) :
+“While the circumstances of each case must largely dictate the form of an assignment of error, the assignment should clearly present and specifically point out the alleged error relied upon without the necessity of going beyond the assignment itself to ascertain the question to be debated. Gilbert v. Moore, 268 N.C. 679, 151 S.E. 2d 577; Long v. Honeycutt, 268 N.C. 33, 149 S.E. 2d 579. ‘The assignment must be so specific that the Court is given some real aid and a voyage of discovery through an often voluminous record not rendered necessary.’ (citations omitted) ”
+In this case, even if we were to take a voyage through the rest of the record on appeal, there would be no exceptions to support the assignments of error. In State v. Fox, 277 N.C. 1, 175 S.E. 2d 561 (1970), it is said: “An assignment of error which is not supported by an exception previously noted in the case on appeal presents no question of law for this Court to decide.”
+The evidence in the record on appeal is paraphrased in the words of the appellant. It is not in narrative form, there are no objections or exceptions except the three heretofore mentioned, and these do not properly present the question of nonsuit attempted to be presented. We think that this appeal merits the same treatment afforded the one in State v. Rorie, 258 N.C. 162, 128 S.E. 2d 229 (1962), where Justice Rodman said:
+“It is the duty of the appellant who asserts prejudicial error to point out the asserted error by exception. He must classify his exceptions, putting in a separate group all exceptions which relate to each particular question. The failure to except leaves nothing to review, and the failure to group requires a dismissal of the appeal.”
+Rule 19(c) of the Rules of Practice in the Court of Appeals requires that all exceptions be grouped and numbered immediately before the signature to the record on appeal, and those not done in this manner will be deemed abandoned. In this case, appellant’s exceptions appear on pages five, ten and fifteen of a nineteen-page record, and they are not grouped and numbered immediately before the signature to the record on appeal.
+Rule 21 of the Rules of Practice in the Court of Appeals requires that the appellant set out in his statement of record on appeal his exceptions to the proceedings, rulings, or judgment of the court, briefly and clearly stated and numbered. Those not set out in this manner will not be considered by the court.
+The Rules of Practice in the Court of Appeals are mandatory and not directory. State v. Farrell, 3 N.C. App. 196, 164 S.E. 2d 388 (1968). It is manifest that appellant has not complied with the cited rules.
+“It is the duty of appellant to see that the record is properly made up and transmitted to the Court.” State v. Stubbs, 265 N.C. 420, 144 S.E. 2d 262 (1965). The solicitor agreed to “the case on appeal.” In State v. Fox, supra, it is said, relative to the duties of the solicitors:
+“At the same time we remind the solicitors that their obligation to> a ease does not end when the judge pronounces sentence. Their duty includes policing the case on appeal. This, of course, necessitates the expenditure of the time and effort required to make a careful and painstaking examination of it and to file exceptions or counter case if either is necessary to provide a correct record and a case on appeal which truly and intelligibly sets out the proceedings as they occurred. Only upon such a record can the Attorney General and the Appellate Division do justice to the State and to the defendant.”
+The record on appeal, when compared with the transcript referred to therein, is distorted, incomplete, confusing and argumentative. Because of the condition of the record on appeal, the Attorney General moved to remand the case to the superior court “for clarification or correction of the record in this case.” This motion is denied. However, if the solicitor had properly examined the case on appeal, as it was his duty to do, he should have detectéd the condition of the record on appeal. It would then have been unnecessary for us to search through the entire transcript as well as the record on appeal in order to determine what occurred at the trial.
+The appeal ought to be dismissed. However, upon an examination of the record on appeal and the transcript referred to therein, no prejudicial error is made to appear.
+No error.
+Judges Parker and Graham concur.
