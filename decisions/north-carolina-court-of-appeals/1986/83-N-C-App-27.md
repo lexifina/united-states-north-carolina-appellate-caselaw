@@ -1,0 +1,35 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "8626SC123"
+decided: "1986-10-07"
+citations: ["83 N.C. App. 27"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chief Judge HEDRICK and Judge WEBB concur."]
+parties: ["FLEET REAL ESTATE FUNDING CORPORATION v. JOHN N. BLACKWELDER and NORRIS M. BLACKWELDER"]
+source_url: "https://static.case.law/nc-app/83/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8357936
+cites_cases: ["113 S.E. 2d 323", "223 N.C. 146", "25 S.E. 2d 433", "250 S.E. 2d 693", "252 N.C. 200", "254 S.E. 2d 39", "261 S.E. 2d 145", "267 S.E. 2d 661", "269 S.E. 2d 117", "284 S.E. 2d 523", "297 N.C. 176", "299 N.C. 741", "301 N.C. 44", "314 N.C. 1", "332 S.E. 2d 51", "39 N.C. App. 473", "44 N.C. App. 261", "55 N.C. App. 86", "N.C. Gen. Stat. § 1-47", "N.C. Gen. Stat. § 1-52", "N.C. Gen. Stat. §§ 1-26"]
+---
+
+# Fleet Real Estate Funding Corp. v. Blackwelder
+
+## Majority (WELLS, Judge.)
+
+WELLS, Judge.
+The dispositive question in this appeal is whether the contract on which plaintiff seeks recovery is one of “guaranty” under seal coming within the ten-year statute of limitations, or is one of “suretyship” coming within the three-year statute of limitations. Plaintiff argues that the court erroneously held that N.C. Gen. Stat. § 1-52, the three-year statute, barred plaintiffs action. Plaintiff contends that N.C. Gen. Stat. § 1-47(2), the ten-year statute, applies because defendant entered a contract of guaranty under seal and that plaintiffs action is not barred under G.S. 1-47(2). We disagree.
+While titled a “Guaranty Agreement,” the instrument executed and delivered by defendant to NCNB provides, in pertinent part, that:
+This obligation and liability on the part of the undersigned shall be primary and not a secondary obligation and liability, payable immediately upon demand without recourse first having been had by the owner and holder of the aforesaid notes against the Borrower or any person, firm or corporation or property which is security for the indebtedness;
+In Trust Co. v. Creasy, 301 N.C. 44, 269 S.E. 2d 117 (1980), our Supreme Court held that an agreement which included language identical to that excerpted above created a contract of suretyship. The Court explained:
+Although contracts of guaranty and suretyship are, to some extent, analogous, and the labels are used interchangeably, there are, nevertheless, important distinctions between the two undertakings. ... A guaranty is a promise to answer for the payment of a debt or the performance of some duty in the event of the failure of another person who is himself primarily liable for such payment or performance. ... A surety is a person who is primarily liable for the payment of the debt or the performance of the obligation of another. . . . While both kinds of promises are forms of security, they differ in the nature of the promisor’s liability. A guarantor’s duty of performance is triggered at the time of the default of another. ... On the other hand, a surety is primarily liable for the discharge of the underlying obligation, and is engaged in a direct and original undertaking which is independent of any default. [Citations omitted.]
+While the document at issue is entitled “guaranty agreement,” its label is not determinative of its character. It is appropriate to regard the substance, not the form, of a transaction as controlling, and we are not bound by the labels which have been appended to the episode by the parties. . . . The agreement expressly states that
+This obligation and liability on the part of the undersigned shall be a primary and not a secondary obligation and liability, payable immediately upon demand without recourse first having been had by [Branch Banking and Trust] against the Borrower or any person, firm, or corporation; ....
+By affixing her signature to the document, defendant manifested her assent to enter into a suretyship contract which imposed primary liability upon her for the payment of her husband’s debt to the bank. [Citations omitted.]
+Following Trust Co., we hold that defendant entered a contract of suretyship with plaintiffs predecessor in interest notwithstanding the instrument’s title of “Guaranty Agreement.” As in Trust Co., defendant entered a suretyship contract which imposed primary liability upon him for payment of Blackwelder Furniture Company’s debt to the bank.
+“The statute of limitations barring actions against defendants as sureties is G.S. 1-52, notwithstanding the seal appearing after their names.” Pickett v. Rigsbee, 252 N.C. 200, 113 S.E. 2d 323 (1960). See also Lee v. Chamblee, 223 N.C. 146, 25 S.E. 2d 433 (1943). “The statute begins to run on the date the promise [to pay] is broken.” Pickett, supra. See also Penley v. Penley, 314 N.C. 1, 332 S.E. 2d 51 (1985). If the original borrower makes a new promise to pay the debt in writing or actually makes a partial payment after his or her original promise to pay is broken but before the statute of limitations has run, then the statute begins to run anew from the date of this payment or acknowledgment as against a surety who authorizes or ratifies it. See Pickett, supra, N.C. Gen. Stat. §§ 1-26, 1-27. See also Trust Co. v. Martin, 44 N.C. App. 261, 261 S.E. 2d 145 (1979), disc. rev. denied, 299 N.C. 741, 267 S.E. 2d 661 (1980).
+Applying the above principles to the facts here, we hold that all the facts necessary to establish the limitation appear on the face of plaintiffs complaint. See Flexolite Electrical v. Gilliam, 55 N.C. App. 86, 284 S.E. 2d 523 (1981). Specifically, plaintiffs complaint alleges that the original borrower “has been and is in default . . . since on or about February 1, 1982.” Plaintiff does not allege in its complaint that defendant authorized or ratified any acknowledgment or payment after default. See Pickett, supra. Plaintiff filed this action on 13 June 1985, more than three years after its cause of action had accrued against defendant. Plaintiffs claim thus is barred by G.S. 1-52. Accordingly, we hold that the court properly granted defendant’s motion to dismiss.
+Plaintiff contends the court erred in granting defendant’s motion to dismiss because his motion “failed to give plaintiff reasonable notice of the facts or law upon which it was based.” However, it is well established that “[w]hen the complaint discloses on its face that plaintiffs claim is barred by the statute of limitations, such defect may be taken advantage of by a motion to dismiss under Rule 12(b)(6).” F.D.I. C. v. Loft Apartments, 39 N.C. App. 473, 250 S.E. 2d 693, disc. rev. denied, 297 N.C. 176, 254 S.E. 2d 39 (1979). Defendant’s motion to dismiss specifically alleged that plaintiffs action “as shown on the face of the [cjomplaint was not filed within the time required by the applicable [s]tatute of [^imitations. Accordingly, we hold that defendant properly raised the defense of the statute of limitations by a Rule 12(b)(6) motion to dismiss.
+Affirmed.
+Chief Judge HEDRICK and Judge WEBB concur.
