@@ -1,0 +1,36 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7426SC465"
+decided: "1974-09-04"
+citations: ["23 N.C. App. 1"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chief Judge Brock and Judge Campbell concur."]
+parties: ["PEGGY SELLS MILLER, Individually and as Administratrix of the Estate of WILLIAM HERBERT MILLER v. B. V. BELK, JR., JAMES E. TODD AND JOEL L. KIRKLEY, JR."]
+source_url: "https://static.case.law/nc-app/23/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8547334
+cites_cases: ["18 N.C. App. 70", "196 S.E. 2d 44", "197 S.E. 2d 874", "266 Or. 208", "283 N.C. 665", "381 F. 2d 222"]
+---
+
+# Miller v. Belk
+
+## Majority (HEDRICK, Judge.)
+
+HEDRICK, Judge.
+The gravamen of this appeal is whether the trial court applied the proper measure of damages in determining that defendant is liable to plaintiff in the amount of $9,355.44. The trial judge arrived at this sum by computing the difference between the contract price and the resale price. Defendant contends that the amount of damages awarded was incorrect for the following reasons: (1) the Uniform Commercial Code (Code) controls and consequently a different measure of damages applies; (2) even if the Code does not apply, the general rule is that notice of resale must be given by the seller to the breaching party in order for the resale price to be considered.
+G.S. 25-2-102 of the Uniform Commercial Code defines the scope of Article 2 of the Code as follows: “Unless the context otherwise requires, this article applies to transactions in goods . . . . ” (our emphasis) G.S. 25-2-105 defines “goods” to mean “all things (including specially manufactured goods) which are movable at the time of identification to the contract for sale other than the money in which the price is to be paid, investment securities (Article 8) and things in action . . . . ” Thus, we must determine whether the sale of plaintiff’s laundry and dry cleaning business involves a transaction in goods and comes within the scope of Article 2. Our research discloses that this is a case of first impression in this jurisdiction and that the issue of whether the sale of a business is a transaction in goods and thus subject to Article 2 of the Code is a question which has been discussed in only a handful of cases.
+In Anderson, Uniform Commercial Code, § 2-105:5, pp. 226-27, it is stated that the sale of a business has been held to be a sale of goods within Article 2 of the Code. This authority also notes that “[wjhere the assets of a going concern are sold, Article 2 applies to the transfer with respect to the goods portion although not applicable to the non-goods portion of the transaction . ”
+One of the first cases to face the issue now before us was Foster v. Colorado Radio Corporation, 381 F. 2d 222 (10th Cir.1967). In Foster, supra, the parties entered into a contract to sell a radio station and the buyer breached the contract. The 10th Circuit Court of Appeals held that the Uniform Commercial Code, although not relevant to the sale of non-goods such as goodwill, the radio station’s license, and real property, was applicable to the sale of movable assets, e.g., office equipment and furnishings. In the course of its opinion the Court stated, “It is quite conceivable, however, that a business could be sold in which all the assets aside from goodwill would be goods. Non-application of the Code to the sale of goods in such a case and in our case is, we think, plainly contrary to the intention of the drafters.” Foster, supra, at 226. For another case in which the Code has been held to apply to the sale of a business, see Melms v. Mitchell, 266 Or. 208, 512 P. 2d 1336 (1973).
+It is our view that the sale of the business in the instant case is in reality nothing more than a sale of the equipment, furniture, and other movables of the business and as such is governed by the Code. At no point is there any mention that the sale of the laundry/dry cleaning business involves non-goods such as goodwill, real property, etc.; therefore, we hold the entire sale to be subject to the Code.
+G.S. 25-2-706 delineates one of the remedies available to a seller upon a breach on the part of the buyer. This remedy is resale of the goods which are the subject matter of the breached contract. “Where th[is] resale is made in good faith and in a commercially reasonable manner the seller may recover the difference between the resale price and the contract price together with any incidental damages allowed under the provisions of this article (§ 25-2-710), but less expenses saved in consequence of the buyer’s breach.” G.S. 25-2-706(1). The measure of damages set forth in G.S. 25-2-706(1) is applicable provided the requisites which are enumerated in the remainder of this section of the Code are complied with. These requisites include: (1) that the resale must be commercially reasonable in all respects and (2) where the resale is at a private sale, as is the circumstance in the present case, “the seller must give the buyer reasonable notification of his intention to resell.” G.S. 25-2-706(3). In the case at bar, Judge Ervin made the following relevant finding of fact:
+“26a. That after Kirkley’s breach on July 2, 1972, the Plaintiff decided to resell the business. She was of the belief that she had a cause of action against Kirkley and the other Defendants for breach of contract and she was considering the institution of such an action. Notwithstanding this, the Plaintiff at no time gave Kirkley or the other Defendants any notice of her intention to resell or of the time, place and manner of resale or of any intention on her part to sue the Defendants for the difference between the contract price of $20,100.00 and the amount ultimately realized on resale.”
+This finding, when viewed in light of the notice requirement of G.S. 25-2-706(3), exemplifies the fact that the seller failed to comply with the requisites set forth in G.S. 25-2-706. What is the impact of such noncompliance with the requirements of G.S. 25-2-706? The Official Comment to G.S. 25-2-706 states, in pertinent part:
+“Failure to act properly under this section deprives the seller of the measure of damages here provided and relegates him to that provided in Section 2-708.”
+G.S. 25-2-708 (1) in pertinent part provides:
+“[T]he measure of damages for nonacceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price together with any incidental damages provided in this article (§ 25-2-710), but less expenses saved in consequence of the buyer’s breach.”
+Thus, based on the foregoing analysis, the measure of damages applied by the trial judge (the difference between the contract price and the resale price) was incorrect, and this case must be remanded for further proceedings not inconsistent with this opinion. Furthermore, inasmuch as we have decided that the Code applies to the present transaction, we see no benefit in discussing defendant’s other contention.
+The judgment of the trial court is
+Vacated and remanded.
+Chief Judge Brock and Judge Campbell concur.
