@@ -1,0 +1,30 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "723SC676"
+decided: "1972-12-20"
+citations: ["17 N.C. App. 48"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chief Judge Mallard and Judge Britt concur."]
+parties: ["STATE OF NORTH CAROLINA v. GEORGE STREETER"]
+source_url: "https://static.case.law/nc-app/17/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8553017
+cites_cases: ["392 U.S. 1", "407 U.S. 143"]
+---
+
+# State v. Streeter
+
+## Majority (BROCK, Judge.)
+
+BROCK, Judge.
+While on routine police patrol, Officer Bullock observed defendant standing beside N. C. Highway 43 in a deserted area in the City of Greenville at 2:45 a.m. on 26 October 1971. Defendant, whom the officer did not know, was wearing a blue shirt with long sleeves and a shirttail. The shirttail was hanging below defendant’s waist and outside his trousers. Because of the hour and the proximity of defendant to some business offices, Officer Bullock stopped his police cruiser to inquire about defendant’s identity and purpose for being in the area. Officer Bullock walked around his vehicle and engaged defendant in conversation. While he was talking with defendant, Officer Bullock noticed something bulging under his shirt on the right hand side about where a revolver in a holster would be. Bullock thought the bulging object was a revolver and he reached out and touched it through the cloth of defendant’s shirt. He felt a metal object and the officer believed it was a weapon. Bullock told defendant to stand still, and he raised defendant’s shirttail exposing an assortment of items: a prybar, hammer, screwdriver, flashlight, pair of gloves, and money bag. Defendant was then placed under arrest for possession of burglary tools.
+The officer’s testimony of what he found under defendant’s shirttail was admitted in evidence over defense objections after an adequate voir dire and findings of fact by the trial judge. The items so found by the officer were also admitted in evidence as State’s exhibits over defense objections.
+Defendant contends that the search of his person was illegal because it was in violation of his Fourth Amendment rights, and that the fruits of the search should have been excluded from evidence.
+Defendant does not argue that Officer Bullock could not legally or constitutionally momentarily stop and detain defendant for the purpose of determining his identity and purpose. He is well advised upon this point. “[A] police officer may in appropriate circumstances and in an appropriate manner approach a person for puposes of investigating possible criminal behavior even though there is no probable cause to make an arrest.” Terry v. Ohio, 392 U.S. 1, 20 L.Ed. 2d 889, 88 S.Ct. 1868 (1968); accord, Adams v. Williams, 407 U.S. 143, 32 L.Ed. 2d 612, 92 S.Ct. 1921 (1972). “The Fourth Amendment does not require a policeman who lacks the precise level of information necessary for probable cause to arrest to simply shrug his shoulders and allow a crime to occur or a criminal to escape.” Adams v. Williams, supra. “A brief stop of a suspicious individual, in order to determine his identity or to maintain the status quo momentarily while obtaining more information, may be most reasonable in light of the facts known to the officer at the time.” Adams v. Williams, supra.
+Defendant argues strenuously that the officer had no probable cause to arrest defendant for possession of burglary tools and therefore no right to search for them. The argument that the officer had no probable cause, at the time he stopped defendant, to arrest defendant for anything appears to be sound. However, the argument begs the question. The State does not contend that the search was conducted as an incident of arrest. The search was a protective search, and the incriminating items were exposed when defendant’s shirttail was raised by Officer Bullock for the purpose of seizing what appeared to be a weapon or weapons. “[W]e cannot blind ourselves to the need for law enforcement officers to protect themselves and other prospective victims of violence in situations where they may lack probable cause for an arrest. When an officer is justified in believing that the individual whose suspicious behavior he is investigating at close range is armed and presently dangerous to the officer or to others, it would appear to be clearly unreasonable to deny the officer the power to take necessary measures to determine whether the person is in fact carrying a weapon and to neutralize the threat of physical harm.” Terry v. Ohio, supra. When an officer temporarily detains a person because of suspicious circumstances and has reason to believe that the suspect is armed, he may conduct a weapons search which is limited to the protective purpose. Terry v. Ohio, supra; Adams v. Williams, supra. If, in the conduct of the limited weapons search, contraband or evidence of a crime is of necessity exposed, the officer is not required by the Fourth Amendment to disregard such contraband or evidence of crime.
+Officer Bullock had the right, and we think he had the duty, to temporarily detain the defendant to ascertain his name and his purpose for being in this deserted area at 2:45 a.m. Upon observing a bulge under defendant’s shirttail that appeared to be a pistol or other weapon, Officer Bullock had the right to make a weapons search to protect himself from harm. When he “patted” defendant’s shirt and felt a metal object he clearly had the right, and we think he had the duty, to tell defendant to stand still and to raise his shirttail for the purpose of seizing the suspected weapon. The implements of housebreaking, which of necessity were exposed, gave probable cause for Officer Bullock to arrest defendant for possession of burglary tools.
+We hold that the officer’s testimony and the exhibits were properly admitted as evidence for the State.
+No error.
+Chief Judge Mallard and Judge Britt concur.
