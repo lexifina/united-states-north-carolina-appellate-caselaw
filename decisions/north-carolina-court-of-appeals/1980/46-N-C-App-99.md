@@ -1,0 +1,29 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7923SC879"
+decided: "1980-04-01"
+citations: ["46 N.C. App. 99"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges MARTIN (Robert M.) and ERWIN concur."]
+parties: ["STATE OF NORTH CAROLINA v. JULIUS BILL CARSON, JR."]
+source_url: "https://static.case.law/nc-app/46/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549248
+cites_cases: ["229 S.E. 2d 562", "235 S.E. 2d 828", "238 S.E. 2d 509", "248 S.E. 2d 241", "291 N.C. 73", "293 N.C. 105", "293 N.C. 394", "295 N.C. 584", "440 U.S. 984", "60 L.Ed. 2d 246", "99 S.Ct. 1797"]
+---
+
+# State v. Carson
+
+## Majority (WELLS, Judge.)
+
+WELLS, Judge.
+Defendant assigns as error the trial court’s denial of his motion for appointment of a private investigator. Defendant was arrested and arraigned on 22 January 1979. The indictment was handed down on 9 April 1979. On 3 April 1979, defendant moved through his court appointed counsel for an order requiring the State to furnish him with a private investigator to assist him in the preparation of his defense and in locating material witnesses. In his motion, defendant alleged that despite diligent efforts of defendant and his counsel, they had been unable to locate two witnesses material to defendant’s defense and that the testimony of the witnesses would establish defendant’s alibi. Defendant stated that he was indigent and financially unable to employ a trained criminal investigator, and that neither defendant nor his counsel had sufficient expertise in the area of criminal investigation to locate the witnesses. In State v. Tatum, 291 N.C. 73, 229 S.E. 2d 562 (1976), our Supreme Court held that the decision as to whether to appoint a private investigator for an indigent defendant rests within the sound discretion of the trial judge, and that such an appointment should be made with caution and only upon a clear showing that specific evidence is reasonably available and necessary for a proper defense.
+While we recognize that in many circumstances, the help of an investigator may be critical to the preparation of an adequate defense, it does not appear that this defendant has made out such a case. Defendant’s allegations and representations as to the identity of one of the witnesses were so vague as to suggest on their face that a search for him would be futile. As to the other witness, it would appear that his whereabouts were well-enough known to defendant and his counsel to enable them, with due diligence, to locate him without further assistance. Additionally, we note that defendant was arrested on 22 January 1979, three days after commission of the crimes with which he was charged. Yet, defendant offered no testimony in support of his alibi from employees of the B & D Quik Stop, where defendant contends he spent three consecutive hours on the afternoon the crime was committed. We conclude that the trial court did not abuse its discretion by denying defendant’s request.
+On 3 April 1979, defendant also moved the court to sequester the State’s witnesses. The motion came on for hearing on 9 April 1979, at which time defendant presented three other motions to the court. The court ruled on the other three motions but, without objection, reserved ruling on the motion to sequester until trial. When the cause came on for trial on 11 June 1979, the motion to sequester was not raised by defendant’s counsel, nor was any objection made to the court’s failure to sequester. Under these circumstances, we believe that defendant has waived his right to raise the propriety of the trial court’s failure to order sequestration. Additionally, the sequestration of witnesses is a matter of discretion on the part of the trial court. State v. Mason, 295 N.C. 584, 248 S.E. 2d 241 (1978), cert. denied, 440 U.S. 984, 60 L.Ed. 2d 246, 99 S.Ct. 1797 (1979). The testimony of the Call brothers reveals that each independently viewed defendant, and accordingly, the opportunity for collusion was slight. Under these circumstances we do not believe the trial court’s denial of sequestration constituted an abuse of discretion. See, State v. Willard, 293 N.C. 394, 238 S.E. 2d 509 (1977).
+Defendant also assigns as error the denial of his motion for an order directing the court to submit to an in camera inspection of all statements made by the State’s witnesses prior to trial, and to disclose the contents of such statements to defendant prior to defendant’s cross-examination of each such witness. The trial court declined to rule on the motion when it was first heard on 9 April 1979, noting that it could be renewed at trial. Defendant agreed to this. At trial, the motion was renewed and the trial court ruled that upon defendant’s request, he would permit in camera inspection of the statement of any witness who testified. Defendant’s counsel agreed, although defendant made no request during the trial for any such inspection. No such statements are included in the record.
+We agree that under the authority of State v. Hardy, 293 N.C. 105, 235 S.E. 2d 828 (1977), defendant’s entitlement to have any such statements reviewed by the court for appropriate disposition cannot be questioned. In that defendant has not shown whether any such statements existed or what they contained, we are bound to follow the directive of our Supreme Court in Hardy, that an appellate court cannot award a new trial based on pure speculation as to what the statements might have contained.
+We have carefully reviewed defendant’s remaining assignments of error, including those relating to the charge and allegedly improper statements which the court made to the jury, and find that they are without merit.
+No error.
+Judges MARTIN (Robert M.) and ERWIN concur.
