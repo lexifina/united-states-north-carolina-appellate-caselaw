@@ -1,0 +1,35 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "687SC270"
+decided: "1968-12-11"
+citations: ["3 N.C. App. 189"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Campbell and Moebis, JJ., concur."]
+parties: ["STATE OF NORTH CAROLINA v. GARLAND LANGLEY"]
+source_url: "https://static.case.law/nc-app/3/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8553887
+cites_cases: ["103 S.E. 2d 376", "154 S.E. 2d 476", "154 S.E. 2d 53", "243 N.C. 754", "248 N.C. 282", "270 N.C. 241", "270 N.C. 348", "92 S.E. 2d 177"]
+---
+
+# State v. Langley
+
+## Majority (MallaRD, C.J.)
+
+MallaRD, C.J.
+Defendant was represented by his attorney, Harold D. Cooley, at the probation revocation hearing held on Monday, 25 March 1968. The probation officer had notified defendant in writing of the alleged violation of the probation judgment on Friday, 22 March 1968, and instructed him to be in court on 25 March 1968. Defendant refused to sign the instrument submitted to him by the probation officer acknowledging receipt of the notice. It is not a requisite to the validity of the service of the notice that the defendant sign it. The statute requires that the probation officer, or other named official, “shall inform the probationer in writing of his intention to pray the court to revoke probation or suspension and to put the suspended sentence into effect, and shall set forth in writing the grounds upon which revocation is prayed.” G.S. 15-200.1. When a defendant is not arrested pursuant to G.S. 15-200, we think that it would be the better practice for the written notice of the probation officer to contain at least the date, time, and place of the session of court at which the probation officer intends to pray the court to revoke the probation and to put the suspended sentence into effect. However, when a defendant voluntarily appears at the appointed time and place and participates in the hearing as the defendant did in this case, he is not prejudiced by the failure of the written notice to contain such information.
+Defendant contends that the court committed error in failing to allow his oral motion for a continuance. The motion for continuance, in order to have another attorney present, made by one of defendant’s attorneys, was addressed to the sound discretion of Judge Parker, and no abuse of discretion is shown. State v. Hewett, 270 N.C. 348, 154 S.E. 2d 476.
+Defendant assigns as error the admission into evidence of the report of the probation officer. The verified report of the probation officer asserted that the defendant had violated the condition of probation that he shall “violate no penal law of any State or the Federal Government and be of general good behavior.” The probation officer was present at the hearing and was cross-examined by counsel for the defendant. This assignment of error is overruled. State v. Duncan, 270 N.C. 241, 154 S.E. 2d 53.
+Defendant contends that the trial judge committed error in taking judicial notice of the terms and conditions of the defendant’s suspended sentence and conditions of probation without the State having introduced the judgment in evidence. In State v. Duncan, supra, it is said, "Proceedings to revoke probation are often regarded as informal or summary.” When the judge holding the revocation hearing has the probation judgment before him, it is not necessary to formally introduce it into evidence. However, some reference to the judgment and the specific terms thereof that the defendant is alleged to have violated should appear in the record of the hearing.
+Defendant excepted to the entry of the order of revocation and assigns it as error. Defendant argues and contends that the trial court did not find sufficient facts to support the order revoking probation and putting a three-year suspended sentence into effect. “The exception to the judgment challenges the sufficiency of the findings of fact by the judge to support his judgment putting the six months jail sentence into effect.” State v. Robinson, 248 N.C. 282, 103 S.E. 2d 376.
+£7] The only facts found by the trial judge are that the defendant “has failed and refused to comply with and has willfully violated the terms of his suspended sentence heretofore entered by the Hon. Elbert S. Peel, Jr., Judge Presiding at the May 31, 1966, Superior Court of Nash County.”
+Although the order revokes a “probationary sentence,” the fact found was that the defendant had violated “his suspended sentence.” There is no finding by the judge as to what were the terms of “his suspended sentence” or probationary sentence or whether one was still in effect. There is no finding in what manner the defendant may have violated the conditions imposed.
+In State v. Davis, 243 N.C. 754, 92 S.E. 2d 177, which involved the revocation of a sentence suspended upon certain conditions, the Court said:
+“Ordinarily, in hearings of this character, the findings of fact and the judgment entered thereupon are matters to be determined in the sound discretion of the court, and the exercise of that discretion in the absence of gross abuse cannot be reviewed here, (citations omitted) But, where the finding of the court does not state wherein a defendant has violated the conditions and there is a question as to the validity of one or more of the conditions imposed, the defendant is entitled to have the cause remanded for a specific finding as to wherein he has violated the conditions upon which the sentence was suspended. It is only by such a finding that a defendant may be able to test the validity of a condition he believes to be illegal and void in the event the purported violation is based on such condition.”
+In the case under consideration, there is no question raised as to the validity of any of the conditions of the probation judgment. However, in the order entered by Judge Parker there is no reference to a violation of any specific condition of the probation judgment.
+The Attorney General argues that it is clear that the defendant was under a probationary judgment imposed after he had pleaded nolo contendere to violations of the liquor laws and that on this hearing the evidence of two men, in open court, and the probation officer’s report was sufficient evidence to find another violation of the liquor laws by the defendant. Conceding this to be true, there is no specific finding to that effect.
+“The judge’s findings of fact should be definite and not mere conclusions.” State v. Robinson, supra. It is ordered that the order revoking the probation judgment putting the prison term into effect be vacated. This proceeding is remanded for further hearing for the judge, in the exercise of his discretion, to determine and set out in his order whether the defendant has violated the terms of the probation judgment, and if so, what specific condition or conditions therein he has violated.
+Remanded.
+Campbell and Moebis, JJ., concur.
