@@ -1,0 +1,33 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "683SC433"
+decided: "1968-12-11"
+citations: ["3 N.C. App. 196"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BRitt and Parker, JJ., concur."]
+parties: ["STATE OF NORTH CAROLINA v. CLARENCE FARRELL, JR."]
+source_url: "https://static.case.law/nc-app/3/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8553960
+cites_cases: ["1 N.C. App. 192", "160 S.E. 2d 547"]
+---
+
+# State v. Farrell
+
+## Majority (BROCK, J.)
+
+BROCK, J.
+Both the judgment and the notice of appeal were entered in the Superior Court on 17 May 1968. At that time Judge Peel entered an order allowing defendant 60 days to serve case on appeal and allowed the State 30 days thereafter to serve countercase or exceptions. If the full time allowed by this order had been used, the record on appeal could not reasonably have been docketed in this Court within the 90 days required by our rules.
+We reiterate here what we explained in Smith v. Starnes, 1 N.C. App. 192, 160 S.E. 2d 547:
+“The judgment appealed from in this case was signed on the 4th day of November 1967. The record on appeal was docketed in the Court of Appeals on the 4th day of March 1968. This was 31 days too late, and therefore subject to dismissal. Rule 5 of the Buies of Practice in the Court of Appeals pf North Carolina provides in part as follows:
+‘If the record on appeal is not docketed within ninety days after the date of the judgment, order, decree, or determination appealed from, the case may be dismissed under Rule 17, if the appellee shall file a proper certificate prior to the docketing of such record on appeal; provided, the trial tribunal may, for good cause, extend the time not exceeding sixty days, for docketing the record on appeal.’ (Emphasis added.)
+“The time for docketing the record on appeal in the Court of Appeals is determined by Rule 5, supra, and should not be confused with the time allowed for serving case on appeal and the time allowed for serving countercase or exceptions. The case on appeal, and the countercase or exceptions, and the settlement of case on appeal by the trial tribunal must all be accomplished within a time which will allow docketing of the record on appeal within the time allowed under Rule 5. The trial tribunal, upon motion by appellant, and upon a finding of good cause therefor, may enter an order extending the time for docketing the record on appeal in the Court of Appeals not exceeding a period of 60 days beyond the 90 days provided by Rule 5. However, this cannot be accomplished by an order allowing additional time! to serve case on appeal.”
+In addition to the original order setting the time for service of case on appeal, on 15 July 1968 defendant obtained an order allowing him an additional 30 days to serve his case on appeal. Thereafter, on 15 August 1968, he obtained another order further allowing him an additional 30 days to serve case on appeal, and allowing the State 30 days thereafter to serve countercase or exceptions. (Each of these extensions of time was consented to by the Solicitor and upon this record we make no decision whether the trial judge has the authority under G.S. 1-282, with or without the consent of the parties, to extend the time for serving case on appeal beyond that contained in the original order extending the statutory time.) With the entry of the last order extending time to serve case on appeal, the defendant had obtained a total of 120 days to serve his case on appeal with the State allowed 30 days thereafter to serve counter-case or exceptions. If the parties were to use all of the time allowed, this would constitute 150 days before the record on appeal could be ready for docketing in this Court; and longer than 150 days if it became necessary for the trial judge to settle the case on appeal.
+At no time did defendant secure an order, upon a showing of good cause, for an extension of time to docket the record on appeal in this Court. But, had he done so, the trial tribunal would have been authorized only to extend the time for docketing not exceeding a period of 60 days beyond the 90 days provided by Ride 5, supra. The judgment appealed from was entered 17 May 1968, and had the defendant obtained an order extending the time to docket for the full 60 days beyond the 90 days provided by Rule 5, supra, the time for docketing the record on appeal in this Court would have expired on 14 October 1968. The defendant docketed his record on appeal in this court on 17 October 1968. So, in any event, he would be late in docketing his record on appeal.
+Presumably counsel prepared the appeal entries, and also prepared the orders extending time for serving case on appeal. Counsel is responsible for making certain that appellate rules are complied with. The Rules of Practice in the Court of Appeals of North Carolina were adopted by the Supreme Court of North Carolina on 25 September 1967, and copies were immediately distributed by the Clerk of this Court to the Clerks of the Superior Courts for use by the members of the Bar. The North Carolina Bar Association published our Rules in its November 1967 issue of Bar Notes. Our Rules were also published in pamphlet No. 4 of the Advance Sheets for Vol. 271 of the North Carolina Reports. Also, in 1967 West Publishing Company published a pamphlet containing the Rules and distributed them to its subscribers in this State. In addition, copies of the Rules have been at all times available by simply writing or calling the Clerk of this Court. We must assume, therefore, that all members of the Bar of this State have had copies of our Rules, or have had them available, for a sufficient length of time to enable compliance.
+The Rules of Practice in the Appellate Division of The General Court of Justice are mandatory, not directory, and must be uniformly enforced. Neither the judges, nor the solicitors, nor the attorneys, nor the parties have the right to ignore or dispense with the rule requiring docketing within the time prescribed. If the rules are not complied with, this Court may ex mero motu dismiss the appeal. Carter v. Board of Alcoholic Control, No. 519, Fall Term 1968, N. C. Supreme Court, filed 20 November 1968. And for failure to docket the record on appeal within the time prescribed by the rules, this appeal should be dismissed ex mero motu.
+Nevertheless, in an effort to determine that justice is done, we have reviewed the record before us with respect to the assignments of error brought forward for review, and we find no prejudicial error.
+No error.
+BRitt and Parker, JJ., concur.
