@@ -1,0 +1,31 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "754SC148"
+decided: "1975-05-21"
+citations: ["26 N.C. App. 10"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Morris and Vaughn concur."]
+parties: ["STATE OF NORTH CAROLINA v. LIONELL C. SKINNER, JR."]
+source_url: "https://static.case.law/nc-app/26/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8548917
+cites_cases: ["152 S.E. 2d 453", "160 S.E. 2d 697", "165 S.E. 2d 328", "167 S.E. 2d 241", "179 S.E. 2d 388", "181 S.E. 2d 572", "185 S.E. 2d 652", "205 S.E. 2d 571", "206 S.E. 2d 783", "21 N.C. App. 679", "22 N.C. App. 502", "230 N.C. 312", "233 N.C. 577", "269 N.C. 307", "273 N.C. 533", "275 N.C. 108", "275 N.C. 288", "278 N.C. 199", "279 N.C. 18", "280 N.C. 181", "52 S.E. 2d 895", "64 S.E. 2d 867"]
+---
+
+# State v. Skinner
+
+## Majority (CLARK, Judge.)
+
+CLARK, Judge.
+The defendant contends that the admission of the three photographs of the deceased’s body to illustrate the testimony of SBI Agent Marshall was error, not so much because they were gruesome, but because the number admitted was excessive. In State v. Mercer, 275 N.C. 108, 165 S.E. 2d 328 (1969), four photographs were admitted depicting the dead body of the victim of an alleged murder and a pool of blood on a bed beside the body of another victim. The court stated that “[t]hese four photographs, which depict substantially the same scene, were competent to illustrate the testimony. Whether all or a less number should have been admitted was for determination by the trial judge in the exercise of his discretion.” 275 N.C. at 120. It was only after a number of additional photographs were introduced of the same import that the Supreme' Court found abuse. In light of the Mercer case, we discern no basis for defendant’s claim that the trial court abused its discretion. The photographs were relevant and material to illustrate a witness’s testimony with regard to condition of the body, location of the wound, and .depiction of the general scene of the crime. That they were gory or gruesome will not alone render them inadmissible. See State v. Frazier, 280 N.C. 181, 185 S.E. 2d 652 (1972) ; State v. Westbrook, 279 N.C. 18, 181 S.E. 2d 572 (1971) ; and State v. Atkinson, 275 N.C. 288, 167 S.E. 2d 241 (1969).
+In the charge to the jury the trial court instructed upon the defense of accident which arose from the evidence adduced at trial and concluded that portion of his charge as follows:
+“In determining whether you have a reasonable doubt of his guilt, it is proper for you to consider the evidence relating to accident both the evidence of the State as well as or rather the defendant as well as that of the State.”
+The defendant contends that this instruction improperly restricted the jury to the evidence of accident in their deliberation as to whether a reasonable doubt of defendant’s guilt existed. He cites State v. Braxton, 230 N.C. 312, 52 S.E. 2d 895 (1949). However, read contextually, it is clear that this instruction dealt only with the clarification of the evidence of accident and did not purport, as the defendant contends, to restrict the jury to that evidence alone in determining guilt or innocence. The court repeated on some nine other occasions the burden resting upon the State to satisfy them beyond a reasonable doubt of defendant’s guilt. In State v. Braxton, supra, a reasonable doubt was one defined in pertinent part as one “based upon reason and common sense and growing out of the evidence in the case.” This instruction was found prejudicial in that it did not allow the jury to find a reasonable doubt based upon a lack of the evidence. It appears from later cases that it is only when this “growing out of the evidence” language or language of the same import is used that an instruction without adding “or lack of the evidence” will be held prejudicial. State v. Butler, 21 N.C. App. 679, 205 S.E. 2d 571 (1974). We find of particular interest a model instruction on the defense of alibi approved by our Supreme Court in State v. Bridgers, 233 N.C. 577, 580, 64 S.E. 2d 867, 870 (1951), to wit:
+“ . . . [T]he defendant’s evidence of alibi is to be considered by you like any other evidence tending to refute or disprove the evidence of the State. And if upon consideration of all the evidence in the case, including the defendant’s evidence in respect to' alibi, there arises in your minds a reasonable doubt as to the defendant’s guilt, he should be acquitted.”
+Read contextually, we believe that the charge in the present case substantially complied in principle with that charge suggested above. Consequently, we find no prejudice.
+The defendant further contends that the trial court erred in accepting the verdict of the jury finding the defendant guilty of “manslaughter” without a specification that it was voluntary or involuntary. In its charge to the jury, the trial court instructed on the distinctions between “manslaughter” and “involuntary manslaughter,” without mentioning the term “voluntary” with refrence to “manslaughter”; and the court fully instructed the jury on the elements of voluntary manslaughter and in the final mandate charged that the jury must find beyond a reasonable doubt all of these factual elements before it could return a verdict of guilty of “manslaughter”. In these circumstances, there could be no question that when the jury returned a verdict of guilty of “manslaughter,” they found in fact that the defendant was guilty of the crime of voluntary manslaughter. It is well settled in this jurisdiction that the verdict should be taken in connection with the issues being tried, the evidence, and the charge of the court. State v. Benfield, 278 N.C. 199, 179 S.E. 2d 388 (1971) ; Davis v. State, 273 N.C. 533, 160 S.E. 2d 697 (1968) ; State v. Childs, 269 N.C. 307, 152 S.E. 2d 453 (1967) ; and State v. Williams, 22 N.C. App. 502, 206 S.E. 2d 783 (1974). Read in connection with the instructions, we find no ambiguity in the verdict.
+The defendant’s remaining assignments of error are without merit. Consequently, in the trial below, we find
+No error.
+Judges Morris and Vaughn concur.
