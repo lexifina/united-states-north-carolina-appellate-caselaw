@@ -1,0 +1,32 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "7726SC679"
+decided: "1978-06-20"
+citations: ["37 N.C. App. 33"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges PARKER and MITCHELL concur."]
+parties: ["ROSS REALTY COMPANY v. FIRST CITIZENS BANK & TRUST COMPANY, as Trustee of the Profit-Sharing Retirement Plan and Trust of Thermo Industries, Inc. and Affiliated Companies"]
+source_url: "https://static.case.law/nc-app/37/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8550198
+cites_cases: ["209 S.E. 2d 754", "217 N.C. 486", "232 S.E. 2d 870", "259 Or. 182", "286 N.C. 148", "32 N.C. App. 597", "35 N.C. L. Rev. 492", "65 Or. 450", "8 S.E. 2d 601"]
+---
+
+# Ross Realty Co. v. First Citizens Bank & Trust Co.
+
+## Majority (HEDRICK, Judge.)
+
+HEDRICK, Judge.
+The sole question presented on this appeal is whether G.S. 45-21.38 bars an action on a purchase money note for the full purchase price of real property. The pertinent statute, G.S. 45-21.38, provides:
+Deficiency judgments abolished where mortgage represents part of purchase price. —In all sales of real property by mortgagees and/or trustees under powers of sale contained in any mortgage or deed of trust executed after February 6, 1933, or where judgment or decree is given for the foreclosure of any mortgage executed after February 6, 1933, to secure to the seller the payment of the balance of the purchase price of real property, the mortgagee or trustee or holder of the notes secured by such mortgage or deed of trust shall not be entitled to a deficiency judgment on account of such mortgage, deed of trust or obligation secured by the same: Provided, said evidence of indebtedness shows upon the face that it is for balance of purchase money for real estate: ....
+The defendant apparently recognizes that the proscription in the foregoing statute is by its terms applicable only to deficiency judgments attendant to the foreclosure of purchase-money mortgages or deeds of trust on real property. It argues, however, that in suing on the note for the full purchase price of the property, the plaintiff is accomplishing indirectly that which is forbidden by the statute and is thereby violating the spirit of the statute.
+In Gambill v. Bare, 32 N.C. App. 597, 232 S.E. 2d 870 (1977), the very question raised by the defendant in this case was presented to this Court by a defendant under similar circumstances. However, determination of the question was deemed unnecessary when the Court found that neither the note nor the deed of trust executed by the parties indicated on its face that it represented the balance of the purchase price of the real property conveyed. Thus, in the 45 years since the enactment of G.S. 45-21.38 the question of whether the statute bars suit on the purchase money note for the full purchase price of the property has not been resolved by the courts of this state.
+We think the resolution of the question is dictated by the literal terms of the statute. It is a common rule of statutory construction that “ ‘[w]here the language of a statute is clear and unambiguous, there is no room for judicial construction and the courts must give it its plain and definite meaning, and are without power to interpolate, or superimpose, provisions and limitations not contained therein.’ ” State v. Camp, 286 N.C. 148, 152, 209 S.E. 2d 754, 756 (1974). The statute clearly limits its application to bar a deficiency judgment which is sought subsequent to the foreclosure of a purchase money mortgage or deed of trust on real property. Thus, even were we inclined to accept defendant’s argument that the plaintiff’s action on the note violates the spirit of G.S. 45-21.38, we would be powerless to expand the obvious scope of the statute.
+Our Supreme Court seemed to foreshadow this result in Brown v. Kirkpatrick, 217 N.C. 486, 8 S.E. 2d 601 (1940). In that case the court held that the holder of a purchase money note secured by a second mortgage could sue on the note subsequent to the sale of the property under the prior mortgage. More significant for our purpose was the court’s reliance on a case decided by the Oregon Supreme Court, Page v. Ford, 65 Or. 450, 131 P. 1013 (1913). The Oregon court in a factual setting identical to that of the present case held that a statute substantially similar to our own was inapplicable to an action on the note for the full purchase price. See also Banteir v. Harrison, 259 Or. 182, 485 P. 2d 1073 (1971).
+We hold that G.S. 45-21.38 which proscribes a deficiency judgment after the foreclosure of a purchase money deed of trust has no application to a suit on the underlying obligation where there has been no foreclosure.
+We acknowledge that the statute creates an anomalous situation in that a creditor, who would be barred from a deficiency judgment if he elected to pursue his remedy of foreclosure, can in the alternative sue on the note for the full purchase price and perhaps issue execution to collect the judgment against the subject property of the defaulting purchaser. One writer suggests that the impact of this situation could be reduced by adopting the limitation imposed on creditors by the Oregon court which imputes a waiver of the creditor’s right of foreclosure when he sues on the note. See Note, 35 N.C. L. Rev. 492 (1957). Without expressing any view on the Oregon limitation, we think that the broad construction of the statute which the defendant urges would produce an intolerable result. To hold that the seller’s remedy for breach of the sales contract is limited to foreclosure of the land conveyed would be tantamount to conferring on a purchaser of property who executes a purchase money deed of trust the right to unilaterally rescind his contract when he deems it advantageous to do so. Such a result could be no more clearly illustrated than by the present case in which the defendant at the time of its default attempted to return the deed to the property to the plaintiff. While our literal construction of G.S. 45-21.38 preserves an alternative remedy for a creditor seeking to recover the full purchase price, we think the defendant’s construction would encourage sellers of real property to discontinue their use of purchase money deeds of trust altogether.
+We hold that G.S. 45-21.38 is inapplicable to the facts of this case. Summary judgment for plaintiff is affirmed.
+Affirmed.
+Judges PARKER and MITCHELL concur.
