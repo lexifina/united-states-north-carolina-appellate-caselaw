@@ -1,0 +1,31 @@
+---
+court: "North Carolina Court of Appeals"
+docket: "795DC743"
+decided: "1980-04-01"
+citations: ["46 N.C. App. 67"]
+reporter: "nc-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chief Judge MORRIS and Judge ARNOLD concur."]
+parties: ["H. P. LAING v. LIBERTY LOAN COMPANY OF SMITHFIELD AND ALBEMARLE"]
+source_url: "https://static.case.law/nc-app/46/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549082
+cites_cases: ["251 S.E. 2d 885", "254 S.E. 2d 921", "297 N.C. 304", "357 U.S. 197", "39 N.C. App. 721", "422 F. 2d 470"]
+---
+
+# Laing v. Liberty Loan Co.
+
+## Majority (VAUGHN, Judge.)
+
+VAUGHN, Judge.
+The issue raised by this case is whether the trial court acted properly in striking defendant’s answer and entering judgment by default. We hold the trial court properly applied the discretionary powers of sanction for discovery abuse provided in Rule 37 of the North Carolina Rules of Civil Procedure.
+Plaintiff has alleged performance of a contract to provide legal service, and defendant has never really denied this contract and its performance. To prove his damages, plaintiff would have to show money was collected on the thirty-seven judgments he obtained. Business records and documents consisting of notes, security agreements and payment cards held by defendant could provide this information. He sought this information through discovery procedures. To his interrogatories seeking the amounts and dates of payments on the loans, for all but eleven of the loans, defendant answered “[n]o monies were paid.” Then, when the documentary evidence for those loans on which “[n]o monies were paid” was sought through voluntary production, the information sought became unavailable. Plaintiff sought and obtained a court order to produce these documents to which defendant made no response. At the sanctions hearing, defendant’s attorney made the unverified statement on oral argument that the business documents sought which were no more than four years old were no longer in existence. Upon these circumstances, the trial court invoked one of the most severe sanctions pursuant to Rule 37 which provides in pertinent part the following.
+If a party or an officer, director, or managing agent of a party or a person designated under Rule 30(b)(6) or 31(a) to testify on behalf of a party fails to obey an order to provide or permit discovery, including an order made under section (a) of this rule or Rule 35, a judge of the court in which the action is pending may make such orders in regard to the failure as are just, and among others the following:
+c. An order striking out pleadings or parts thereof, or staying further proceedings until the order is obeyed, or dismissing the action or proceeding or any part thereof, or rendering a judgment by default against the disobedient party.
+G.S. 1A-1, Rule 37(b)(2)c. The trial court has issued an order pursuant to section (a) of Rule 37 which was ignored. The trial court sanctioned defendant for this. The rule provides that the trial court “may make such orders in regard to the failure as are just. . . .” G.S. 1A-1, Rule 37(b)(2). The issue is whether the trial court abused its discretion and entered an unjust order striking defendant’s answers and entering default judgment for plaintiff.
+The rule is very flexible and gives a broad discretion to the trial judge. Telegraph Co. v. Griffin, 39 N.C. App. 721, 251 S.E. 2d 885, cert. den., 297 N.C. 304, 254 S.E. 2d 921 (1979). If a party’s failure to produce is shown to be due to inability fostered neither by its own conduct nor by circumstances within its control, it is exempt from the sanctions of the rule. The rule does not require the impossible. It does require a good faith effort at compliance with the court order. Societe Internationale v. Rogers, 357 U.S. 197, 78 S.Ct. 1087, 2 L.Ed. 2d 1255 (1958). In the case at hand, defendant made no good faith effort to comply with the order. No protective order was sought pursuant to G.S. 1A-1, Rule 26(c) against discovery of the material. No response was made by defendant to the motion seeking an order to produce, and the order itself was ignored. All these procedures are provided to benefit defendant. It took advantage of none of them. Defendant’s own inactions and not the actions of the court in enforcing its own valid processes resulted in a failure to have the case heard on the merits or any deprivation or loss of property. There is no showing that defendant was punished for failure to do something it could not do. Defendant’s counsel’s unverified, unsworn statement at oral argument is insufficient response to an order to produce. The general replies originally made to interrogatories and requests for production also present insufficient excuses for not heeding the order. Amplification and explanation is needed as to why no information on all but eleven of the thirty-seven accounts is the best information available. See Norman v. Young, 422 F. 2d 470 (10th Cir. 1970); Shuford, N.C. Practice § 37-10 (1975).
+We also note that we have an incomplete record of the case before us. The default judgment was based in part on a request for admissions filed by plaintiff pursuant to G.S. 1A-1, Rule 36 which defendant had not admitted or denied. The trial court deemed the matters admitted as defendant had neither answered nor objected to the request. This request for admissions was not included in the record on appeal but was made a part of defendant’s petition for certiorari which was allowed after defendant let his time for perfecting the appeal expire. On examination, these admissions by defendant have more of an impact than his refusal to produce the documents. By failing to respond, he has admitted every essential element of plaintiff’s claim except the actual amount plaintiff is entitled to for his services.
+In summary, we discern no abuse of discretion on the part of the trial court. Rather, we are presented with a defendant who committed dilatory, inconsiderate and reprehensible abuse of the discovery process for which it was justly sanctioned. Defendant was not denied due process of law.
+Affirmed.
+Chief Judge MORRIS and Judge ARNOLD concur.
